@@ -1,0 +1,79 @@
+Added Component: Designator=ERR1(HDR1X3)
+Added Component: Designator=ERR2(HDR1X3)
+Added Component: Designator=INV-1(HDR1X3)
+Added Component: Designator=INV-2(HDR1X3)
+Added Component: Designator=N_P-1(HDR1X2)
+Added Component: Designator=N_P-2(HDR1X2)
+Added Component: Designator=U1(DIP-16-Ceramic-HT)
+Added Component: Designator=U2(DIP-16-Ceramic-HT)
+Added Pin To Net: NetName=GND Pin=INV-1-3
+Added Pin To Net: NetName=GND Pin=INV-2-3
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Net: Name=GND
+Added Pin To Net: NetName=NetERR1_1 Pin=ERR1-1
+Added Net: Name=NetERR1_1
+Added Pin To Net: NetName=NetERR1_2 Pin=ERR1-2
+Added Pin To Net: NetName=NetERR1_2 Pin=U1-1
+Added Net: Name=NetERR1_2
+Added Pin To Net: NetName=NetERR2_1 Pin=ERR2-1
+Added Net: Name=NetERR2_1
+Added Pin To Net: NetName=NetERR2_2 Pin=ERR2-2
+Added Pin To Net: NetName=NetERR2_2 Pin=U2-1
+Added Net: Name=NetERR2_2
+Added Pin To Net: NetName=NetINV-1_1 Pin=INV-1-1
+Added Net: Name=NetINV-1_1
+Added Pin To Net: NetName=NetINV-1_2 Pin=INV-1-2
+Added Pin To Net: NetName=NetINV-1_2 Pin=U1-2
+Added Net: Name=NetINV-1_2
+Added Pin To Net: NetName=NetINV-2_1 Pin=INV-2-1
+Added Net: Name=NetINV-2_1
+Added Pin To Net: NetName=NetINV-2_2 Pin=INV-2-2
+Added Pin To Net: NetName=NetINV-2_2 Pin=U2-2
+Added Net: Name=NetINV-2_2
+Added Pin To Net: NetName=NetN_P-1_1 Pin=N_P-1-1
+Added Pin To Net: NetName=NetN_P-1_1 Pin=U1-7
+Added Net: Name=NetN_P-1_1
+Added Pin To Net: NetName=NetN_P-1_2 Pin=N_P-1-2
+Added Pin To Net: NetName=NetN_P-1_2 Pin=U1-4
+Added Net: Name=NetN_P-1_2
+Added Pin To Net: NetName=NetN_P-2_1 Pin=N_P-2-1
+Added Pin To Net: NetName=NetN_P-2_1 Pin=U2-7
+Added Net: Name=NetN_P-2_1
+Added Pin To Net: NetName=NetN_P-2_2 Pin=N_P-2-2
+Added Pin To Net: NetName=NetN_P-2_2 Pin=U2-4
+Added Net: Name=NetN_P-2_2
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Net: Name=NetU1_8
+Added Pin To Net: NetName=NetU1_9 Pin=U1-9
+Added Pin To Net: NetName=NetU1_9 Pin=U1-10
+Added Net: Name=NetU1_9
+Added Pin To Net: NetName=NetU1_16 Pin=U1-16
+Added Net: Name=NetU1_16
+Added Pin To Net: NetName=NetU2_8 Pin=U2-8
+Added Net: Name=NetU2_8
+Added Pin To Net: NetName=NetU2_9 Pin=U2-9
+Added Pin To Net: NetName=NetU2_9 Pin=U2-10
+Added Net: Name=NetU2_9
+Added Pin To Net: NetName=NetU2_16 Pin=U2-16
+Added Net: Name=NetU2_16
+Added Pin To Net: NetName=PVDD Pin=U1-11
+Added Pin To Net: NetName=PVDD Pin=U1-12
+Added Pin To Net: NetName=PVDD Pin=U1-13
+Added Pin To Net: NetName=PVDD Pin=U2-11
+Added Pin To Net: NetName=PVDD Pin=U2-12
+Added Pin To Net: NetName=PVDD Pin=U2-13
+Added Net: Name=PVDD
+Added Pin To Net: NetName=VCC Pin=ERR1-3
+Added Pin To Net: NetName=VCC Pin=ERR2-3
+Added Pin To Net: NetName=VCC Pin=U1-14
+Added Pin To Net: NetName=VCC Pin=U1-15
+Added Pin To Net: NetName=VCC Pin=U2-14
+Added Pin To Net: NetName=VCC Pin=U2-15
+Added Net: Name=VCC
+Added Class: Name=DVT-Discrete
+Added Room: Name=DVT-Discrete

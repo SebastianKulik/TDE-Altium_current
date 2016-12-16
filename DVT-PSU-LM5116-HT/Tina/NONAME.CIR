@@ -1,0 +1,24 @@
+NONAME (PSpice format)
+**************************************
+**  This file was created by TINA   **
+**         www.tina.com             ** 
+**      (c) DesignSoft, Inc.        **          
+**     www.designsoftware.com       **
+**************************************
+.LIB "C:\Program Files (x86)\DesignSoft\Tina 9 - TI\EXAMPLES\SPICE\TSPICE.LIB"
+.LIB "C:\Program Files (x86)\DesignSoft\Tina 9 - TI\SPICELIB\Operational Amplifiers.LIB"
+.LIB
+.TEMP 27
+.AC DEC 20 10 1MEG
+.TRAN 2N 1U
+
+.OPTIONS ITL1=1000 ITL2=40 ITL4=20 
+
+XU1         10 4 5 3 1 2 8 9 7 6 21 14 15 13 11 12 17 18 16 19 20 LM5116_TRANS
+
+
+.LIB "C:\Program Files (x86)\DesignSoft\Tina 9 - TI\SPICELIB\LM5116_TRANS.LIB"
+* SUBCKT: LM5116_TRANS encrypted macro, content not displayed
+
+
+.END

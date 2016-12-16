@@ -1,0 +1,7 @@
+***********************************
+*     Created by WB Importer      *
+***********************************
+.subckt LM5116_BUCK_BLOCK_WB_LM5116_BUCK_BLOCK_WITH_RRAMP_Cboot 11 14
+Cboot 11 14 1.0E-6
+
+.ends

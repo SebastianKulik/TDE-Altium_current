@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=H1 Old DesignItemId=SK 104 25,4 STS New DesignItemId=SK129-25,4-STS-220
+Change Component DesignItemId : Designator=H2 Old DesignItemId=SK 104 25,4 STS New DesignItemId=SK129-25,4-STS-220
+Change Component DesignItemId : Designator=H3 Old DesignItemId=SK 104 25,4 STS New DesignItemId=SK129-25,4-STS-220
+Change Component DesignItemId : Designator=H4 Old DesignItemId=SK 104 25,4 STS New DesignItemId=SK129-25,4-STS-220
+Change Component Footprint: Designator=H1 Old Footprint=SK 104 25,4 STS New Footprint=SK129-25,4-STS-220
+Change Component Footprint: Designator=H2 Old Footprint=SK 104 25,4 STS New Footprint=SK129-25,4-STS-220
+Change Component Footprint: Designator=H3 Old Footprint=SK 104 25,4 STS New Footprint=SK129-25,4-STS-220
+Change Component Footprint: Designator=H4 Old Footprint=SK 104 25,4 STS New Footprint=SK129-25,4-STS-220
+Change Component Comment : Designator=H1 Old Comment=SK 104 25,4 STS New Comment=SK129-25,4-STS-220
+Change Component Comment : Designator=H2 Old Comment=SK 104 25,4 STS New Comment=SK129-25,4-STS-220
+Change Component Comment : Designator=H3 Old Comment=SK 104 25,4 STS New Comment=SK129-25,4-STS-220
+Change Component Comment : Designator=H4 Old Comment=SK 104 25,4 STS New Comment=SK129-25,4-STS-220

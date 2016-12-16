@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetP1_5 Pin=P2-1
+Added Pin To Net: NetName=5V Pin=P2-8
+Added Pin To Net: NetName=NetP2_2 Pin=P2-10
+Added Pin To Net: NetName=GND Pin=P2-11
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=NetP2_2 Pin=U1-14
+Added Pin To Net: NetName=5V Pin=U1-16
+Added Pin To Net: NetName=NetP1_5 Pin=U1-23

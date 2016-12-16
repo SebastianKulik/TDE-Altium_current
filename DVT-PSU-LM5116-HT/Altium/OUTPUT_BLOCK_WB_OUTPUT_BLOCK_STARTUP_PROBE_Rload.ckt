@@ -1,0 +1,7 @@
+***********************************
+*     Created by WB Importer      *
+***********************************
+.subckt OUTPUT_BLOCK_WB_OUTPUT_BLOCK_STARTUP_PROBE_Rload 1 2
+Rload 1 2 12.5
+
+.ends

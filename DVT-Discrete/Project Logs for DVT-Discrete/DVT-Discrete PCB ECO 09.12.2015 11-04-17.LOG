@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=NetR-End_1 Pin=R-End-1
+Removed Pin From Net: NetName=NetR-End_2 Pin=R-End-2
+Removed Pin From Net: NetName=NetR-End_2 Pin=TX-1
+Removed Pin From Net: NetName=NetR-End_1 Pin=TX-2
+Removed Pin From Net: NetName=NetU1_9 Pin=U1-9
+Removed Pin From Net: NetName=NetU1_9 Pin=U1-10
+Removed Pin From Net: NetName=NetU2_9 Pin=U2-9
+Removed Pin From Net: NetName=NetU2_9 Pin=U2-10
+Added Component: Designator=D1(DO-15-Dummy)
+Added Component: Designator=D2(DO-15-Dummy)
+Added Component: Designator=D3(DO-15-Dummy)
+Added Component: Designator=R1(Dummy-10mm)
+Added Component: Designator=R2(Dummy-10mm)
+Added Component: Designator=R-Gate-H(Dummy-10mm)
+Added Component: Designator=R-Gate-L(Dummy-10mm)
+Added Pin To Net: NetName=NetR-End_1 Pin=D1-1
+Added Pin To Net: NetName=PVDD Pin=D1-2
+Added Pin To Net: NetName=NetR-End_2 Pin=D2-1
+Added Pin To Net: NetName=NetU1_8 Pin=D2-2
+Added Pin To Net: NetName=NetU1_9 Pin=D3-1
+Added Pin To Net: NetName=NetU2_8 Pin=D3-2
+Added Pin To Net: NetName=NetR-End_2 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetU2_9 Pin=Q1-3
+Added Pin To Net: NetName=NetR-End_2 Pin=Q2-1
+Added Pin To Net: NetName=NetR-End_1 Pin=Q2-2
+Added Pin To Net: NetName=NetU2_9 Pin=Q2-3
+Added Pin To Net: NetName=NetU1_9 Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=NetU1_9 Pin=Q4-1
+Added Pin To Net: NetName=NetR-End_1 Pin=Q4-2
+Added Pin To Net: NetName=NetR-End_2 Pin=R1-1
+Added Pin To Net: NetName=NetU1_9 Pin=R2-1
+Added Pin To Net: NetName=NetU2_9 Pin=R-Gate-H-1
+Change Net Name : Old Net Name=NetR-End_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetR-End_2 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetU1_8 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetU1_9 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetU2_8 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetU2_9 New Net Name=NetQ1_3
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ3_3 Pin=R-Gate-L-1
+Added Net: Name=NetQ3_3
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R-End-2
+Added Pin To Net: NetName=NetR1_2 Pin=TX-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R-End-1
+Added Pin To Net: NetName=NetR2_2 Pin=TX-2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR-Gate-H_2 Pin=R-Gate-H-2
+Added Pin To Net: NetName=NetR-Gate-H_2 Pin=U1-9
+Added Pin To Net: NetName=NetR-Gate-H_2 Pin=U1-10
+Added Net: Name=NetR-Gate-H_2
+Added Pin To Net: NetName=NetR-Gate-L_2 Pin=R-Gate-L-2
+Added Pin To Net: NetName=NetR-Gate-L_2 Pin=U2-9
+Added Pin To Net: NetName=NetR-Gate-L_2 Pin=U2-10
+Added Net: Name=NetR-Gate-L_2
+Added Member To Class: ClassName=DVT-Discrete Member=Component D1 Diode-Dummy
+Added Member To Class: ClassName=DVT-Discrete Member=Component D2 Diode-Dummy
+Added Member To Class: ClassName=DVT-Discrete Member=Component D3 Diode-Dummy
+Added Member To Class: ClassName=DVT-Discrete Member=Component R1 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete Member=Component R2 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete Member=Component R-Gate-H Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete Member=Component R-Gate-L Resistor-Dummy-THT

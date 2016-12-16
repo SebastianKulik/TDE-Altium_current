@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=NetU1_16 Pin=U1-16
+Removed Pin From Net: NetName=NetU2_16 Pin=U2-16
+Added Component: Designator=C1(Dummy-10mm)
+Added Component: Designator=C2(Dummy-10mm)
+Added Component: Designator=C3(Dummy-10mm)
+Added Component: Designator=C4(Dummy-10mm)
+Added Component: Designator=C5(Dummy-10mm)
+Added Component: Designator=C6(Dummy-10mm)
+Added Component: Designator=C7(Dummy-10mm)
+Added Component: Designator=MCU-VCC(HDR1X2)
+Added Component: Designator=MCU(HDR1X8_2.54)
+Added Component: Designator=PVCC(Phoenix-2-5_08)
+Added Component: Designator=VCC(Phoenix-2-5_08)
+Added Pin To Net: NetName=NetU1_16 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=PVDD Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=PVDD Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=NetD1_1 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=NetD1_1 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NetU2_16 Pin=MCU-1
+Added Pin To Net: NetName=NetINV-1_1 Pin=MCU-3
+Added Pin To Net: NetName=NetINV-2_1 Pin=MCU-4
+Added Pin To Net: NetName=NetERR1_1 Pin=MCU-5
+Added Pin To Net: NetName=NetERR2_1 Pin=MCU-6
+Added Pin To Net: NetName=NetU1_16 Pin=MCU-7
+Added Pin To Net: NetName=GND Pin=MCU-8
+Added Pin To Net: NetName=VCC Pin=MCU-VCC-1
+Added Pin To Net: NetName=NetU1_16 Pin=MCU-VCC-2
+Added Pin To Net: NetName=PVDD Pin=PVCC-1
+Added Pin To Net: NetName=GND Pin=PVCC-2
+Added Pin To Net: NetName=NetU2_16 Pin=U1-16
+Added Pin To Net: NetName=VCC Pin=VCC-1
+Added Pin To Net: NetName=GND Pin=VCC-2
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetU1_16 New Net Name=NetC1_1
+Change Net Name : Old Net Name=NetU2_16 New Net Name=NetMCU_1
+Added Pin To Net: NetName=NetMCU_2 Pin=MCU-2
+Added Pin To Net: NetName=NetMCU_2 Pin=U2-16
+Added Net: Name=NetMCU_2
+Added Member To Class: ClassName=DVT-Discrete Member=Component C1 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete Member=Component C2 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete Member=Component C3 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete Member=Component C4 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete Member=Component C5 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete Member=Component C6 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete Member=Component C7 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete Member=Component MCU-VCC Plug_2_90_2.54
+Added Member To Class: ClassName=DVT-Discrete Member=Component MCU Plug_08_2.54
+Added Member To Class: ClassName=DVT-Discrete Member=Component PVCC PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Discrete Member=Component VCC PHOENIX_1715721

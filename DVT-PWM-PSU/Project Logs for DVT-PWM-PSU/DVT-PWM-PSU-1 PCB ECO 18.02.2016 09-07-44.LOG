@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=DVT-PWM-PSU-1 Member=ASyncEnbl
+Removed Member From Class: ClassName=DVT-PWM-PSU-1 Member=PSkipEnbl
+Removed Member From Class: ClassName=DVT-PWM-PSU-1 Member=R10
+Removed Member From Class: ClassName=DVT-PWM-PSU-1 Member=R11
+Added Component: Designator=EN(HDR1X2)
+Added Component: Designator=LPMode(HDR1X2)
+Added Pin To Net: NetName=NetR5_1 Pin=EN-1
+Added Pin To Net: NetName=A-GND Pin=EN-2
+Added Pin To Net: NetName=VDD Pin=LPMode-1
+Added Pin To Net: NetName=NetR6_1 Pin=LPMode-2
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetEN_1
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetLPMode_2
+Added Class: Name=DVT-PWM-PSU-2
+Added Room: Name=DVT-PWM-PSU-2

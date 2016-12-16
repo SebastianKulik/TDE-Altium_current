@@ -1,0 +1,19 @@
+
+
+
+          SolidWorks Corporation - STEP Processor Error Log
+          ______________________________________________________
+
+                       STEP Post Processor
+                       ___________________
+
+
+STEP File Name: C:\Users\Sebastians\Documents\ExodusAmps\TDE-Altium\Altium-Libraries\Mechanical\STEP\4361-0300.stp
+
+
+WARNUNG: Surface problem...Konstruktor für getrimmte Oberfläche konnte nicht zu Lösung konvergieren.
+WARNUNG: Surface problem...Konstruktor für getrimmte Oberfläche konnte nicht zu Lösung konvergieren.
+Die Oberflächen wurden erfolgreich zu einem Volumenkörper verarbeitet.
+STEPImport ausgeführt.
+Error: Volumenkörper konnte nicht von getrimmten Oberflächen erstellt werden.
+STEPImport nicht erfolgreich ausgeführt.

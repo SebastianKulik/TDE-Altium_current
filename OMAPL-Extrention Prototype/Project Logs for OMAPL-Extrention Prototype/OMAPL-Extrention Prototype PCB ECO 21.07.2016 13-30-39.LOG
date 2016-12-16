@@ -1,0 +1,6 @@
+Added Component: Designator=UART(HDR1X2)
+Added Pin To Net: NetName=EXP2_UART1_RXD Pin=UART-1
+Added Net: Name=EXP2_UART1_RXD
+Added Pin To Net: NetName=EXP2_UART1_TXD Pin=UART-2
+Added Net: Name=EXP2_UART1_TXD
+Added Member To Class: ClassName=OMAPL-Extrention Prototype Member=Component UART Plug_2_90_2.54

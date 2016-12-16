@@ -1,0 +1,96 @@
+Added Component: Designator=C1(Dummy-10mm)
+Added Component: Designator=C2(Dummy-10mm)
+Added Component: Designator=C3(Dummy-10mm)
+Added Component: Designator=Cf1(Dummy-10mm)
+Added Component: Designator=Cf2(Dummy-10mm)
+Added Component: Designator=Cf3(Dummy-10mm)
+Added Component: Designator=IN(Phoenix-2-5_08)
+Added Component: Designator=OUT(Phoenix-2-5_08)
+Added Component: Designator=R1(Dummy-10mm)
+Added Component: Designator=R2(Dummy-10mm)
+Added Component: Designator=R3(Dummy-10mm)
+Added Component: Designator=R4(Dummy-10mm)
+Added Component: Designator=R5(Dummy-10mm)
+Added Component: Designator=R6(Dummy-10mm)
+Added Component: Designator=R7(Dummy-10mm)
+Added Component: Designator=R8(Dummy-10mm)
+Added Component: Designator=VCC1(Phoenix-2-5_08)
+Added Component: Designator=VCC(Phoenix-2-5_08)
+Added Component: Designator=Vcom(HDR1X2)
+Added Pin To Net: NetName=GND Pin=Cf1-2
+Added Pin To Net: NetName=GND Pin=Cf2-2
+Added Pin To Net: NetName=GND Pin=Cf3-2
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=VCC1-1
+Added Pin To Net: NetName=GND Pin=VCC-2
+Added Pin To Net: NetName=GND Pin=Vcom-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Pin To Net: NetName=NetC1_1 Pin=R3-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-8
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R5-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-4
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-2
+Added Pin To Net: NetName=NetC2_1 Pin=R4-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R6-1
+Added Pin To Net: NetName=NetC2_2 Pin=U1-5
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R3-2
+Added Pin To Net: NetName=NetC3_1 Pin=R5-2
+Added Pin To Net: NetName=NetC3_1 Pin=R7-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R4-2
+Added Pin To Net: NetName=NetC3_2 Pin=R6-2
+Added Pin To Net: NetName=NetC3_2 Pin=R8-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetIN_1 Pin=IN-1
+Added Pin To Net: NetName=NetIN_1 Pin=R1-1
+Added Net: Name=NetIN_1
+Added Pin To Net: NetName=NetIN_2 Pin=IN-2
+Added Pin To Net: NetName=NetIN_2 Pin=R2-1
+Added Net: Name=NetIN_2
+Added Pin To Net: NetName=NetOUT_1 Pin=OUT-1
+Added Pin To Net: NetName=NetOUT_1 Pin=R8-2
+Added Net: Name=NetOUT_1
+Added Pin To Net: NetName=NetOUT_2 Pin=OUT-2
+Added Pin To Net: NetName=NetOUT_2 Pin=R7-1
+Added Net: Name=NetOUT_2
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=Vcom-1
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=VCC Pin=Cf1-1
+Added Pin To Net: NetName=VCC Pin=Cf2-1
+Added Pin To Net: NetName=VCC Pin=Cf3-1
+Added Pin To Net: NetName=VCC Pin=U1-3
+Added Pin To Net: NetName=VCC Pin=VCC1-2
+Added Pin To Net: NetName=VCC Pin=VCC-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=DVT-Buffer Member=Component C1 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Buffer Member=Component C2 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Buffer Member=Component C3 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Buffer Member=Component Cf1 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Buffer Member=Component Cf2 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Buffer Member=Component Cf3 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Buffer Member=Component IN PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Buffer Member=Component OUT PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Buffer Member=Component R1 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Buffer Member=Component R2 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Buffer Member=Component R3 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Buffer Member=Component R4 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Buffer Member=Component R5 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Buffer Member=Component R6 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Buffer Member=Component R7 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Buffer Member=Component R8 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Buffer Member=Component VCC1 PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Buffer Member=Component VCC PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Buffer Member=Component Vcom Plug_2_90_2.54

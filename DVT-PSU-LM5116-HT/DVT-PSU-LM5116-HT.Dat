@@ -1,0 +1,25 @@
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~100|Field=Value~String~Value~100|Field=Deliverer~String~Deliverer~100|Field=Deliverer PartNr~String~Deliverer PartNr~100|Field=Price~String~Price~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~DVT-PSU-LM5116-HT.PrjPcb|ReportField=ProjectFullPath~C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PSU-LM5116-HT\DVT-PSU-LM5116-HT.PrjPcb|ReportField=Title~Bill of Materials For Project [DVT-PSU-LM5116-HT.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~41|ReportField=ReportTime~09:21:31|ReportField=ReportDate~05.09.2016|ReportField=ReportDateTime~05.09.2016 09:21:31|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~05.09.2016|ReportField=CurrentTime~09:20:58|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PSU-LM5116-HT\DVT-PSU-LM5116-HT_1.SchDoc|ReportField=DocumentName~DVT-PSU-LM5116-HT_1.SchDoc|ReportField=DocumentNumber~|ReportField=Drawn By~Sebastian Kulik|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~02.09.2016|ReportField=Organization~|ReportField=PartNumber~PN10048|ReportField=ProjectName~DVT-PSU-LM5116-HT.PrjPcb|ReportField=Revision~1|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~2|ReportField=Time~|ReportField=Title~DVT-PSU-LM5116-HT|ReportField=DataSourceFileName~DVT-PSU-LM5116-HT.PrjPcb|ReportField=DataSourceFullPath~C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PSU-LM5116-HT\DVT-PSU-LM5116-HT.PrjPcb
+1|C1, C6, C7|1uF100V|Farnell|1672256|5.25/1|3
+2|C2|330pF200V|Farnell|2452200|6.27/1|1
+3|C3|10nF100V|Farnell|2452194|9.84/1|1
+4|C4|100pF200V|Farnell|2452201|6.23/1|1
+5|C5|4.7nF100V|Farnell|2452197|6.98/1|1
+6|Cin1, Cin2, Cin3|100nF200V|Farnell|2544877|0.51/10|3
+7|Cin1_1, Cin1_2, Cin1_3, Cin1_4, Cout1_1, Cout1_2, Cout1_3|2.2uF50V|Farnell|2529490|1.28/1|7
+8|Cout1, Cout2, Cout3|100nF50V|Farnell|2452193|10.64/1|3
+9|D1||Farnell|1862679|4.26/1|1
+10|J1||Farnell|2356176||1
+11|L1|4.7uH|WE|74437377047|2.48/1|1
+12|Measuring|0.01R1W|Farnell|1108056|2.61/1|1
+13|Q1, Q2||RS|826-7220|1.26/1|2
+14|R1|1M|RS|149-228|0.046/10|1
+15|R2|214k|RS|754-8827|0.41/5|1
+16|R3|102k|RS|701-8036|0.602/5|1
+17|R4|12.4k|RS|755-0833|0.202/5|1
+18|R5|18k|RS|148-792|0.157/10|1
+19|R6|10k|RS|148-736|0.027/10|1
+20|R-FB1*|187R|RS|701-7159|1.058/5|1
+21|R-FB1, R-FB2, VIN, VOUT||RS|193-0564|0.976/5|4
+22|R-FB2*|3.74k|RS|754-5709|0.37/5|1
+23|U1||Mouser|595-LM5116HJD|156.14/1|1
+24|[NoValue], **|||||2

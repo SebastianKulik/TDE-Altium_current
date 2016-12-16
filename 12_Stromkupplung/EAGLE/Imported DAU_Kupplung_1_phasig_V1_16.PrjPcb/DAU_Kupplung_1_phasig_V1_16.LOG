@@ -1,0 +1,82 @@
+Importer Log Report
+Project : DAU_Kupplung_1_phasig_V1_16.PrjPcb
+
+Section : Analyze Document - C:\Users\Sebastians\Documents\ExodusAmps\TDE-Altium\12_Stromkupplung\EAGLE\DAU_Kupplung_1_phasig_V1_16.brd
+    Analyzing data of C:\Users\Sebastians\Documents\ExodusAmps\TDE-Altium\12_Stromkupplung\EAGLE\DAU_Kupplung_1_phasig_V1_16.brd
+    Load settings
+    Load layers 64
+    Load Library "ADS"
+    Load Packages 11
+    Load Library "ADS1"
+    Load Packages 1
+    Load Library "resistor"
+    Load Packages 4
+    Load Library "capacitor-wima"
+    Load Packages 1
+    Load Library "rcl"
+    Load Packages 2
+    Load Library "led"
+    Load Packages 1
+    Load Library "fuse"
+    Load Packages 1
+    Load Library "ADS_ADUCBoards"
+    Load Packages 1
+    Load Library "con-phoenix-254"
+    Load Packages 1
+EndSection
+
+Section : Analyze Document - C:\Users\Sebastians\Documents\ExodusAmps\TDE-Altium\12_Stromkupplung\EAGLE\DAU_Kupplung_1_phasig_V1_16.sch
+    Analyzing data of C:\Users\Sebastians\Documents\ExodusAmps\TDE-Altium\12_Stromkupplung\EAGLE\DAU_Kupplung_1_phasig_V1_16.sch
+    Load settings
+    Load layers 64
+    Load schematic
+    Load Libraries 11
+    Load Library "ADS"
+    Load Packages 11
+    Load Symbols 11
+    Load DeviceSets 11
+    Load Library "ADS1"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 4
+    Load DeviceSets 4
+    Load Library "resistor"
+    Load Packages 143
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "capacitor-wima"
+    Load Packages 38
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "rcl"
+    Load Packages 254
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "led"
+    Load Packages 34
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "frames"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "fuse"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "ADS_ADUCBoards"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "con-phoenix-254"
+    Load Packages 1
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 79
+    Load Sheets 1
+EndSection

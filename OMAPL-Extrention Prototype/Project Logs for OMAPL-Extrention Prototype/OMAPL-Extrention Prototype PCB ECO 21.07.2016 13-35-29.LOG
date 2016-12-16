@@ -1,0 +1,8 @@
+Added Component: Designator=I2C(HDR1X3)
+Added Pin To Net: NetName=NetR1_1 Pin=I2C-1
+Added Pin To Net: NetName=NetR2_1 Pin=I2C-2
+Added Pin To Net: NetName=NetR3_1 Pin=I2C-3
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetI2C_1
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetI2C_2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetI2C_3
+Added Member To Class: ClassName=OMAPL-Extrention Prototype Member=Component I2C Plug_3_90_2.54

@@ -1,0 +1,1 @@
+Replace Part U1 THS4521ID in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-Buffer\DVT-Buffer.SchDoc with THS4521ID from ICs.IntLib

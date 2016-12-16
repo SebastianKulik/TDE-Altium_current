@@ -1,0 +1,113 @@
+Added Component: Designator=C1_1(Dummy-10mm)
+Added Component: Designator=C1(Dummy-10mm)
+Added Component: Designator=C3_1(Dummy-10mm)
+Added Component: Designator=C3(Dummy-10mm)
+Added Component: Designator=C4(Dummy-10mm)
+Added Component: Designator=C5(Dummy-10mm)
+Added Component: Designator=Cf1(Dummy-10mm)
+Added Component: Designator=Cf2(Dummy-10mm)
+Added Component: Designator=Cf3(Dummy-10mm)
+Added Component: Designator=Cref(Dummy-10mm)
+Added Component: Designator=IN(Phoenix-2-5_08)
+Added Component: Designator=OUT(Phoenix-2-5_08)
+Added Component: Designator=R1(Dummy-10mm)
+Added Component: Designator=R2_1(Dummy-10mm)
+Added Component: Designator=R2(Dummy-10mm)
+Added Component: Designator=R3(Dummy-10mm)
+Added Component: Designator=R4(Dummy-10mm)
+Added Component: Designator=R5_1(Dummy-10mm)
+Added Component: Designator=R5(Dummy-10mm)
+Added Component: Designator=Rref1(Dummy-10mm)
+Added Component: Designator=Rref2(Dummy-10mm)
+Added Component: Designator=U1(SOP8_L)
+Added Component: Designator=U2(SOP8_L)
+Added Component: Designator=VCC(Phoenix-2-5_08)
+Added Pin To Net: NetName=GND Pin=Cf1-2
+Added Pin To Net: NetName=GND Pin=Cf2-2
+Added Pin To Net: NetName=GND Pin=Cf3-2
+Added Pin To Net: NetName=GND Pin=Cref-2
+Added Pin To Net: NetName=GND Pin=IN-2
+Added Pin To Net: NetName=GND Pin=OUT-1
+Added Pin To Net: NetName=GND Pin=Rref2-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=VCC-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=C1_1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R2-2
+Added Pin To Net: NetName=NetC1_1 Pin=R2_1-2
+Added Pin To Net: NetName=NetC1_1 Pin=U2-3
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C3_1-1
+Added Pin To Net: NetName=NetC3_1 Pin=R2-1
+Added Pin To Net: NetName=NetC3_1 Pin=R2_1-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-6
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C3_1-2
+Added Pin To Net: NetName=NetC3_2 Pin=R5-1
+Added Pin To Net: NetName=NetC3_2 Pin=R5_1-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-2
+Added Pin To Net: NetName=NetC3_2 Pin=U2-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=IN-1
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R1-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R3-1
+Added Pin To Net: NetName=NetC5_1 Pin=R5-2
+Added Pin To Net: NetName=NetC5_1 Pin=R5_1-2
+Added Pin To Net: NetName=NetC5_1 Pin=U2-6
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=OUT-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-3
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=VCC Pin=Cf1-1
+Added Pin To Net: NetName=VCC Pin=Cf2-1
+Added Pin To Net: NetName=VCC Pin=Cf3-1
+Added Pin To Net: NetName=VCC Pin=Rref1-2
+Added Pin To Net: NetName=VCC Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U2-7
+Added Pin To Net: NetName=VCC Pin=VCC-1
+Added Net: Name=VCC
+Added Pin To Net: NetName=VREF Pin=C1-2
+Added Pin To Net: NetName=VREF Pin=C1_1-2
+Added Pin To Net: NetName=VREF Pin=Cref-1
+Added Pin To Net: NetName=VREF Pin=R4-1
+Added Pin To Net: NetName=VREF Pin=Rref1-1
+Added Pin To Net: NetName=VREF Pin=Rref2-2
+Added Net: Name=VREF
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component C1_1 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component C1 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component C3_1 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component C3 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component C4 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component C5 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component Cf1 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component Cf2 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component Cf3 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component Cref Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component IN PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component OUT PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component R1 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component R2_1 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component R2 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component R3 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component R4 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component R5_1 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component R5 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component Rref1 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component Rref2 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component U1 OPA820ID
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component U2 OPA820ID
+Added Member To Class: ClassName=DVT-Notch-Filter Member=Component VCC PHOENIX_1715721

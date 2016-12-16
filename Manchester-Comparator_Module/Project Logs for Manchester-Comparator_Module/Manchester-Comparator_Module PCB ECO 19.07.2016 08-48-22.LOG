@@ -1,0 +1,44 @@
+Added Component: Designator=5Vcc(Phoenix-2-5_08)
+Added Component: Designator=C1(Dummy-10mm)
+Added Component: Designator=C2(Dummy-10mm)
+Added Component: Designator=C3(Dummy-10mm)
+Added Component: Designator=C4(Dummy-10mm)
+Added Component: Designator=C5(Dummy-10mm)
+Added Component: Designator=C6(Dummy-10mm)
+Added Component: Designator=C7(Dummy-10mm)
+Added Pin To Net: NetName=5V Pin=5Vcc-1
+Added Pin To Net: NetName=GND Pin=5Vcc-2
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=5V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=5V Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=5V Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=5V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=5V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=P1-12
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=5V Pin=U3-14
+Added Pin To Net: NetName=NetU3_4 Pin=U3-4
+Added Pin To Net: NetName=NetU3_4 Pin=U3-5
+Added Net: Name=NetU3_4
+Added Pin To Net: NetName=NetU3_9 Pin=U3-9
+Added Pin To Net: NetName=NetU3_9 Pin=U3-10
+Added Net: Name=NetU3_9
+Added Pin To Net: NetName=NetU3_12 Pin=U3-12
+Added Pin To Net: NetName=NetU3_12 Pin=U3-13
+Added Net: Name=NetU3_12
+Added Member To Class: ClassName=Manchester-Comparator_Module Member=Component 5Vcc PHOENIX_1715721
+Added Member To Class: ClassName=Manchester-Comparator_Module Member=Component C1 Capacitor-Dummy-THT
+Added Member To Class: ClassName=Manchester-Comparator_Module Member=Component C2 Capacitor-Dummy-THT
+Added Member To Class: ClassName=Manchester-Comparator_Module Member=Component C3 Capacitor-Dummy-THT
+Added Member To Class: ClassName=Manchester-Comparator_Module Member=Component C4 Capacitor-Dummy-THT
+Added Member To Class: ClassName=Manchester-Comparator_Module Member=Component C5 Capacitor-Dummy-THT
+Added Member To Class: ClassName=Manchester-Comparator_Module Member=Component C6 Capacitor-Dummy-THT
+Added Member To Class: ClassName=Manchester-Comparator_Module Member=Component C7 Capacitor-Dummy-THT

@@ -1,0 +1,16 @@
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~100|Field=Value~String~Value~100|Field=Deliverer~String~Deliverer~100|Field=Deliverer PartNr~String~Deliverer PartNr~100|Field=Price~String~Price~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~LPF-400kHz-OPA820-THT.PrjPcb|ReportField=ProjectFullPath~C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\LPF-400kHz-OPA820-THT\LPF-400kHz-OPA820-THT.PrjPcb|ReportField=Title~Bill of Materials For Project [LPF-400kHz-OPA820-THT.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~28|ReportField=ReportTime~08:29:43|ReportField=ReportDate~11.11.2016|ReportField=ReportDateTime~11.11.2016 08:29:43|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~11.11.2016|ReportField=CurrentTime~08:27:06|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\LPF-400kHz-OPA820-THT\LPF-400kHz-OPA820-THT.SchDoc|ReportField=DocumentName~LPF-400kHz-OPA820-THT.SchDoc|ReportField=DocumentNumber~|ReportField=Drawn By~Sebastian Kulik|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~10.11.2016|ReportField=Organization~|ReportField=PartNumber~PN00052|ReportField=ProjectName~LPF-400kHz-OPA820-THT.PrjPcb|ReportField=Revision~1|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~1|ReportField=Time~|ReportField=Title~LPF-OPA820|ReportField=DataSourceFileName~LPF-400kHz-OPA820-THT.PrjPcb|ReportField=DataSourceFullPath~C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\LPF-400kHz-OPA820-THT\LPF-400kHz-OPA820-THT.PrjPcb
+1|5Vcc, Input, Output||RS|193-0564|0.976/5|3
+2|C1, C10|100nF|RS|721-5240|0.081/50|2
+3|C2|120pF|RS|716-7217|0.154/50|1
+4|C3, C5, C7, C9|100pF|RS|117-344|0.09/10|4
+5|C4|150pF|RS|652-9888|0.223/25|1
+6|C6|330pF|RS|652-9923|0.223/25|1
+7|C8|2n7F|RS|716-7197|0.20/10|1
+8|R1, R4, R7|2k2|RS|124-2865|0.189/50|3
+9|R2, R5|4k7|RS|683-3799|0.107/25|2
+10|R3|100k|RS|148-972|0.027/10|1
+11|R6|1k8|RS|683-3231|0.016/25|1
+12|R8|470R|RS|683-2869|0.057/25|1
+13|R9|1k|RS|148-253|0.046/10|1
+14|R10, R11|10k|RS|148-736|0.027/10|2
+15|U1, U2, U3, U4||RS|661-1053|2.548/5|4

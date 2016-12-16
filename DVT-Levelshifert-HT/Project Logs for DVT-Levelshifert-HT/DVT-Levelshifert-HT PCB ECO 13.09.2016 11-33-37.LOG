@@ -1,0 +1,12 @@
+Added Component: Designator=3.3Vcc(Phoenix-2-5_08)
+Added Component: Designator=5Vcc(Phoenix-2-5_08)
+Added Pin To Net: NetName=3.3V Pin=3.3Vcc-1
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=5Vcc-1
+Added Pin To Net: NetName=5V Pin=R1-2
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=3.3Vcc-2
+Added Pin To Net: NetName=GND Pin=5Vcc-2
+Added Net: Name=GND
+Added Member To Class: ClassName=DVT-Levelshifert-HT Member=Component 3.3Vcc PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Levelshifert-HT Member=Component 5Vcc PHOENIX_1715721

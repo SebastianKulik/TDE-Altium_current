@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetP1_4 Pin=U1-12
+Added Pin To Net: NetName=NetU1_12 Pin=U1-12
+Added Net: Name=NetU1_12
+Change Class Name : Old Net Name=DVT-Atlas-Driver New Net Name=DVT-Atlas-Driver1
+Change Room Name: Old Name=DVT-Atlas-Driver New Name=DVT-Atlas-Driver1
+Change Room Scope: Old Scope=InComponentClass('DVT-Atlas-Driver') New Scope=InComponentClass('DVT-Atlas-Driver1')

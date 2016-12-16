@@ -1,0 +1,4 @@
+Added Component: Designator=**(Eye)
+Added Component: Designator=*(Eye)
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_2 Member=Component ** Eye
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component * Eye

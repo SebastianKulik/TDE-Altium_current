@@ -1,0 +1,7 @@
+***********************************
+*     Created by WB Importer      *
+***********************************
+.subckt LM5116_BUCK_BLOCK_WB_LM5116_BUCK_BLOCK_WITH_RRAMP_Ruv2 3 2
+Ruv2 3 2 86600.0
+
+.ends

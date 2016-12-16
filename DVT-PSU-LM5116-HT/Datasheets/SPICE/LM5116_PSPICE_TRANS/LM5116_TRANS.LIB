@@ -1,0 +1,343 @@
+*$
+* LM5116
+****************************************************************************
+* (C) Copyright 2013 Texas Instruments Incorporated. All rights reserved.                                            
+****************************************************************************
+** This model is designed as an aid for customers of Texas Instruments.
+** TI and its licensors and suppliers make no warranties, either expressed
+** or implied, with respect to this model, including the warranties of 
+** merchantability or fitness for a particular purpose.  The model is
+** provided solely on an "as is" basis.  The entire risk as to its quality
+** and performance is with the customer
+****************************************************************************
+*
+* This model is subject to change without notice. Texas Instruments
+* Incorporated is not responsible for updating this model.
+*
+****************************************************************************
+*
+** Released by: WEBENCH Design Center, Texas Instruments Inc.
+* Part: LM5116
+* Date: 12FEB2014
+* Model Type: TRANSIENT
+* Simulator: PSPICE
+* Simulator Version:  16.2.0.p001
+* EVM Order Number: LM5116-12 Eval Board
+* EVM Users Guide: SNVA285A - October 2007 - Revised April 2013
+* Datasheet: SNVS499G - FEBRUARY 2007 - REVISED MARCH 2013
+*
+* Model Version: Final 1.10
+*
+****************************************************************************
+*
+* Updates:
+*
+* Final 1.00
+* Release to Web.
+*
+* Final 1.10
+* Updated for Diode Emulation and Synchronous operation.
+*
+* Final 1.20
+* Updated for to work Synchronous operation at lower VIN.
+*
+****************************************************************************
+.SUBCKT LM5116_TRANS VIN UVLO RT_SYNC EN RAMP AGND SS FB COMP VOUT DEMB
++	 CS  CSG PGND LO VCC VCCX HB HO SW EP
+.IC V(SW)=0
+R_EP EP AGND 1m
+XVCO RT_SYNC CLK1 CLK_GEN
+R4 CLK1 0 1
+E1 CLK 0 CLK1 0 1
+V5 4 AGND DC=5
+S1 RAMP AGND HOENB AGND _S1_MOD
+.MODEL _S1_MOD vswitch VT=2.5 RON=1M
+S3 4 GUVLO HB SW _S3_MOD
+.MODEL _S3_mod vswitch VT=3 VH=0.25 ROFF=100MEG
+ISS 28 AGND DC=10U
+E_B3 SS1215 AGND value = {IF(V(SS) < V(VREF),V(SS),V(VREF))}
+X10XX 11 Q 76 AND2B_0
+X1 SS1215 FB COMP AMPSIMP_0
+IOS AGND RAMP DC=25U
+G_IGM AGND RAMP VIN VOUT 5U
+X11XX CLK_450 11 INVB_0
+X_ONESHOT CLK CLK_450 ONE_SHOT
+C4 VRAMP RAMP 10P
+GTRACK AGND TRACK AGND CS 10.0000M
+X21 VRAMP COMP PWM COMPARX21_0
+X8 9 HOENB INVB_0
+E_B12X 9 AGND value = {V(HO,SW)}
+E_X5 ZC AGND VALUE = {IF( (V(SW) > V(66)) & V(LOX)>2.5  , 3.5  , 0.3 )} 
+X10XXX 76 3 73 AND2B_0
+V11 64 AGND DC=1.25
+QSS2XX 51 64 55 _Q3_MOD
+.MODEL _Q3_MOD PNP IS=1E-9
+VRT RT AGND DC=1
+E_B9 R AGND value = {IF((V(PWM)>1.5) | (V(ILIM)>1.5),3.5,0.3)}
+STRACK TRACK VRAMP CLK_450 AGND _TRACK
+.MODEL _TRACK vswitch VT=2.5 RON=1M 
+R14 TRACK AGND 0.6K
+VILIM 32 AGND 1.6
+XILIMCOMP VRAMP 32 ILIM COMPARATORILIMCOMP_0
+R15 GUVLO AGND 1MEG
+QSS1 28 28 75 _Q2_MOD
+.MODEL _Q2_MOD PNP IS=1E-9
+QSS2 SS 28 75 _Q3_MOD
+E_BRT 42 AGND value = {-I(VRT)*1000}
+X10 62 STANDBY SSLATCH AGND RSFFLOPX10_0
+E_BSTANDBY STANDBY AGND value = { IF(V(UVLO) < 1.215 , 5 , 
++	IF( V(VCC) < 4.5 , 5 , IF( V(EN) < 3.3 , 5  , 0)))}
+E_B2 HO SW value = { IF(V(STANDBY) < 0.1 & V(GUVLO) > 1 & V(H) < 2.5 , V(HB,SW) , 0)}
+G_B4 VCC UVLO value = { IF(V(UVLO) > 1.215 , 5U , 0)}
+.MODEL D_D1 D( IS=1e-15 TT=10p Rs=0.005 N=.001  )
+D_UVLO UVLO UVLO_HIGH D_D1
+V_UVLO UVLO_HIGH AGND 1.262
+E_B6 LOX AGND value = { IF(V(STANDBY) < 0.1 & V(GUVLO) > 1 & V(L) > 2.5 , V(VCC) , 0)}
+QSS1X 47 47 17 _QVCC_MOD
+QSS2X VCC 47 17 _QVCC_MOD
+.MODEL _QVCC_MOD PNP IS=1E-9
+I4 47 AGND DC=30M
+E_BRAMP 75 AGND value = { IF(V(STANDBY) < 0.1 , 5 , 0)}
+V7 66 51
+E_B3V 62 AGND value = { IF(V(SS) > 3 , 5 , 0)}
+R2 55 SS3V 40K
+M1 70 SSLATCH SS3V SS3V BSIM3N
+.MODEL BSIM3N NMOS LEVEL=8 K1=.756 K2=-3.83E-2 K3=-2.612  K3B=2.233 
++	W0=1.163E-6 NLX=3.52291E-08 DVT0W=0 DVT1W=0  DVT2W=0
++	DVT0=2.812 DVT1=0.462 DVT2=-9.17E-2 U0=388.3203  UA=6.47E-9
++	UB=4.23E-18 UC=-4.706281E-11 VSAT=86301.58  
++   A0=.3496967 AGS=.1 B0=0.546 
++   B1=1 KETA=-3.605872E-02  A1=2.778747E-02 A2=.9 RDSW=650 PRWG=0
++	PRWB=-.213 WR=1  WINT=1.47E-7 LINT=9.36E-8 
++   DWG=-6.0E-09 DWB=-3.56E-09  VOFF=-6.735529E-02 NFACTOR=1.139926 
++	ETA0=1.0281729E-02  ETAB=-5.042203E-03 DSUB=.31871233 
++   CIT=1.622527E-04  CDSC=-2.147181E-05 CDSCD=0 CDSCB=0 PCLM=1.114846 
++	PDIBLC1=2.45357E-03 PDIBLC2=6.406289E-03 PDIBLCB=-.234  
++   DROUT=.31871233 PSCBE1=5000000 PSCBE2=5E-09 PVAG=0 	
++   DELTA=0.01 AT=22400 TNOM=27.0 PRT=764.3 UTE=-1.48 KT1=-.3  
++   KT1L=0 KT2=-.051 UA1=3.31E-10 UB1=2.61E-19 UC1=-3.42E-10
++   WL=0 WLN=0 WW=-1.420242E-09 WWN=.2613948 WWL=0  LL=1.300902E-10 
++   LLN=.316394 LW=0 LWN=0 LWL=0 TOX=9E-09  XJ=1.00000E-07
++ NCH=2.498E+17 VTH0 = .6322
+V12 70 AGND DC=5
+X12 73 H L NOVLPCLK_0
+E_B12 SS3V AGND value = {V(SS)}
+V9 DEMB 66
+E_BVCCX 17 AGND value = { IF(V(UVLO) < .4 , 0 , IF( V(VIN) < 10.6 , V(VIN) ,7.4 ))}
+G_DEMB AGND DEMB VALUE = { IF(V(SS) > 1.215, 10u , 0)}
+C_DEMB DEMB AGND 2.5n
+D_DEMB DEMB DEMB_V DD
+.MODEL DD D( IS=1e-15 TT=10p Rs=0.05 N=.001  )
+V_DEMB DEMB_V AGND 2V
+E_B14 65 AGND value = { IF(V(LOX) > 2.5 & V(ZC) > 2.5 , 5 , 0)}
+E_B15 39 AGND value = { IF(V(LOX) > 2.5 & V(XNDEMB) > 2.5 , 5 , 0)}
+X_DEMB 65_N XNDEMB INV_BASIC_GEN PARAMS: VDD=3.5 VSS=0.3 VTHRESH=1.5
+R28 39 LO 1
+R26 65 65_N 1
+C9 65_N AGND 10p
+R_V10 CSG 0 1u
+R_V8 AGND 0 1u
+V6 VREF AGND DC=1.215
+E_BDMAXX 3 AGND value = { IF(V(SS1215) < 0.5 , 100 , 5)}
+X3 CLK_450 R Q QN RSFFLOPX3_0
+.ENDS LM5116_TRANS
+*$
+.SUBCKT INV_BASIC_GEN A  Y PARAMS: VDD=3.5 VSS=0.3 VTHRESH=1.5 
+E_ABMGATE    YINT 0 VALUE {{IF(V(A) > {VTHRESH} , 
++ {VSS},{VDD})}}
+RINT YINT Y 1
+CINT Y 0 10n
+.ENDS INV_BASIC_GEN
+*$
+.SUBCKT BUF_DELAY_BASIC_GEN A  Y PARAMS: VDD=1 VSS=0 VTHRESH=0.5 DELAY = 10n 
+E_ABMGATE1    YINT1 0 VALUE {{IF(V(A) > {VTHRESH} , 
++ {VDD},{VSS})}}
+RINT YINT1 YINT2 1
+CINT YINT2 0 {DELAY*1.3}
+E_ABMGATE2    YINT3 0 VALUE {{IF(V(YINT2) > {VTHRESH} , 
++ {VDD},{VSS})}}
+RINT2 YINT3 Y 1
+CINT2 Y 0 1n
+.ENDS BUF_DELAY_BASIC_GEN
+*$
+.SUBCKT M1_NMOS  D G S PARAMS: RDSON=16.5m Ciss=1430p Crss=15p Coss=385p VSP=2.8 RG=2
+C_C1         S Da  {Coss} IC=0
+R_R1         Da D  10
+C_C2         Ga D  {Crss} IC=0
+R_R2         G Ga {RG}
+C_C3         Ga S  {Ciss} IC=0
+D_D1         S Db Dbreak
+R_R3         Db D 1m
+S_switchM         D S Ga S _switchM
+RS_switchM         Ga S 100Meg
+.MODEL         _switchM VSWITCH Roff=100e6 Ron={RDSON} Voff=1.1 Von={VSP}
+.model Dbreak D Is=1e-14 Cjo=.1pF Rs=.1
+.ends M1_NMOS
+*$
+.SUBCKT CLK_GEN RT CLK
+IS1         0 RT 1U
+XU6         4 3 RT VCR_0
+XU5         4 3 D_D1_0
+C2          3 0 1U 
+XU2         5 4 INV_0
+R5          6 0 1G 
+XU4         6 5 RT VCR_1
+XU3         5 3 CLK AND_0
+XU1         7 6 5 COMPARATOR_0
+C1          6 0 1U 
+R2          0 7 1K 
+R1          7 5 1K 
+.ENDS
+*$
+.SUBCKT VCR_0  1 2 RT
+G1 1 2 VALUE {(V(1,2)/(28.24*V(RT)+0.121))}
+.ENDS
+*$
+.SUBCKT D_D1_0  1 2
+D1 1 2 DD1
+.MODEL DD1 D
++ IS=1E-011
++ TT=1E-09
++ RS=0
++ N=1.1
+.ENDS
+*$
+.SUBCKT D_D12  1 2
+D1 1 2 DD1
+.MODEL DD1 D
++ IS=1E-011
++ TT=1E-09
++ RS=0
++ N=1.1
+.ENDS D_D12
+*$
+.SUBCKT VCR_1  1 2 RT
+G1 1 2 VALUE {((V(1,2)*2*1.098*1E-6)/(1E6*V(RT)*284E-12+450E-9))}
+.ENDS
+*$
+.SUBCKT AND_0  1 2 OUT
+E1 OUT 0 VALUE {IF(V(1)>0 & V(2)>0, 3.5 , 0.3)}
+.ENDS   
+*$
+.SUBCKT COMPARATOR_0  P N Y
+E1 Y 0 VALUE {IF(V(P,N)>0,12,-12)}
+.ENDS
+*$
+.SUBCKT AND2B_0 1 2 3
+E_B1 4 0 value = {IF( (V(1)>1.5)&(V(2)>1.5),3.5,0.3)}
+RD 4 3 1
+CD 3 0 0.087NF
+.ENDS
+*$
+.SUBCKT AMPSIMP_0 1 5 7
+G1 0 4 1 5 100U
+R1 4 0 100.000MEG
+C1 4 0 5.3079P
+E1 2 0 4 0 1
+ROUT 2 7 10
+VLOW 3 0 DC=100.000M
+VHIGH 8 0 DC=1.2000
+DLOW 3 4 DCLP
+DHIGH 4 8 DCLP
+.MODEL DCLP D N=0.001 RS=100M
+.ENDS
+*$
+.SUBCKT INVB_0 1 2
+E_B1 3 0 value = {IF( ~(V(1)>1.5),3.5,0.3)}
+RD 3 2 1
+CD 2 0 0.087NF
+.ENDS
+*$
+.SUBCKT COMPARX21_0 NINV INV OUT
+E_B1 4 0 value = { IF( V(NINV,INV) > 0 , 5.0000  , 0)}
+RO 4 OUT 1M
+CO OUT 0 1PF
+.ENDS
+*$
+.SUBCKT COMPARATORILIMCOMP_0 NINV INV OUT
+E_B2 HYS NINV value = { IF( V(OUT) > 2.5000  , 50.000M , 0)}
+E_B1 4 0 value = { IF( V(HYS,INV) > 0 , 5.0000  , 0)}
+RO 4 OUT 1M
+CO OUT 0 1PF
+.ENDS
+*$
+.SUBCKT RSFFLOPX10_0 6 8 2 1
+E_BQB 10 0 value = { IF((V(8)<800M) & (V(2)>800M) , 0 , 5V)}
+E_BQBVSEC 110 0 value = {100*V(10)}
+RQBVSEC 110 0 10MEG
+E_BQ 20 0 value = { IF((V(6)<800M) & (V(1)>800M) , 0 , 5V)}
+E_BQVVSEC 120 0 value = {500}
+RBQVVSEC 120 0 1MEG
+RD1 10 1 100
+CD1 1 0 10P IC=5
+RD2 20 2 100
+CD2 2 0 10P IC=5
+.ENDS
+*$
+.SUBCKT NOVLPCLK_0 PWM HS LS
+E_B1 1 0 value = {V(PWM)}
+E_B2 HS 0 value = {V(7)}
+E_B3 LS 0 value = {V(6)}
+X3 1 3 INV_0
+RDEL2 3 4 1K
+C2 4 0 28.860P
+X2 3 4 6 AND2_0
+RDEL1 1 2 1K
+C1 2 0 28.860P
+X1 1 2 5 AND2_0
+X4 5 7 INV_0
+.ENDS
+*$
+.SUBCKT INV_0 1 2
+E_B1 4 0 value = { IF( V(1)>2.5 , 0 , 5V)}
+RD 4 2 100
+CD 2 0 10P
+.MODEL DCLP D N=0.01 RS=100M
+.ENDS
+*$ 
+.SUBCKT AND2_0 1 2 3
+E_B1 4 0 value = { IF( (V(1)>2.5) & (V(2)>2.5) , 5V , 100M)}
+RD 4 3 100
+CD 3 0 10P
+.MODEL DCLP D N=0.01 RS=100M
+.ENDS
+*$
+.SUBCKT RSFFLOPX3_0 6 8 2 1
+E_BQB 10 0 value = { IF((V(8)<800M) & (V(2)>800M) , 0 , 5V)}
+E_BQBVSEC 110 0 value = {100*V(10)}
+RQBVSEC 110 0 10MEG
+E_BQ 20 0 value = { IF((V(6)<800M) & (V(1)>800M) , 0 , 5V)}
+E_BQVVSEC 120 0 value = {100*V(20)}
+RBQVVSEC 120 0 1MEG
+RD1 10 1 100
+CD1 1 0 10P IC=5
+RD2 20 2 100
+CD2 2 0 10P IC=0
+.ENDS
+*$
+.SUBCKT CESR IN OUT
++ PARAMs:  C=47u ESR=5m IC=0
+C	IN 1  {C} IC={IC}
+RESR	1 OUT {ESR}
+.ENDS CESR
+*$
+.MODEL myD27227 D( IS=1e-15 TT=10p Rs=0.05 N=.1  ) 
+*$
+.SUBCKT LDCR 1 2 PARAMS: L=1u DCR=20m IC=0
+L1 1 INT1 {L} IC={IC}
+R1 INT1 2 {DCR}
+.ENDS LDCR
+*$
+.SUBCKT ONE_SHOT IN OUT
++ PARAMs:  T=450
+S_S1         MEAS 0 RESET2 0 S1
+E_ABM1         CH 0 VALUE { if( V(IN)>2.5 | V(OUT)>2.5,5,0)    }
+R_R2         RESET2 RESET  0.1  
+E_ABM3         OUT 0 VALUE { if( V(MEAS)<2.5 & V(CH)>2.5,5,0)    }
+R_R1         MEAS CH  {T} 
+C_C2         0 RESET2  1.4427n  
+C_C1         0 MEAS  1.4427n  
+E_ABM2         RESET 0 VALUE { if(V(CH)<2.5,5,0)    }
+.MODEL         S1 VSWITCH Roff=1e9 Ron=1.0 Voff=0V Von=2V
+.ENDS ONE_SHOT
+*$

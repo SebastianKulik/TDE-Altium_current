@@ -1,0 +1,5 @@
+Added Component: Designator=Vin(Phoenix-2-5_08)
+Added Pin To Net: NetName=NetC3_1 Pin=Vin-1
+Added Pin To Net: NetName=GND Pin=Vin-2
+Change Net Name : Old Net Name=NetC3_1 New Net Name=VIN
+Added Member To Class: ClassName=DVT-PWM-PSU-2 Member=Component Vin PHOENIX_1715721

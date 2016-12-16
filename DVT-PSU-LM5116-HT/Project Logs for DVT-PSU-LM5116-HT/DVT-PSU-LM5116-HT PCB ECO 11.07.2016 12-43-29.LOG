@@ -1,0 +1,36 @@
+Change Component DesignItemId : Designator=C3 Old DesignItemId=10nF_50V_1206_HT New DesignItemId=Capacitor-Dummy-THT
+Change Component DesignItemId : Designator=C1 Old DesignItemId=Capacitor-Dummy-SMT New DesignItemId=Capacitor-Dummy-THT
+Change Component Footprint: Designator=C3 Old Footprint=C1206 New Footprint=Dummy-10mm
+Change Component Footprint: Designator=C1 Old Footprint=C1812 New Footprint=Dummy-10mm
+Change Component Comment : Designator=C3 Old Comment=10nF_50V_1206_HT New Comment=Capacitor-Dummy-THT
+Change Component Comment : Designator=C1 Old Comment=Capacitor-Dummy-SMT New Comment=Capacitor-Dummy-THT
+Added Component: Designator=Cin1_1(Dummy-10mm)
+Added Component: Designator=Cin1_2(Dummy-10mm)
+Added Component: Designator=Cin1_3(Dummy-10mm)
+Added Component: Designator=Cin1_4(Dummy-10mm)
+Added Component: Designator=Cin1(Dummy-10mm)
+Added Component: Designator=Cin2(Dummy-10mm)
+Added Component: Designator=Cin3(Dummy-10mm)
+Added Component: Designator=Cout1(Dummy-10mm)
+Added Pin To Net: NetName=VIN Pin=Cin1-1
+Added Pin To Net: NetName=GND Pin=Cin1-2
+Added Pin To Net: NetName=VIN Pin=Cin1_1-1
+Added Pin To Net: NetName=GND Pin=Cin1_1-2
+Added Pin To Net: NetName=VIN Pin=Cin1_2-1
+Added Pin To Net: NetName=GND Pin=Cin1_2-2
+Added Pin To Net: NetName=VIN Pin=Cin1_3-1
+Added Pin To Net: NetName=GND Pin=Cin1_3-2
+Added Pin To Net: NetName=VIN Pin=Cin1_4-1
+Added Pin To Net: NetName=GND Pin=Cin1_4-2
+Added Pin To Net: NetName=VIN Pin=Cin2-1
+Added Pin To Net: NetName=GND Pin=Cin2-2
+Added Pin To Net: NetName=VIN Pin=Cin3-1
+Added Pin To Net: NetName=GND Pin=Cin3-2
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component Cin1_1 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component Cin1_2 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component Cin1_3 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component Cin1_4 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component Cin1 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component Cin2 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component Cin3 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component Cout1 Capacitor-Dummy-THT

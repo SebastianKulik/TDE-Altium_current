@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=R3 Old Footprint=Dummy-15mm New Footprint=Dummy-10mm
+Change Component Footprint: Designator=R4 Old Footprint=Dummy-15mm New Footprint=Dummy-10mm

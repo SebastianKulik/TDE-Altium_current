@@ -1,0 +1,58 @@
+Added Component: Designator=C14(Dummy-10mm)
+Added Component: Designator=C15(Dummy-10mm)
+Added Component: Designator=C16(Dummy-10mm)
+Added Component: Designator=C17(Dummy-10mm)
+Added Component: Designator=Out(Phoenix-2-5_08)
+Added Component: Designator=R1(Dummy-10mm)
+Added Component: Designator=R2(Dummy-10mm)
+Added Component: Designator=R3(Dummy-10mm)
+Added Component: Designator=R4(Dummy-10mm)
+Added Pin To Net: NetName=A-GND Pin=C16-2
+Added Pin To Net: NetName=A-GND Pin=C17-2
+Added Pin To Net: NetName=PVCC Pin=U1-19
+Added Pin To Net: NetName=A-GND Pin=U1-22
+Added Pin To Net: NetName=A-GND Pin=U1-23
+Added Pin To Net: NetName=PVCC Pin=U1-24
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=U1-27
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=U1-28
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=U1-16
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=U1-15
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=Out-1
+Added Pin To Net: NetName=NetC16_1 Pin=R1-2
+Added Pin To Net: NetName=NetC16_1 Pin=R2-2
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=Out-2
+Added Pin To Net: NetName=NetC17_1 Pin=R3-2
+Added Pin To Net: NetName=NetC17_1 Pin=R4-2
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-26
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-25
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U1-17
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U1-18
+Added Net: Name=NetR4_1
+Added Member To Class: ClassName=DVT-Atlas-Driver1 Member=Component C14 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Atlas-Driver1 Member=Component C15 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Atlas-Driver1 Member=Component C16 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Atlas-Driver1 Member=Component C17 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Atlas-Driver1 Member=Component Out PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Atlas-Driver1 Member=Component R1 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Atlas-Driver1 Member=Component R2 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Atlas-Driver1 Member=Component R3 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Atlas-Driver1 Member=Component R4 Resistor-Dummy-THT

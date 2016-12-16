@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=R-FB1-1
+Added Pin To Net: NetName=NetR-FB2_1 Pin=R-FB1-2
+Change Net Name : Old Net Name=NetR-FB2_1 New Net Name=NetR-FB1_2

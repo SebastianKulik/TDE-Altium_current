@@ -1,0 +1,17 @@
+*****************************************************************************
+** LM5116_BUCK_BLOCK.M2.WB_POWER_N_MOSFET Spice Model
+*****************************************************************************
+** (C) Copyright 2016 Texas Instruments Incorporated. All rights reserved.
+** This model is designed as an aid for customers of Texas Instruments.
+** TI and its licensors and suppliers make no warranties, either expressed
+** or implied, with respect to this model, including the warranties of
+** merchantability or fitness for a particular purpose. The model is
+** provided solely on an "as is" basis. The entire risk as to its quality
+** and performance is with the customer
+*****************************************************************************
+*****************************************************************************
+
+.SUBCKT LM5116_BUCK_BLOCK_M2_WB_POWER_N_MOSFET_ENCR d1 g1 s1
+.include isspice://../LM5116_BUCK_BLOCK.M2.WB_POWER_N_MOSFET.enl
+XCALL d1 g1 s1 LM5116_BUCK_BLOCK_M2_WB_POWER_N_MOSFET 
+.ENDS

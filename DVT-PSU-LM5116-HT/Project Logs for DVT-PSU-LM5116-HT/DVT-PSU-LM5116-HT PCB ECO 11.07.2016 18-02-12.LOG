@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Cout1
+Removed Member From Class: ClassName=DVT-PSU-LM5116-HT_1 Member=VOUT
+Added Component: Designator=Cout1_1(Dummy-10mm)
+Added Component: Designator=Cout1_2(Dummy-10mm)
+Added Component: Designator=Cout1_3(Dummy-10mm)
+Added Component: Designator=Cout2(Dummy-10mm)
+Added Component: Designator=Cout3(Dummy-10mm)
+Added Pin To Net: NetName=NetR-FB2_2 Pin=Cout1-1
+Added Pin To Net: NetName=GND Pin=Cout1-2
+Added Pin To Net: NetName=NetR-FB2_2 Pin=Cout1_1-1
+Added Pin To Net: NetName=GND Pin=Cout1_1-2
+Added Pin To Net: NetName=NetR-FB2_2 Pin=Cout1_2-1
+Added Pin To Net: NetName=GND Pin=Cout1_2-2
+Added Pin To Net: NetName=NetR-FB2_2 Pin=Cout1_3-1
+Added Pin To Net: NetName=GND Pin=Cout1_3-2
+Added Pin To Net: NetName=NetR-FB2_2 Pin=Cout2-1
+Added Pin To Net: NetName=GND Pin=Cout2-2
+Added Pin To Net: NetName=NetR-FB2_2 Pin=Cout3-1
+Added Pin To Net: NetName=GND Pin=Cout3-2
+Added Pin To Net: NetName=GND Pin=VOUT-1
+Added Pin To Net: NetName=NetR-FB2_2 Pin=VOUT-2
+Change Net Name : Old Net Name=NetR-FB2_2 New Net Name=NetCout1_1
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_2 Member=Component Cout1_1 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_2 Member=Component Cout1_2 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_2 Member=Component Cout1_3 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_2 Member=Component Cout1 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_2 Member=Component Cout2 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_2 Member=Component Cout3 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_2 Member=Component VOUT PHOENIX_1715721

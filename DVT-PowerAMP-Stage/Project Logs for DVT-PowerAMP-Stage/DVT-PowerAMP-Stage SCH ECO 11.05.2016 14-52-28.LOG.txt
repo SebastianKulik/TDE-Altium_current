@@ -1,0 +1,4 @@
+Replace Part H1 SK 104 25,4 STS in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PowerAMP-Stage\DVT-PowerAMP-Stage.SchDoc with SK 104 25,4 STS from Discrete.IntLib
+Replace Part H2 SK 104 25,4 STS in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PowerAMP-Stage\DVT-PowerAMP-Stage.SchDoc with SK 104 25,4 STS from Discrete.IntLib
+Replace Part H3 SK 104 25,4 STS in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PowerAMP-Stage\DVT-PowerAMP-Stage.SchDoc with SK 104 25,4 STS from Discrete.IntLib
+Replace Part H4 SK 104 25,4 STS in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PowerAMP-Stage\DVT-PowerAMP-Stage.SchDoc with SK 104 25,4 STS from Discrete.IntLib

@@ -1,0 +1,10 @@
+Added Component: Designator=R-FB1(Phoenix-2-5_08)
+Added Component: Designator=R-FB2(Phoenix-2-5_08)
+Added Pin To Net: NetName=NetR-FB2_1 Pin=R-FB2-1
+Added Pin To Net: NetName=NetR-FB2_1 Pin=U1-8
+Added Net: Name=NetR-FB2_1
+Added Pin To Net: NetName=NetR-FB2_2 Pin=R-FB2-2
+Added Pin To Net: NetName=NetR-FB2_2 Pin=U1-10
+Added Net: Name=NetR-FB2_2
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component R-FB1 PHOENIX_1715721
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component R-FB2 PHOENIX_1715721

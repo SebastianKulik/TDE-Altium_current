@@ -1,0 +1,87 @@
+Added Component: Designator=C1(Dummy-10mm)
+Added Component: Designator=C2(Dummy-10mm)
+Added Component: Designator=C3(Dummy-10mm)
+Added Component: Designator=C4(Dummy-10mm)
+Added Component: Designator=C5(Dummy-10mm)
+Added Component: Designator=C6(Dummy-10mm)
+Added Component: Designator=C7(Dummy-10mm)
+Added Component: Designator=R1(Dummy-10mm)
+Added Component: Designator=R2(Dummy-10mm)
+Added Component: Designator=R3(Dummy-10mm)
+Added Component: Designator=R4(Dummy-10mm)
+Added Component: Designator=R5(Dummy-10mm)
+Added Component: Designator=R6(Dummy-10mm)
+Added Component: Designator=U2(DIP-8-Ceramic-HT - duplicate)
+Added Component: Designator=U3(DIP-8-Ceramic-HT - duplicate)
+Added Pin To Net: NetName=A-GND Pin=C2-2
+Added Pin To Net: NetName=A-GND Pin=C5-2
+Added Pin To Net: NetName=A-GND Pin=R6-2
+Added Net: Name=A-GND
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R2-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-22
+Added Pin To Net: NetName=NetC1_1 Pin=U2-4
+Added Pin To Net: NetName=NetC1_1 Pin=U3-3
+Added Pin To Net: NetName=NetC1_1 Pin=U3-4
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=R2-2
+Added Pin To Net: NetName=NetC2_1 Pin=U1-23
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C4-1
+Added Pin To Net: NetName=NetC3_1 Pin=R1-2
+Added Pin To Net: NetName=NetC3_1 Pin=U2-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R1-1
+Added Pin To Net: NetName=NetC5_1 Pin=R5-2
+Added Pin To Net: NetName=NetC5_1 Pin=U1-5
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=R3-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=R4-1
+Added Pin To Net: NetName=NetC6_2 Pin=U1-20
+Added Pin To Net: NetName=NetC6_2 Pin=U2-1
+Added Pin To Net: NetName=NetC6_2 Pin=U2-1
+Added Pin To Net: NetName=NetC6_2 Pin=U2-1
+Added Pin To Net: NetName=NetC6_2 Pin=U3-2
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=R4-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U2-3
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-3
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U1-1
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetU1_21 Pin=U1-21
+Added Pin To Net: NetName=NetU1_21 Pin=U2-5
+Added Net: Name=NetU1_21
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component C1 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component C2 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component C3 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component C4 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component C5 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component C6 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component C7 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R1 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R2 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R3 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R4 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R5 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R6 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component U2 XTR20411A-D
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component U3 XTR20411A-D

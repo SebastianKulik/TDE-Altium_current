@@ -1,0 +1,15 @@
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~100|Field=Value~String~Value~100|Field=Deliverer~String~Deliverer~100|Field=Deliverer PartNr~String~Deliverer PartNr~100|Field=Price~String~Price~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~DVT-Volga.PrjPcb|ReportField=ProjectFullPath~C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-Volga\DVT-Volga.PrjPcb|ReportField=Title~Bill of Materials For Project [DVT-Volga.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~14|ReportField=ReportTime~13:08:36|ReportField=ReportDate~02.08.2016|ReportField=ReportDateTime~02.08.2016 13:08:36|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~02.08.2016|ReportField=CurrentTime~13:07:14|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-Volga\DVT-Volga.SchDoc|ReportField=DocumentName~DVT-Volga.SchDoc|ReportField=DocumentNumber~|ReportField=Drawn By~Sebastian Kulik|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~01.08.2016|ReportField=Organization~|ReportField=PartNumber~PN0050|ReportField=ProjectName~DVT-Volga.PrjPcb|ReportField=Revision~1|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~1|ReportField=Time~|ReportField=Title~DVT Volga|ReportField=DataSourceFileName~DVT-Volga.PrjPcb|ReportField=DataSourceFullPath~C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-Volga\DVT-Volga.PrjPcb
+1|5Vcc||RS|193-0564|0.976/5|1
+2|C1|100nF200V|Farnell|2544877|0.51/10|1
+3|C2|100nF200V|Farnell|2544877|0.51/10|1
+4|C3|100nF200V|Farnell|2544877|0.51/10|1
+5|C4|2.2uF50V|Farnell|2529490|1.28/1|1
+6|C5|2.2uF50V|Farnell|2529490|1.28/1|1
+7|C6|2.2uF50V|Farnell|2529490|1.28/1|1
+8|INPUT||RS|193-0564|0.976/5|1
+9|J1|||||1
+10|OUT||RS|193-0564|0.976/5|1
+11|RX+|||||1
+12|RX-|||||1
+13|U1||CISSOID|CHT-VOLGA|204.93/5|1
+14|U2||RS|305-490|1.45|1

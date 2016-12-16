@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [webench_design_1160921_77_ad14_sim.PrjPcb]
+   Generated File[webench_design_1160921_77_ad14_sim.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 09:46:44 On 11.07.2016

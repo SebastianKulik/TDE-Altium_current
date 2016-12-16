@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [DAU_Kupplung_1_phasig_V1_16.PrjPcb]
+   Generated File[DAU_Kupplung_1_phasig_V1_16.GTL]
+   Generated File[DAU_Kupplung_1_phasig_V1_16.GBL]
+   Generated File[DAU_Kupplung_1_phasig_V1_16.GTO]
+   Generated File[DAU_Kupplung_1_phasig_V1_16.GTS]
+   Generated File[DAU_Kupplung_1_phasig_V1_16.GBO]
+   Generated File[DAU_Kupplung_1_phasig_V1_16.GM1]
+   Generated File[DAU_Kupplung_1_phasig_V1_16.GM2]
+   Generated File[DAU_Kupplung_1_phasig_V1_16.GM3]
+   Generated File[DAU_Kupplung_1_phasig_V1_16.GM16]
+   Generated File[DAU_Kupplung_1_phasig_V1_16.GM27]
+   Generated File[DAU_Kupplung_1_phasig_V1_16.GM28]
+   Generated File[DAU_Kupplung_1_phasig_V1_16.RUL]
+   Generated File[DAU_Kupplung_1_phasig_V1_16.EXTREP]
+   Generated File[DAU_Kupplung_1_phasig_V1_16.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 09:52:33 On 05.11.2014

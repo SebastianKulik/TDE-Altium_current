@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DVT-Discrete.PcbDoc   16.12.2015  17:27:38
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DVT-Discrete.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.8mm (31mil)                                             Round             3         PTH        10.34mm (0.41inch)
+T2      0.9mm (35mil)                                             Round             117       PTH        672.79mm (26.49inch)
+T3      1.016mm (40mil)                                           Round             6         PTH        65.74mm (2.59inch)
+T4      1.2mm (47mil)                                             Round             20        PTH        243.76mm (9.60inch)
+T5      1.4mm (55mil)                                             Round             14        PTH        127.20mm (5.01inch)
+T6      3mm (118mil)                                              Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              161
+
+Total Processing Time (hh:mm:ss) : 00:00:00

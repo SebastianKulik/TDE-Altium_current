@@ -1,0 +1,31 @@
+Added Component: Designator=C8(Dummy-10mm)
+Added Component: Designator=C9(Dummy-10mm)
+Added Component: Designator=OUT(HDR1X2)
+Added Component: Designator=VDDA(Phoenix-2-5_08)
+Added Component: Designator=VDDD(HDR1X2)
+Added Component: Designator=VDD(Phoenix-2-5_08)
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=OUT-2
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=GND Pin=VDD-2
+Added Pin To Net: NetName=GND Pin=VDDA-2
+Added Pin To Net: NetName=NetC1_1 Pin=VDDD-1
+Added Pin To Net: NetName=5V Pin=U3-7
+Added Pin To Net: NetName=5V Pin=VDDA-1
+Added Net: Name=5V
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=U3-2
+Added Pin To Net: NetName=NetC9_1 Pin=VDD-1
+Added Pin To Net: NetName=NetC9_1 Pin=VDDD-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetOUT_1 Pin=OUT-1
+Added Pin To Net: NetName=NetOUT_1 Pin=U3-1
+Added Net: Name=NetOUT_1
+Added Member To Class: ClassName=DVT-Discrete-2 Member=Component C8 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete-2 Member=Component C9 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete-2 Member=Component OUT Plug_2_90_2.54
+Added Member To Class: ClassName=DVT-Discrete-2 Member=Component VDDA PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Discrete-2 Member=Component VDDD Plug_2_90_2.54
+Added Member To Class: ClassName=DVT-Discrete-2 Member=Component VDD PHOENIX_1715721

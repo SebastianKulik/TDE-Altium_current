@@ -1,0 +1,22 @@
+IC-Sockets.
+
+1. 16-PIN:
+
+863-2866     FCI (100)    3Packungen
+
+2. 8-Pin
+863-2734   FCI (100)   1Packung
+
+
+Stifte.
+
+1 8-Pin
+
+863-2961  FCI (100)   1Packung
+
+
+Printklemme.
+1. 193-0564 Phoenix Contact  41st
+
+Schottky-Diode.
+1. 906-6762   (100)         1 Packung               

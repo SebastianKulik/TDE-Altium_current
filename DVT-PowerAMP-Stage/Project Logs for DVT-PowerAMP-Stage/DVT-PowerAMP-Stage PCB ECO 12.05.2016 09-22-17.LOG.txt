@@ -1,0 +1,5 @@
+Change Physical Footprint: Designator=Q1 Old Footprint=TO254 New Footprint=TO254
+Change Physical Footprint: Designator=Q2 Old Footprint=TO254 New Footprint=TO254
+Change Physical Footprint: Designator=Q3 Old Footprint=TO254 New Footprint=TO254
+Change Physical Footprint: Designator=Q4 Old Footprint=TO254 New Footprint=TO254
+Change Physical Footprint: Designator=Q5 Old Footprint=TO254 New Footprint=TO254

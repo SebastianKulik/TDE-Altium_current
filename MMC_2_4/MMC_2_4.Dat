@@ -1,0 +1,48 @@
+Field=Designator~String~Designator~69|Field=Footprint~String~Footprint~82|Field=Value~String~Value~81|Field=Comment~String~Comment~72|Field=Manufacturer~String~Manufacturer~59|Field=Manufacturer PartNr~String~Manufacturer PartNr~95|Field=Deliverer~String~Deliverer~54|Field=Deliverer PartNr~String~Deliverer PartNr~64|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~MMC_2_4.PrjPcb|ReportField=ProjectFullPath~C:\Users\Sebastian Kulik\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4.PrjPcb|ReportField=Title~Bill of Materials For Project [MMC_2_4.PrjPcb] (PCB Document : MMC_2_4.PcbDoc)|ReportField=TotalQuantity~99|ReportField=ReportTime~13:32:13|ReportField=ReportDate~25.03.2015|ReportField=ReportDateTime~25.03.2015 13:32:13|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~MMC_2_4.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Sebastian Kulik\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4.PrjPcb|ReportField=PCBDataSourceFileName~MMC_2_4.PcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\Sebastian Kulik\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4.PcbDoc
+C1|C0603|10uF_10V|10uF10V_0603|AVX|0603ZD106MAT2A|Farnell|1867954RL|1
+C2, C3, C4, C5, C6, C9, C10, C11, C12|C0402|100nF_16V|100nF16V_0402|TDK|CGA2B1X7R1C104K050BC|Farnell|2366533|9
+C7, C8|C0402|22pF50V|22pF50V_0402-AVX|AVX|04025A220FAT2A|Farnell|2332500|2
+C13, C15, C21, C22, C29, C36, C37|C0402|100nF25V|100nF25V_0402|AVX|04023D104KAT2A|Farnell|1833862|7
+C14, C27, C40|Panasonic-FT-F_Case|470uF25V|470uF25V_POL_FT|Panasonic|EEEFT1E471AP|Farnell|1868411|3
+C16|C0603|22nF50V|22nF50V_0603|AVX|06035C223JAT2A|Farnell|1835412|1
+C17, C18, C19, C20|C0603|10pF50V|10pF50V_0603|AVX|06035A100DAT2A|Farnell|2332595RL|4
+C23, C24|C0805|4u7F25V|4u7F25V_0805|TDK|C2012X7R1E475K125AB|Farnell|2346943RL|2
+C25|C0402|470pF50V|470pF50V_0402|AVX|04025A471JAT2A|Farnell|1657927|1
+C26|C0603|1uF50V|1uF50V_0603|TDK|C1608X5R1H105K080AB|Farnell|2211179RL|1
+C28|C1210|10uF50V|10uF50V_1210|AVX|12105C106KAT2A|Farnell|2094047RL|1
+C30, C39|Vishay293D-B|10uF_20V_Th, 10uF20V|10uF_20V_V293D-B|Vishay|293D106X9020B2TE3|Farnell|1754203|2
+C31, C32, C33, C34|C0402|100nF50V|100n50V_0402|Murata|GRM155R61H104KE19D|Farnell|2218856|4
+C35|C1210|10uF_25V|10uF25V_1210|TDK|C3225X5R1E106K250AA|Farnell|2346957|1
+C38|C0402|16pF_50V|16pF50V_0402|Kemet|C0402C160J5GACTU|Farnell|1865423|1
+C41|Vishay293D-B|100uF6V3|100uF_6V3_V293D-B|Vishay|293D107X96R3B2TE3|Farnell|1754153|1
+D1, D2|SOD123||RB160M-30TR|Rohm|RB160M-30TR|Farnell|1525480|2
+D3|DO214A||SMAJ58A-E3/61|Vishay|SMAJ58A-E3/61|Farnell|1837053|1
+D4, D5|SOT23_N||PESD12VS2UT|NXP|PESD12VS2UT|Farnell|8737401|2
+J1|7499210124A||7499210124A|Wuerth Elektronik|7499210124A|WE|7499210124A|1
+JP1|HDR1X12_2.54||Plug_12_2.54|WE|61301211121|WE|61301211121|1
+JP2, JP3, M1, M2, M3|HDR1X3, HDR1X5-1.27, Mark-3mm, Mark-3mm, Mark-3mm||Header-3, ICDI, Paste Mark, Paste Mark, Paste Mark|||||5
+L1|L0603|120R|120R4A_0603|Murata|BLM18PG121SN1D|Farnell|1515738RL|1
+L2|WE-PD2_1|10uH2A|10uH2A|WE|74477510|WE|74477510|1
+L3|L0603|300R|300R2A_0603|WE|742792641|WE|742792641|1
+L4|WE-SCC_7345|1000R1A-SCC|1000R1A-SCC|WE|744281100|WE|744281100|1
+L5|L0805_M|2k200mA|2k200mA_0805|WE|742792092|WE|742792092|1
+Q1|TXC_7A|8MHz|Crystal_8MHz|TXC|7A-8.000MAAJ-T|Farnell|1892148|1
+R1, R11, R12|R0402|10k|10k_0402|Vishay|CRCW040210K0FKEAHP|Farnell|1738864|3
+R2|R0402|33R|33R_0402|Vishay|CRCW040233R0FKEAHP|Farnell|1738830|1
+R3, R4, R5, R6|R1210_N|270R|270R_1210|Panasonic|ERJ14YJ271U|Farnell|2324044|4
+R7, R8, R9, R10|R0402|49R9|49R9_0402|Vishay|CRCW040249R9FKED|Farnell|2121437|4
+R13|R0402|1k5|1k5_0402|Vishay|CRCW04021K50FKEAHP|Farnell|1738852|1
+R14|R0603(1608)|12k1|12k1_0603|Vishay|CRCW060312K1FKEA|Farnell|2122502|1
+R15, R16, R17, R18, R19, R20, R21, R22|R0402|10R|10R_0402|Vishay|CRCW040210R0FKEAHP|Farnell|1738824RL|8
+U1|TQFP-64_N1||PIC32MX695F512H-80I/PT|Microchip|PIC32MX695F512H-80I/PT|Farnell|1778975|1
+U2, U3|SOP8_N||25LC1024-I_SM|Microchip|25LC1024-I_SM|Farnell|1331393|2
+U4|TSSOP8||23LC1024-I_ST|Microchip|23LC1024-I/ST|Farnell|2212151|1
+U5|SOT23_M||11AA02E48T-I_TT|Microchip|11AA02E48T-I/TT|Farnell|1707616RL|1
+U6|SOIC18-WIDE||ULN2803ADW|TI|ULN2803ADW|Farnell|1652419|1
+U7|32M1-A_M||LAN8741-EN|Microchip|LAN8741-EN|Farnell|2373284|1
+U8|SG - 211 S*E||SG - 211 S*E -50.000M|Epson|X1G0036210074|Farnell|2405766RL|1
+U9|R-783_3-0_5||R-783.3-0.5|Recom|R-783.3-0.5|RS-Components|532-8044|1
+U10|Ag9812M||AG-9812M|Silvertel|AG-9812M|Codico|AG-9812M|1
+U11|SOIC16_L||MAX3232CSE|Maxim|MAX3232CSE+|Farnell|9725490|1
+X1, X3|M09HP||SUB-D_9|AMP|1-1634580-2|Arrow|1-1634580-2|2
+X2, X4, X5, X6, X7|WR-TBL-3127||WR-TBL3127|WE|691312710002|Farnell|1841288|5

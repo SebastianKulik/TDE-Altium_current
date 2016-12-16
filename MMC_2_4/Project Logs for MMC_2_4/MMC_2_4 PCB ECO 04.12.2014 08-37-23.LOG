@@ -1,0 +1,7 @@
+Change Class Name : Old Net Name=MMC_2_3_Ethernet New Net Name=MMC_2_4_Ethernet
+Change Class Name : Old Net Name=MMC_2_3_MCU New Net Name=MMC_2_4_MCU
+Change Class Name : Old Net Name=MMC_2_3_PSU New Net Name=MMC_2_4_PSU
+Change Room Name: Old Name=MMC_2_3_PSU New Name=MMC_2_4_PSU
+Change Room Scope: Old Scope=InComponentClass('MMC_2_3_PSU') New Scope=InComponentClass('MMC_2_4_PSU')
+Added Room: Name=MMC_2_4_Ethernet
+Added Room: Name=MMC_2_4_MCU

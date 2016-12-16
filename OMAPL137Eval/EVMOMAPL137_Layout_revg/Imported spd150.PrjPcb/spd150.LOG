@@ -1,0 +1,20 @@
+Importer Log Report
+Project : spd150.PrjPcb
+
+Section : Document - C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\OMAPL137Eval\EVMOMAPL137_Layout_revg\spd150.brd
+
+    Section : Import Messages
+        Warning : Unable to locate symbol definition for component   of type FID. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type FID. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type FID. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type FID. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type FID. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type FID. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type FID. Skipping to next component.
+        Warning : Unable to locate symbol definition for component   of type FID. Skipping to next component.
+        Warning : CONSTRAINT REGION is translated as Mechanical 1 layer lines/arcs.
+        Warning : CONSTRAINT REGION is translated as Mechanical 1 layer lines/arcs.
+        Warning : CONSTRAINT REGION is translated as Mechanical 1 layer lines/arcs.
+        Warning : CONSTRAINT REGION is translated as Mechanical 1 layer lines/arcs.
+    EndSection
+EndSection

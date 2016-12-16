@@ -1,0 +1,123 @@
+* LM5116
+*****************************************************************************
+* (C) Copyright 2013 Texas Instruments Incorporated. All rights reserved.                                            
+*****************************************************************************
+** This model is designed as an aid for customers of Texas Instruments.
+** TI and its licensors and suppliers make no warranties, either expressed
+** or implied, with respect to this model, including the warranties of 
+** merchantability or fitness for a particular purpose.  The model is
+** provided solely on an "as is" basis.  The entire risk as to its quality
+** and performance is with the customer
+*****************************************************************************
+*
+* This model is subject to change without notice. Texas Instruments
+* Incorporated is not responsible for updating this model.
+*
+*****************************************************************************
+*
+** Released by: WEBENCH Design Center, Texas Instruments Inc.
+* Part: LM5116
+* Date: 28FEB2013
+* Model Type: AVERAGE
+* Simulator: PSPICE
+* Simulator Version: 16.2.0.p001
+* EVM Order Number: AN-1713 LM5116-12
+* EVM Users Guide: SNVA285 - OCTOBER 2007
+* Datasheet: SNVS599D – REVISED FEBRUARY 2013
+*
+* Model Version: Final 1.00
+*
+*****************************************************************************
+*
+* Updates:
+*
+* Final 1.00
+* Release to Web.
+*
+*****************************************************************************
+*$
+.SUBCKT LM5116_AVG  VIN RT GND FB COMP SW PARAMS: L=15u FSW=166.21k VOUT=5
+Rdummy1 RT 0 1G
+Rdummy2 RT 0 1G
+ROUT VSW SW 0.012489066371323625
+D1 VSWX 6 MUR110
+.MODEL MUR110 D BV=133.3 CJO=45P IBV=2U IS=13.5N M=.302  N=1.59 RS=25.7M TT=50.4N VJ=.75
+RIN VIN 6 0.09
+E_BAVERAGE IL GND value = { {L} * {FSW} *(V(IP)**2-V(IV)**2)/2*(1/V(VSW)+1/V(VON))}
+E_BRAMP COMP VR value = { 0.41986791489361697 *V(D)+ 0.06400425531914894 *V(D)* (V(VIN) - {VOUT} )}
+X2 FB REF COMP VSUPPLY GND OPAMPL_0
+XAHS IL ILS S_XFER
+VREF REF GND DC=1.215
+E_BPEAKX IPX GND value = { (V(VR)/ 0.09 +V(VON)*V(D)/( {L} * {FSW} ))}
+VLIM VSUPPLY GND DC=1.2
+E_BVALLEY IV GND value = { IF(V(IVX)>0 , V(IVX) , 0)}
+E_BDUTY D GND value = { IF(V(DX) < 0 , 0 , V(DX))}
+E_BDUTYX DX GND value = { IF(( {L} * {FSW} *(V(IP)-V(IV))/V(VON)) > 0.95 , 0.95 , ( {L} * {FSW}
++	 *(V(IP)-V(IV))/V(VON)))}
+E_BPEAK IP GND value = { IF(V(IPX) > 0 , V(IPX) , 0)}
+E_BVALLEYX IVX GND value = {(V(IP)-V(VSW)*(1-V(VSW)/V(VIN))/( {L} * {FSW} ))}
+VGND GND GND1 DC=0
+REXT GND1 0 1m
+G_BIN 6 GND value = {V(VSW)*I(VIL1)/(V(VIN))}
+VIL1 VSWX VSW DC=0
+G_BOUT GND VSWX value = { IF(V(IV)>0 , V(ILS) , V(IL))}
+E_BON VON GND value = {V(VIN,VSW)}
+.ENDS LM5116_AVG
+*$
+.SUBCKT S_XFER 1 2 PARAMS: IN_OFFSET=0	GAIN=1 c0_num=1 c2_den=3.667536067078287E-12 
++ c1_den=-2.2632294854346824E-6 c0_den=1 OUT_IC=0 DENORM_FREQ=1
+ES_XFER 2 0 LAPLACE {IN_OFFSET+GAIN*V(1)}={(c0_num/(c2_den*s*s+c1_den*s+c0_den))}
+.ENDS
+*$
+.SUBCKT OPAMPL_0 2 3 6 7 4
+RP 4 7 10K
+RXX 4 0 10MEG
+IBP 3 0 17.000N
+RIP 3 0 10MEG
+CIP 3 0 1.4PF
+IBN 2 0 17.000N
+RIN 2 0 10MEG
+CIN 2 0 1.4PF
+VOFST 2 10 0
+RID 10 3 200K
+EA 11 0 10 3 1
+R1 11 12 5K
+R2 12 13 50K
+C1 12 0 4.3333P
+GA 0 14 0 13 135.00
+C2 13 14 900.00F
+RO 14 0 75
+L 14 6 10.0000U
+RL 14 6 1000
+CL 6 0 3PF
+.MODEL MUR110 D BV=133.3 CJO=45P IBV=2U IS=13.5N M=.302  N=1.59 RS=25.7M TT=50.4N VJ=.75
+.ENDS
+*$
+.SUBCKT Cout 2 4
+R1 2 3 0.0010
+C1 3 1 1.4463631552839E-4 
+R3 5 4 150
+R2 2 4 6913892.9344733935
+R4 3 26 222222.22222222222
+R6 3 7 222.22222222222223
+C5 7 1 4.3390894658517E-6 
+R7 3 10 22.22222222222222
+C6 10 1 4.3390894658517E-6 
+R8 3 13 2.2222222222222223
+C7 13 1 4.3390894658517E-6 
+C2 26 1 4.3390894658517E-6 
+R9 3 28 22222.222222222223
+C3 28 1 4.3390894658517E-6 
+R10 3 29 2222.222222222222
+C4 29 1 4.3390894658517E-6 
+L8 1 5 15p
+R24 1 5 0.0030
+L12 5 4 1n
+.ends
+*$
+.SUBCKT LDCR  IN OUT
++ PARAMS:  L=1U DCR=0.01 
+L IN 1  {L} 
+RDCR 1 OUT {DCR}
+.ENDS LDCR
+*$

@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [DVT-Discrete.PrjPcb]
+   Generated File[DVT-Discrete.GTL]
+   Generated File[DVT-Discrete.GBL]
+   Generated File[DVT-Discrete.GTO]
+   Generated File[DVT-Discrete.GTS]
+   Generated File[DVT-Discrete.GBS]
+   Generated File[DVT-Discrete.GM15]
+   Generated File[DVT-Discrete.GM31]
+   Generated File[DVT-Discrete.GM32]
+   Generated File[DVT-Discrete.GD1]
+   Generated File[DVT-Discrete.GG1]
+   Generated File[DVT-Discrete.RUL]
+   Generated File[DVT-Discrete.EXTREP]
+   Generated File[DVT-Discrete.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 09:29:56 On 17.12.2015

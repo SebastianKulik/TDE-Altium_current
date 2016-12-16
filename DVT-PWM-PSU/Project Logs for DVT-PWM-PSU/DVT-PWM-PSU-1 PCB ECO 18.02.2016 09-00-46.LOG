@@ -1,0 +1,45 @@
+Added Component: Designator=ASyncEnbl(HDR1X2)
+Added Component: Designator=PSkipEnbl(HDR1X2)
+Added Component: Designator=R7(Dummy-10mm)
+Added Component: Designator=R8(Dummy-10mm)
+Added Component: Designator=R9(Dummy-10mm)
+Added Component: Designator=R10(Dummy-10mm)
+Added Component: Designator=R11(Dummy-10mm)
+Added Pin To Net: NetName=A-GND Pin=ASyncEnbl-2
+Added Pin To Net: NetName=A-GND Pin=PSkipEnbl-2
+Added Pin To Net: NetName=NetC3_1 Pin=R7-2
+Added Pin To Net: NetName=NetC2_1 Pin=R9-2
+Added Pin To Net: NetName=NetC2_1 Pin=R10-2
+Added Pin To Net: NetName=NetC2_1 Pin=R11-2
+Change Net Name : Old Net Name=NetC2_1 New Net Name=VDD
+Added Pin To Net: NetName=NetASyncEnbl_1 Pin=ASyncEnbl-1
+Added Pin To Net: NetName=NetASyncEnbl_1 Pin=R10-1
+Added Pin To Net: NetName=NetASyncEnbl_1 Pin=U1-17
+Added Net: Name=NetASyncEnbl_1
+Added Pin To Net: NetName=NetPSkipEnbl_1 Pin=PSkipEnbl-1
+Added Pin To Net: NetName=NetPSkipEnbl_1 Pin=R11-1
+Added Pin To Net: NetName=NetPSkipEnbl_1 Pin=U1-11
+Added Net: Name=NetPSkipEnbl_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U1-4
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=U1-13
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U1-12
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U1-6
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetU1_9 Pin=U1-9
+Added Net: Name=NetU1_9
+Added Pin To Net: NetName=NetU1_14 Pin=U1-14
+Added Net: Name=NetU1_14
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component ASyncEnbl Plug_2_90_2.54
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component PSkipEnbl Plug_2_90_2.54
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R7 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R8 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R9 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R10 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R11 Resistor-Dummy-THT

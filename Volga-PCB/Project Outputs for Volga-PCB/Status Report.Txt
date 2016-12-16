@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Volga-PCB.PrjPcb]
+   Generated File[Volga-PCB.TXT]
+   Generated File[Volga-PCB.LDP]
+   Generated File[Volga-PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:55:39 On 15.11.2016

@@ -1,0 +1,145 @@
+Added Component: Designator=Manchester-1(HDR1X12_2.54)
+Added Component: Designator=Manchester-2(HDR1X12_2.54)
+Added Component: Designator=To Extention-1(HDR1X12_2.54)
+Added Component: Designator=To Extention-2(HDR1X5_2.54)
+Added Component: Designator=TX1(HDR1X2)
+Added Component: Designator=TX2(HDR1X2)
+Added Component: Designator=U1(SO-16_L)
+Added Component: Designator=U2(SOIC16_N)
+Added Component: Designator=U3(DIP-16)
+Added Component: Designator=UART(HDR1X2)
+Added Pin To Net: NetName=3.3VCC Pin=To Extention-2-4
+Added Pin To Net: NetName=3.3VCC Pin=U1-1
+Added Pin To Net: NetName=3.3VCC Pin=U1-11
+Added Pin To Net: NetName=3.3VCC Pin=U1-12
+Added Pin To Net: NetName=3.3VCC Pin=U1-13
+Added Pin To Net: NetName=3.3VCC Pin=U2-16
+Added Net: Name=3.3VCC
+Added Pin To Net: NetName=5VCC Pin=To Extention-2-3
+Added Pin To Net: NetName=5VCC Pin=U3-1
+Added Pin To Net: NetName=5VCC Pin=U3-13
+Added Pin To Net: NetName=5VCC Pin=U3-16
+Added Net: Name=5VCC
+Added Pin To Net: NetName=EXP2_UART1_RXD Pin=To Extention-2-1
+Added Pin To Net: NetName=EXP2_UART1_RXD Pin=UART-1
+Added Net: Name=EXP2_UART1_RXD
+Added Pin To Net: NetName=EXP2_UART1_TXD Pin=To Extention-2-2
+Added Pin To Net: NetName=EXP2_UART1_TXD Pin=UART-2
+Added Net: Name=EXP2_UART1_TXD
+Added Pin To Net: NetName=GND Pin=Manchester-1-12
+Added Pin To Net: NetName=GND Pin=Manchester-2-12
+Added Pin To Net: NetName=GND Pin=To Extention-2-5
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Net: Name=GND
+Added Pin To Net: NetName=NetManchester-1_1 Pin=Manchester-1-1
+Added Pin To Net: NetName=NetManchester-1_1 Pin=U2-2
+Added Net: Name=NetManchester-1_1
+Added Pin To Net: NetName=NetManchester-1_2 Pin=Manchester-1-2
+Added Pin To Net: NetName=NetManchester-1_2 Pin=U2-5
+Added Net: Name=NetManchester-1_2
+Added Pin To Net: NetName=NetManchester-1_3 Pin=Manchester-1-3
+Added Pin To Net: NetName=NetManchester-1_3 Pin=U2-11
+Added Net: Name=NetManchester-1_3
+Added Pin To Net: NetName=NetManchester-1_4 Pin=Manchester-1-4
+Added Pin To Net: NetName=NetManchester-1_4 Pin=U2-14
+Added Net: Name=NetManchester-1_4
+Added Pin To Net: NetName=NetManchester-1_5 Pin=Manchester-1-5
+Added Pin To Net: NetName=NetManchester-1_5 Pin=Manchester-2-5
+Added Pin To Net: NetName=NetManchester-1_5 Pin=To Extention-1-4
+Added Net: Name=NetManchester-1_5
+Added Pin To Net: NetName=NetManchester-1_6 Pin=Manchester-1-6
+Added Pin To Net: NetName=NetManchester-1_6 Pin=U1-10
+Added Net: Name=NetManchester-1_6
+Added Pin To Net: NetName=NetManchester-1_7 Pin=Manchester-1-7
+Added Pin To Net: NetName=NetManchester-1_7 Pin=U1-14
+Added Net: Name=NetManchester-1_7
+Added Pin To Net: NetName=NetManchester-1_8 Pin=Manchester-1-8
+Added Pin To Net: NetName=NetManchester-1_8 Pin=To Extention-1-6
+Added Net: Name=NetManchester-1_8
+Added Pin To Net: NetName=NetManchester-1_9 Pin=Manchester-1-9
+Added Pin To Net: NetName=NetManchester-1_9 Pin=To Extention-1-9
+Added Net: Name=NetManchester-1_9
+Added Pin To Net: NetName=NetManchester-1_10 Pin=Manchester-1-10
+Added Pin To Net: NetName=NetManchester-1_10 Pin=U3-3
+Added Net: Name=NetManchester-1_10
+Added Pin To Net: NetName=NetManchester-1_11 Pin=Manchester-1-11
+Added Pin To Net: NetName=NetManchester-1_11 Pin=U3-5
+Added Net: Name=NetManchester-1_11
+Added Pin To Net: NetName=NetManchester-2_1 Pin=Manchester-2-1
+Added Pin To Net: NetName=NetManchester-2_1 Pin=U2-3
+Added Net: Name=NetManchester-2_1
+Added Pin To Net: NetName=NetManchester-2_2 Pin=Manchester-2-2
+Added Pin To Net: NetName=NetManchester-2_2 Pin=U2-6
+Added Net: Name=NetManchester-2_2
+Added Pin To Net: NetName=NetManchester-2_3 Pin=Manchester-2-3
+Added Pin To Net: NetName=NetManchester-2_3 Pin=U2-10
+Added Net: Name=NetManchester-2_3
+Added Pin To Net: NetName=NetManchester-2_4 Pin=Manchester-2-4
+Added Pin To Net: NetName=NetManchester-2_4 Pin=U2-13
+Added Net: Name=NetManchester-2_4
+Added Pin To Net: NetName=NetManchester-2_6 Pin=Manchester-2-6
+Added Pin To Net: NetName=NetManchester-2_6 Pin=U1-16
+Added Net: Name=NetManchester-2_6
+Added Pin To Net: NetName=NetManchester-2_7 Pin=Manchester-2-7
+Added Pin To Net: NetName=NetManchester-2_7 Pin=U1-8
+Added Net: Name=NetManchester-2_7
+Added Pin To Net: NetName=NetManchester-2_8 Pin=Manchester-2-8
+Added Pin To Net: NetName=NetManchester-2_8 Pin=To Extention-1-8
+Added Net: Name=NetManchester-2_8
+Added Pin To Net: NetName=NetManchester-2_9 Pin=Manchester-2-9
+Added Pin To Net: NetName=NetManchester-2_9 Pin=To Extention-1-10
+Added Net: Name=NetManchester-2_9
+Added Pin To Net: NetName=NetManchester-2_10 Pin=Manchester-2-10
+Added Pin To Net: NetName=NetManchester-2_10 Pin=U3-7
+Added Net: Name=NetManchester-2_10
+Added Pin To Net: NetName=NetManchester-2_11 Pin=Manchester-2-11
+Added Pin To Net: NetName=NetManchester-2_11 Pin=U3-9
+Added Net: Name=NetManchester-2_11
+Added Pin To Net: NetName=NetTo Extention-1_1 Pin=To Extention-1-1
+Added Pin To Net: NetName=NetTo Extention-1_1 Pin=U2-7
+Added Net: Name=NetTo Extention-1_1
+Added Pin To Net: NetName=NetTo Extention-1_2 Pin=To Extention-1-2
+Added Pin To Net: NetName=NetTo Extention-1_2 Pin=U2-9
+Added Net: Name=NetTo Extention-1_2
+Added Pin To Net: NetName=NetTo Extention-1_3 Pin=To Extention-1-3
+Added Pin To Net: NetName=NetTo Extention-1_3 Pin=U2-4
+Added Net: Name=NetTo Extention-1_3
+Added Pin To Net: NetName=NetTo Extention-1_5 Pin=To Extention-1-5
+Added Pin To Net: NetName=NetTo Extention-1_5 Pin=U1-3
+Added Net: Name=NetTo Extention-1_5
+Added Pin To Net: NetName=NetTo Extention-1_7 Pin=To Extention-1-7
+Added Pin To Net: NetName=NetTo Extention-1_7 Pin=U1-7
+Added Net: Name=NetTo Extention-1_7
+Added Pin To Net: NetName=NetTo Extention-1_11 Pin=To Extention-1-11
+Added Pin To Net: NetName=NetTo Extention-1_11 Pin=U2-1
+Added Net: Name=NetTo Extention-1_11
+Added Pin To Net: NetName=NetTo Extention-1_12 Pin=To Extention-1-12
+Added Pin To Net: NetName=NetTo Extention-1_12 Pin=U2-12
+Added Net: Name=NetTo Extention-1_12
+Added Pin To Net: NetName=NetTX1_1 Pin=TX1-1
+Added Pin To Net: NetName=NetTX1_1 Pin=U3-2
+Added Net: Name=NetTX1_1
+Added Pin To Net: NetName=NetTX1_2 Pin=TX1-2
+Added Pin To Net: NetName=NetTX1_2 Pin=U3-4
+Added Net: Name=NetTX1_2
+Added Pin To Net: NetName=NetTX2_1 Pin=TX2-1
+Added Pin To Net: NetName=NetTX2_1 Pin=U3-6
+Added Net: Name=NetTX2_1
+Added Pin To Net: NetName=NetTX2_2 Pin=TX2-2
+Added Pin To Net: NetName=NetTX2_2 Pin=U3-10
+Added Net: Name=NetTX2_2
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=U1-9
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Pin To Net: NetName=NetU1_6 Pin=U1-15
+Added Net: Name=NetU1_6
+Added Class: Name=OMAPL-137-Manchester2
+Added Class: Name=OMAPL-137-Manchester
+Change Room Name: Old Name=DVT-PSU-LM5116-HT_2 New Name=OMAPL-137-Manchester2
+Change Room Scope: Old Scope=InComponentClass('DVT-PSU-LM5116-HT_2') New Scope=InComponentClass('OMAPL-137-Manchester2')
+Added Room: Name=OMAPL-137-Manchester

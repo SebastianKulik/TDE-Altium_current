@@ -1,0 +1,422 @@
+
+
+Version:  4.3.0b3
+Host:     TDE-kulik.tde.at
+CPU:      2 cores (User)
+Mode:     64bit
+Platform: w64
+Run Date: 07-11-2016 10:02
+Run Dir:  C:\
+
+Temp Dir: C:/Users/kulik_s/AppData/Local/Temp/tispice.a09192
+
+
+Parsing netlists
+
+----------------
+
+done
+
+
+Walking AST
+-----------
+
+done
+
+
+
+Checking Analyses
+
+-----------------
+
+done
+
+
+Expanding circuit
+-----------------
+
+
+
+* WARNING * TNOM is not defined on diode model lm5116_buck_block_wb_lm5116_buck_block_with_rramp_d1.lm5116_buck_block_d1_wb_diode_schottky. (DEVICE-23)
+
+
+* WARNING * TNOM is not defined on diode model lm5116_buck_block_m1_wb_power_n_mosfet.lm5116_buck_blo
+ck_m1_wb_power_n_mosfet_dbt. (DEVICE-23)
+
+
+* WARNING * RS is not defined or equal to zero on diode model lm5116_buck_block_m1_wb_power_n_mosfet.lm5116_buck_block_m1_wb_power_n_mosfet_dbt (DIODE-2)
+
+
+
+
+* WARNING * TNOM is not defined on mos1 model lm5116_buck_block_m1_wb_power_n_mosfet.lm5116_buck_block_m1_wb_power_n_mosfet__m1_modx. (DEVICE-23)
+
+
+* WARNING * TNOM is not defined on diode model lm5116_buck_block_m2_wb_power_n_mosfet.lm5116_buck_block_m2_
+wb_power_n_mosfet_dbt. (DEVICE-23)
+
+
+* WARNING * RS is not defined or equal to zero on diode model lm5116_buck_block_m2_wb_power_n_mosfet.lm5116_buck_block_m2_wb_power_n_mosfet_dbt (DIODE-2)
+
+
+* WARNING * TNOM is not defined on mos3 model lm5116_buck_bloc
+k_m2_wb_power_n_mosfet.lm5116_buck_block_m2_wb_power_n_mosfet_dmos. (DEVICE-23)
+
+
+
+
+* WARNING * TNOM is not defined on diode model lm5116_buck_block_u1_wb_lm5116.lm5116_buck_block_u1_wb_lm5116_q1n914a. (DEVICE-23)
+
+
+* WARNING * RS is not defined or equal to zero on diode model lm5116_buck_block_u1_wb_lm5116.lm5116_buck_block_u1_wb_lm5116
+_q1n914a (DIODE-2)
+
+
+
+
+* WARNING * Model lm5116_buck_block_u1_wb_lm5116.lm5116_buck_block_u1_wb_lm5116_dgd has parameter M = 2.4 out of range (> 0.9).  (DEVICE-26)
+
+
+* WARNING * TNOM is not defined on diode model lm5116_buck_block_u1_wb_lm5116.lm5116_buck_block_u1_wb_lm5116_dgd
+. (DEVICE-23)
+
+
+* WARNING * RS is not defined or equal to zero on diode model lm5116_buck_block_u1_wb_lm5116.lm5116_buck_block_u1_wb_lm5116_dgd (DIODE-2)
+
+
+
+
+* WARNING * TNOM is not defined on bjt model lm5116_buck_block_u1_wb_lm5116._q2_mod. (DEVICE-23)
+
+
+* WARNING * TNOM is not defined on bjt model lm5116_buck_block_u1_wb_lm5116._q3_mod. (DEVICE-23)
+
+
+* WARNING * Device xu1.xcall.v3 is shorted to 0 and will 
+be removed. (EXPANDER-28)
+
+
+* WARNING * Device xu1.xcall.v7 is shorted to 0 and will be removed. (EXPANDER-28)
+
+
+* WARNING * Device xu1.xcall.v9 is shorted to 0 and will be removed. (EXPANDER-28)
+
+
+* WARNING * TNOM is not defined on diode model lm5116_buc
+k_block_u1_wb_lm5116_ampsimp#0.lm5116_buck_block_u1_wb_lm5116_dclp. (DEVICE-23)
+
+
+done
+
+
+Setting up simulation
+---------------------
+
+
+Devices:
+
+    bjt              3
+    capacitor       36
+    digital_a2d     16
+    digital_d2a     10
+    digital_gate    18
+    digital_vco      1
+    diode_pspice    11
+    inductor         3
+    isource          3
+    mos1             1
+    mos3             1
+  
+  nonlinear_vccs   1
+    nonlinear_vcvs  24
+    resistor        64
+    vccs             3
+    vcvs             4
+    vsource         17
+    vswitch          5
+Total Devices       221
+Total Nets          153
+Total Connections   984
+Total Nodes         249
+
+done
+
+
+Running analysis
+----------------
+
++----------------------------------------------------------------------------+
+|                             Transient Analysis                             |
++------------------------------------------------------------
+----------------+
+tstart         = 0          tstop          = 0.003     
+tstep          = 1e-006     tres           = 1e-008    
+tmin           = 1e-015     tmax           = 0.00015   
+accuracy       = 4          turbo          = 2         
+lteratio     
+  = 20         lterelratio    = 20        
+reltol         = 0.01       vabstol        = 5e-005    
+iabstol        = 5e-005     kcltol         = 5e-005    
+latencyratio   = 0.1        bypass_th      = 0.1       
+dmu_th         = 0.3        multirateratio =
+ 0.1       
+maxiters       = 10         uic            = 0         
+save           = 0          lteref         = pointlocal
+updref         = pointlocal stepctrl       = lte       
+method         = gear       lte_check      = selective 
+optstep        = of
+f        ltemin         = 0.4       
+ltemax         = 4         
+
+Computing an operating point ...
+DC algorithms converged (#iter=38).
+Writing init file: C:/Users/kulik_s/Documents/ExodusAmps/TDE-Altium/DVT-PSU-LM5116-HT/Altium/Project Outputs for webench
+_design_1160921_72_ad14_sim/webench_design_1160921_72_ad14_sim.tis.init/webench_design_1160921_72_ad14_sim.tis.init.transient
+
+
+Starting a transient run ...
+
+
+  Time          Time     Step Size  #Iter   #Rej   %Comp
+ Point         (sec)         (sec)                      
+--------------------------------------------------------
+
+     0     0.000000      0.000000       0
+      0   0.00%
+     1     4.028712u     4.028712u      1      0   0.13%
+     2     4.028812u   100.000000p      1      0   0.13%
+     3     4.029012u   200.000000p      2      0   0.13%
+     4     4.029412u   400.000000p      2      0   0.13%
+     5     
+4.030212u   800.000000p      2      0   0.13%
+     6     4.031812u     1.600000n      1      0   0.13%
+     7     4.035012u     3.200000n      2      0   0.13%
+     8     4.041412u     6.400000n      2      0   0.13%
+     9     4.041812u   400.000000p    
+  2      0   0.13%
+    10     4.042612u   800.000000p      2      0   0.13%
+    11     4.044212u     1.600000n      2      0   0.13%
+    12     4.047412u     3.200000n      2      0   0.13%
+    13     4.053812u     6.400000n      1      0   0.14%
+    14  
+   4.066612u    12.800000n      1      0   0.14%
+    15     4.092212u    25.600000n      1      0   0.14%
+    16     4.143412u    51.200000n      1      0   0.14%
+    17     4.245812u   102.400000n      1      0   0.14%
+                       204.800000n 
+     1               
+                        76.800000n      1               
+                        38.400000n      1               
+                        19.200000n      1               
+                         9.600000n      1               
+    1
+8     4.255412u     9.600000n      1      5   0.14%
+                        19.200000n      1               
+                         4.800000n      1               
+                         1.200000n      1               
+                       299.99999
+8p      1               
+                        74.999999p      1               
+                        18.750000p      1               
+                         4.687500p      1               
+                         1.171875p      1               
+  
+                     292.968745f      1               
+                        84.309829f      1               
+                        34.655249f      1               
+                        17.327625f      2               
+    19     4.255412u    17.32
+7624f      3     12   0.14%
+    20     4.255413u    34.655249f      1      0   0.14%
+    21     4.255413u    69.310497f      1      0   0.14%
+    22     4.255413u   138.620994f      1      0   0.14%
+    23     4.255413u   277.241988f      1      0   0.14%
+
+                       554.483976f      1               
+    24     4.255414u   554.483976f      1      1   0.14%
+                         1.108968p      1               
+                       277.241987f      1               
+                        87
+.437474f      1               
+                        36.967097f      1               
+                        18.483548f      2               
+    25     4.255414u    18.483548f      3      5   0.14%
+    26     4.255414u    36.967096f      1      0   0.
+14%
+    27     4.255414u    73.934192f      1      0   0.14%
+    28     4.255414u   147.868385f      1      0   0.14%
+    29     4.255414u   295.736769f      1      0   0.14%
+                       591.473539f      1               
+    30     4.255415u   
+591.473539f      1      1   0.14%
+                         1.182947p      1               
+                       295.736769f      1               
+                        91.632189f      1               
+                        38.162189f      1         
+      
+                        19.081095f      2               
+    31     4.255415u    19.081094f      3      5   0.14%
+    32     4.255415u    38.162189f      1      0   0.14%
+    33     4.255415u    76.324377f      1      0   0.14%
+                    
+   152.648754f      1               
+    34     4.255415u   152.648754f      1      1   0.14%
+                       305.297508f      1               
+                        99.750045f      1               
+                        43.146906f      1      
+         
+                        21.573453f      2               
+    35     4.255415u    21.573453f      3      4   0.14%
+    36     4.255415u    43.146906f      1      0   0.14%
+    37     4.255415u    86.293813f      1      0   0.14%
+                 
+      172.587625f      1               
+    38     4.255415u   172.587625f      1      1   0.14%
+                       345.175250f      1               
+                       108.982216f      1               
+                        45.780676f      1   
+            
+                        22.890338f      2               
+    39     4.255415u    22.890338f      3      4   0.14%
+    40     4.255415u    45.780676f      2      0   0.14%
+    41     4.255415u    91.561351f      2      0   0.14%
+    42     4.2
+55416u   183.122702f      1      0   0.14%
+    43     4.255416u   366.245405f      1      0   0.14%
+    44     4.255417u   732.490810f      1      0   0.14%
+    45     4.255418u     1.464982p      1      0   0.14%
+    46     4.255421u     2.929963p      2
+      0   0.14%
+    47     4.255427u     5.859926p      2      0   0.14%
+    48     4.255439u    11.719853p      2      0   0.14%
+    49     4.255462u    23.439706p      2      0   0.14%
+    50     4.255509u    46.879412p      1      0   0.14%
+    51     
+4.255603u    93.758824p      1      0   0.14%
+    52     4.255790u   187.517647p      2      0   0.14%
+    53     4.256165u   375.035294p      2      0   0.14%
+    54     4.256915u   750.070589p      2      0   0.14%
+    55     4.258416u     1.500141n    
+  2      0   0.14%
+    56     4.261416u     3.000282n      1      0   0.14%
+    57     4.267416u     6.000565n      1      0   0.14%
+    58     4.279418u    12.001129n      2      0   0.14%
+    59     4.303420u    24.002259n      2      0   0.14%
+    60  
+   4.351424u    48.004518n      2      0   0.15%
+    61     4.447433u    96.009035n      1      0   0.15%
+    62     4.539394u    91.960948n      1      0   0.15%
+    63     4.539494u   100.000000p      1      0   0.15%
+    64     4.539694u   200.000000p 
+     2      0   0.15%
+    65     4.540094u   400.000000p      2      0   0.15%
+    66     4.540894u   800.000000p      2      0   0.15%
+    67     4.542494u     1.600000n      1      0   0.15%
+    68     4.545694u     3.200000n      2      0   0.15%
+    6
+9     4.552094u     6.400000n      2      0   0.15%
+    70     4.552494u   400.000000p      2      0   0.15%
+    71     4.553294u   800.000000p      2      0   0.15%
+    72     4.554894u     1.600000n      2      0   0.15%
+    73     4.558094u     3.20000
+0n      2      0   0.15%
+    74     4.564494u     6.400000n      1      0   0.15%
+    75     4.577294u    12.800000n      1      0   0.15%
+    76     4.602894u    25.600000n      1      0   0.15%
+    77     4.654094u    51.200000n      1      0   0.16%
+  
+  78     4.756494u   102.400000n      1      0   0.16%
+    79     4.961294u   204.800000n      1      0   0.17%
+    80     5.370894u   409.600000n      2      0   0.18%
+                       819.200000n      2               
+                       140.80
+0000n      2               
+    81     5.441294u    70.400000n      1      2   0.18%
+    82     5.451294u    10.000000n      3      0   0.18%
+    83     5.471294u    20.000000n      2      0   0.18%
+    84     5.511294u    40.000000n      2      0   0.18%
+
+                        80.000000n      1               
+    85     5.581294u    70.000000n      1      1   0.19%
+    86     5.591294u    10.000000n      2      0   0.19%
+    87     5.593049u     1.754476n      2      0   0.19%
+    88     5.596558u     3
+.508953n      2      0   0.19%
+    89     5.603576u     7.017906n      2      0   0.19%
+    90     5.617611u    14.035811n      2      0   0.19%
+    91     5.645683u    28.071623n      1      0   0.19%
+    92     5.701826u    56.143246n      1      0   0.
+19%
+    93     5.814113u   112.286492n      1      0   0.19%
+    94     6.038686u   224.572983n      1      0   0.20%
+    95     6.487832u   449.145966n      1      0   0.22%
+    96     7.386124u   898.291933n      2      0   0.25%
+                       
+  1.181983u      2               
+                       304.730011n      1               
+                       142.842193n      1               
+    97     7.511111u   124.986919n      1      3   0.25%
+    98     7.521111u    10.000000n      3      0  
+ 0.25%
+                        20.000000n      1               
+                        10.000000n      1               
+    99     7.531111u    10.000000n      2      2   0.25%
+   100     7.548661u    17.550830n      2      0   0.25%
+   110     8.571207u
+     1.022545u     16      0   0.29%
+   120     8.682807u   111.600000n     16      0   0.29%
+   130     9.091489u   408.681861n     16      0   0.30%
+   140     9.487889u   396.400000n     15      1   0.32%
+   150     9.672277u   184.388845n     20      
+1   0.32%
+   160    11.617529u     1.945251u     22      6   0.39%
+   170    13.110601u     1.493072u     17      0   0.44%
+   180    13.222201u   111.600000n     16      0   0.44%
+   190    13.602220u   380.018934n     16      1   0.45%
+   200    13.6320
+83u    29.862928n     17      0   0.45%
+   210    15.243283u     1.611200u     15      1   0.51%
+   220    17.191431u     1.948148u     26      4   0.57%
+   230    17.647195u   455.764760n     14      0   0.59%
+   240    17.671995u    24.800000n     18   
+   0   0.59%
+   250    18.159077u   487.081861n     14      0   0.61%
+   260    18.221077u    62.000000n     16      0   0.61%
+
+   270    19.280358u     1.059280u     18      3   0.64%
+
+   280    20.910331u     1.629974u     22
+      3   0.70%
+
+   290    22.198990u     1.288658u     16      0   0.74%
+
+   300    22.556990u   358.000000n     15      1   0.75%
+
+   310    22.697672u   140.681861n     22      1   0.76%
+
+   320    22.734872u    37.200000n     17      0   0.76%
+
+   330    24.479935u     1.745063u     19
+      3   0.82%
+
+   340    26.404793u     1.924858u     19      3   0.88%
+                        20.000000n      1               
+                        10.000000n      1               
+
+   350    26.727184u   322.390658n     18      2   0.89%
+
+   360    26.789184u    62.000000n     16      0   0.89%
+
+   370    27.242666u   453.481861n     14      0   0.91%
+
+   380    27.453466u   210.800000n     15      0   0.92%
+
+   390    28.060747u   607.281489n     24
+      4   0.94%
+
+   400    29.992768u     1.932020u     20      5   1.00%
+
+   410    31.265778u     1.273010u     18      0   1.04%
+
+   420    31.302978u    37.200000n     17      0   1.04%
+

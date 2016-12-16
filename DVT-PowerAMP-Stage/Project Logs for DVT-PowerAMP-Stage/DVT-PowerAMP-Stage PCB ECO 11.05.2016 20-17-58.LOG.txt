@@ -1,0 +1,9 @@
+Added Component: Designator=P1(HDR1X6_2.54)
+Added Pin To Net: NetName=NetGateA_2 Pin=P1-1
+Added Pin To Net: NetName=NetGateA_1 Pin=P1-2
+Added Pin To Net: NetName=NetGateB_2 Pin=P1-3
+Added Pin To Net: NetName=NetGateB_1 Pin=P1-4
+Added Pin To Net: NetName=NetR4_2 Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetP1_5
+Added Member To Class: ClassName=DVT-PowerAMP-Stage Member=Component P1 Plug_06_2.54

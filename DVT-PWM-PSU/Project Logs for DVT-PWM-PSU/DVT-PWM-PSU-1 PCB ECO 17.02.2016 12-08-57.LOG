@@ -1,0 +1,32 @@
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=C6
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=C7
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=D1
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=D2
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=D3
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=EN
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=ERR1
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=ERR2
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=INV-1
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=INV-2
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=MCU
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=N_P-1
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=N_P-2
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=PA-EN
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=Q1
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=Q2
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=Q3
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=Q4
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=Q5
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=R1
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=R2
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=R-End
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=R-Gate-H
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=R-Gate-L
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=TX
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=U2
+Change Component DesignItemId : Designator=U1 Old DesignItemId=XTR25411A-D New DesignItemId=XTR30011-D
+Change Component Footprint: Designator=U1 Old Footprint=DIP-16-Ceramic-HT New Footprint=DIP-24-Ceramic-HT
+Change Component Comment : Designator=U1 Old Comment=XTR25411A-D New Comment=XTR30011-D
+Change Class Name : Old Net Name=DVT-Discrete-1 New Net Name=DVT-PWM-PSU-1
+Change Room Name: Old Name=DVT-Discrete-2 New Name=DVT-PWM-PSU-1
+Change Room Scope: Old Scope=InComponentClass('DVT-Discrete-2') New Scope=InComponentClass('DVT-PWM-PSU-1')

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DVT-PowerAMP-Stage.PrjPcb]
+   Generated File[DVT-PowerAMP-Stage.TXT]
+   Generated File[DVT-PowerAMP-Stage.LDP]
+   Generated File[DVT-PowerAMP-Stage.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:11:39 On 12.05.2016

@@ -1,0 +1,79 @@
+Added Component: Designator=C1(Dummy-10mm)
+Added Component: Designator=C2(Dummy-10mm)
+Added Component: Designator=C3(Dummy-10mm)
+Added Component: Designator=C4(Dummy-10mm)
+Added Component: Designator=C5(Dummy-10mm)
+Added Component: Designator=C6(Dummy-10mm)
+Added Component: Designator=Cf1(Dummy-10mm)
+Added Component: Designator=Cf2(Dummy-10mm)
+Added Component: Designator=Cf3(Dummy-10mm)
+Added Component: Designator=IN(Phoenix-2-5_08)
+Added Component: Designator=OUT(Phoenix-2-5_08)
+Added Component: Designator=R1(Dummy-10mm)
+Added Component: Designator=R2(Dummy-10mm)
+Added Component: Designator=R3(Dummy-10mm)
+Added Component: Designator=R4(Dummy-10mm)
+Added Component: Designator=R5(Dummy-10mm)
+Added Component: Designator=R6(Dummy-10mm)
+Added Component: Designator=U1(SOP8_L)
+Added Component: Designator=U2(SOP8_L)
+Added Component: Designator=VCC(Phoenix-2-5_08)
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=Cf1-2
+Added Pin To Net: NetName=GND Pin=Cf2-2
+Added Pin To Net: NetName=GND Pin=Cf3-2
+Added Pin To Net: NetName=GND Pin=IN-2
+Added Pin To Net: NetName=GND Pin=OUT-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=VCC-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=IN-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=C2-1
+Added Pin To Net: NetName=NetC1_2 Pin=R2-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R1-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-3
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R2-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-2
+Added Pin To Net: NetName=NetC3_1 Pin=U1-6
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C4-1
+Added Pin To Net: NetName=NetC3_2 Pin=R4-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R3-2
+Added Pin To Net: NetName=NetC4_2 Pin=U2-3
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R4-1
+Added Pin To Net: NetName=NetC5_1 Pin=U2-2
+Added Pin To Net: NetName=NetC5_1 Pin=U2-6
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=OUT-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=VCC Pin=Cf1-1
+Added Pin To Net: NetName=VCC Pin=Cf2-1
+Added Pin To Net: NetName=VCC Pin=Cf3-1
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U2-7
+Added Pin To Net: NetName=VCC Pin=VCC-1
+Added Net: Name=VCC
+Added Pin To Net: NetName=VREF Pin=C6-1
+Added Pin To Net: NetName=VREF Pin=R1-1
+Added Pin To Net: NetName=VREF Pin=R3-1
+Added Pin To Net: NetName=VREF Pin=R5-1
+Added Pin To Net: NetName=VREF Pin=R6-2
+Added Net: Name=VREF
+Added Class: Name=DVT-HPF-100kHz
+Added Room: Name=DVT-HPF-100kHz

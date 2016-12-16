@@ -1,0 +1,35 @@
+Removed Member From Class: ClassName=DAM10_Control Member=L4
+Removed Member From Class: ClassName=DAM10_Control Member=P1
+Removed Member From Class: ClassName=DAM10_Control Member=P2
+Removed Member From Class: ClassName=DAM10_Control Member=P3
+Removed Member From Class: ClassName=DAM10_Control Member=P4
+Removed Member From Class: ClassName=DAM10_Control Member=P5
+Removed Member From Class: ClassName=DAM10_Control Member=Rel1
+Added Component: Designator=P6(Phoenix-2-5_08)
+Added Component: Designator=P7(Phoenix-2-5_08)
+Added Component: Designator=P8(Phoenix-2-5_08)
+Added Component: Designator=P9(Phoenix-2-5_08)
+Added Component: Designator=P10(Phoenix-2-5_08)
+Added Component: Designator=P11(Phoenix-2-5_08)
+Added Component: Designator=P12(Phoenix-2-5_08)
+Added Component: Designator=P13(Phoenix-2-5_08)
+Added Component: Designator=P14(Phoenix-2-5_08)
+Added Component: Designator=P15(Phoenix-2-5_08)
+Added Component: Designator=P16(Phoenix-2-5_08)
+Added Component: Designator=Rel2(Finder-43_41 series)
+Added Component: Designator=Rel3(Finder-43_41 series)
+Added Component: Designator=Rel4(Finder-43_41 series)
+Added Component: Designator=Rel5(Finder-43_41 series)
+Added Component: Designator=Rel6(Finder-43_41 series)
+Added Component: Designator=Rel7(Finder-43_41 series)
+Added Component: Designator=Rel8(Finder-43_41 series)
+Added Component: Designator=Rel9(Finder-43_41 series)
+Added Component: Designator=Rel10(Finder-43_41 series)
+Added Component: Designator=Rel11(Finder-43_41 series)
+Added Component: Designator=Rel12(Finder-43_41 series)
+Added Component: Designator=Rel13(Finder-43_41 series)
+Added Component: Designator=Rel14(Finder-43_41 series)
+Added Component: Designator=Rel15(Finder-43_41 series)
+Added Component: Designator=Rel16(Finder-43_41 series)
+Added Class: Name=DAM10_Relays
+Added Room: Name=DAM10_Relays

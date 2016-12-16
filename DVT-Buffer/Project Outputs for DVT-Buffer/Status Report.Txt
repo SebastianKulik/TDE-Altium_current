@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [DVT-Buffer.PrjPcb]
+   Generated File[DVT-Buffer.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:18:37 On 07.06.2016

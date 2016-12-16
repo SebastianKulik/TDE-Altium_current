@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=3V3 Pin=C2-1
+Removed Pin From Net: NetName=RX_P Pin=C17-1
+Removed Pin From Net: NetName=RX_N Pin=C19-1
+Removed Pin From Net: NetName=RX_P Pin=R7-1
+Removed Pin From Net: NetName=RX_N Pin=R9-1
+Removed Pin From Net: NetName=3V3 Pin=U1-10
+Removed Pin From Net: NetName=3V3 Pin=U1-19
+Removed Pin From Net: NetName=3V3 Pin=U1-26
+Removed Pin From Net: NetName=3V3 Pin=U1-38
+Removed Pin From Net: NetName=NetC38_1 Pin=U1-63
+Added Component: Designator=L5(L0805_M)
+Added Pin To Net: NetName=NetC38_1 Pin=L5-1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-10
+Added Pin To Net: NetName=NetC2_1 Pin=U1-19
+Added Pin To Net: NetName=NetC2_1 Pin=U1-26
+Added Pin To Net: NetName=NetC2_1 Pin=U1-38
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=R7-1
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=R9-1
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetL5_2 Pin=L5-2
+Added Pin To Net: NetName=NetL5_2 Pin=U1-63
+Added Net: Name=NetL5_2
+Added Member To Class: ClassName=MMC_2_4_Ethernet Member=Component L5 2k200mA_0805

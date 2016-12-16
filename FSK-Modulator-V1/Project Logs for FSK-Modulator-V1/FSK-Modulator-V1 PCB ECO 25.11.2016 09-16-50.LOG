@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Net3_11 Pin=3-11
+Removed Pin From Net: NetName=Net3_12 Pin=3-12
+Removed Pin From Net: NetName=Net3_13 Pin=3-13
+Removed Member From Class: ClassName=FSK-Modulator-V1 Member=3
+Added Pin To Net: NetName=Net3_11 Pin=U3-11
+Added Pin To Net: NetName=Net3_12 Pin=U3-12
+Added Pin To Net: NetName=Net3_13 Pin=U3-13
+Change Net Name : Old Net Name=Net3_11 New Net Name=NetP1_4
+Change Net Name : Old Net Name=Net3_12 New Net Name=NetU3_12
+Change Net Name : Old Net Name=Net3_13 New Net Name=NetP1_3

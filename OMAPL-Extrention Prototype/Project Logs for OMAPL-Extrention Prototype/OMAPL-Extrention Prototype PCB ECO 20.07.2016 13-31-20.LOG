@@ -1,0 +1,128 @@
+Added Component: Designator=ADR(DIP-8-Ceramic-HT)
+Added Component: Designator=D1(LED2X5)
+Added Component: Designator=D2(LED2X5)
+Added Component: Designator=D3(LED2X5)
+Added Component: Designator=D4(LED2X5)
+Added Component: Designator=GPIOs(DIP-8-Ceramic-HT)
+Added Component: Designator=Inputs(DIP-8-Ceramic-HT)
+Added Component: Designator=R1(Dummy-10mm)
+Added Component: Designator=R2(Dummy-10mm)
+Added Component: Designator=R3(Dummy-10mm)
+Added Component: Designator=R4(Dummy-10mm)
+Added Component: Designator=R5(Dummy-10mm)
+Added Component: Designator=R6(Dummy-10mm)
+Added Component: Designator=R7(Dummy-10mm)
+Added Component: Designator=R8(Dummy-10mm)
+Added Component: Designator=R9(Dummy-10mm)
+Added Component: Designator=R10(Dummy-10mm)
+Added Component: Designator=R11(Dummy-10mm)
+Added Component: Designator=R12(Dummy-10mm)
+Added Component: Designator=R13(Dummy-10mm)
+Added Component: Designator=R14(Dummy-10mm)
+Added Component: Designator=R15(Dummy-10mm)
+Added Component: Designator=R16(Dummy-10mm)
+Added Component: Designator=R17(Dummy-10mm)
+Added Component: Designator=R18(Dummy-10mm)
+Added Component: Designator=U1(DIP-16)
+Added Pin To Net: NetName=A0 Pin=ADR-2
+Added Pin To Net: NetName=A0 Pin=R4-1
+Added Pin To Net: NetName=A0 Pin=U1-1
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=ADR-2
+Added Pin To Net: NetName=A1 Pin=R5-1
+Added Pin To Net: NetName=A1 Pin=U1-2
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=ADR-2
+Added Pin To Net: NetName=A2 Pin=R6-1
+Added Pin To Net: NetName=A2 Pin=U1-3
+Added Net: Name=A2
+Added Pin To Net: NetName=D1 Pin=D1-K
+Added Pin To Net: NetName=D1 Pin=U1-9
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=D2-K
+Added Pin To Net: NetName=D2 Pin=U1-10
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=D3-K
+Added Pin To Net: NetName=D3 Pin=U1-11
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=D4-K
+Added Pin To Net: NetName=D4 Pin=U1-12
+Added Net: Name=D4
+Added Pin To Net: NetName=GND Pin=ADR-1
+Added Pin To Net: NetName=GND Pin=ADR-2
+Added Pin To Net: NetName=GND Pin=GPIOs-2
+Added Pin To Net: NetName=GND Pin=Inputs-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Net: Name=GND
+Added Pin To Net: NetName=IN1 Pin=Inputs-2
+Added Pin To Net: NetName=IN1 Pin=R7-1
+Added Pin To Net: NetName=IN1 Pin=U1-4
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=Inputs-2
+Added Pin To Net: NetName=IN2 Pin=R8-1
+Added Pin To Net: NetName=IN2 Pin=U1-5
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3 Pin=Inputs-2
+Added Pin To Net: NetName=IN3 Pin=R9-1
+Added Pin To Net: NetName=IN3 Pin=U1-6
+Added Net: Name=IN3
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R11-2
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R12-2
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R13-2
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=R14-2
+Added Net: Name=NetD4_A
+Added Pin To Net: NetName=NetInputs_2 Pin=Inputs-2
+Added Pin To Net: NetName=NetInputs_2 Pin=R10-1
+Added Pin To Net: NetName=NetInputs_2 Pin=U1-7
+Added Net: Name=NetInputs_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-15
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-14
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U1-13
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=T_AXR1(6) Pin=GPIOs-1
+Added Pin To Net: NetName=T_AXR1(6) Pin=R18-1
+Added Net: Name=T_AXR1(6)
+Added Pin To Net: NetName=T_AXR1(7) Pin=GPIOs-1
+Added Pin To Net: NetName=T_AXR1(7) Pin=R17-1
+Added Net: Name=T_AXR1(7)
+Added Pin To Net: NetName=T_AXR1(8) Pin=GPIOs-1
+Added Pin To Net: NetName=T_AXR1(8) Pin=R16-1
+Added Net: Name=T_AXR1(8)
+Added Pin To Net: NetName=T_AXR1(9) Pin=GPIOs-1
+Added Pin To Net: NetName=T_AXR1(9) Pin=R15-1
+Added Net: Name=T_AXR1(9)
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Pin To Net: NetName=VCC Pin=R7-2
+Added Pin To Net: NetName=VCC Pin=R8-2
+Added Pin To Net: NetName=VCC Pin=R9-2
+Added Pin To Net: NetName=VCC Pin=R10-2
+Added Pin To Net: NetName=VCC Pin=R11-1
+Added Pin To Net: NetName=VCC Pin=R12-1
+Added Pin To Net: NetName=VCC Pin=R13-1
+Added Pin To Net: NetName=VCC Pin=R14-1
+Added Pin To Net: NetName=VCC Pin=R15-2
+Added Pin To Net: NetName=VCC Pin=R16-2
+Added Pin To Net: NetName=VCC Pin=R17-2
+Added Pin To Net: NetName=VCC Pin=R18-2
+Added Pin To Net: NetName=VCC Pin=U1-16
+Added Net: Name=VCC
+Added Class: Name=OMAPL-Extrention Prototype
+Change Room Name: Old Name=DVT-PSU-LM5116-HT_2 New Name=OMAPL-Extrention Prototype
+Change Room Scope: Old Scope=InComponentClass('DVT-PSU-LM5116-HT_2') New Scope=InComponentClass('OMAPL-Extrention Prototype')

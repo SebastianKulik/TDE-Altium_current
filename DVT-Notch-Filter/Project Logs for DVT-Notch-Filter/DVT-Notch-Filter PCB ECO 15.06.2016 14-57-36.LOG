@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=* Old DesignItemId=Om New DesignItemId=Eye
+Change Component DesignItemId : Designator=- Old DesignItemId=Om New DesignItemId=Eye
+Change Component Footprint: Designator=* Old Footprint=Om-5mm New Footprint=Eye
+Change Component Footprint: Designator=- Old Footprint=Om-5mm New Footprint=Eye
+Change Component Comment : Designator=* Old Comment=Om New Comment=Eye
+Change Component Comment : Designator=- Old Comment=Om New Comment=Eye

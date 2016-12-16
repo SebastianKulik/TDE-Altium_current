@@ -1,0 +1,75 @@
+Added Component: Designator=C1(Dummy-10mm)
+Added Component: Designator=C2(Dummy-10mm)
+Added Component: Designator=C3(Dummy-10mm)
+Added Component: Designator=C4(Dummy-10mm)
+Added Component: Designator=C5(Dummy-10mm)
+Added Component: Designator=C6(Dummy-10mm)
+Added Component: Designator=C7(Dummy-10mm)
+Added Component: Designator=GateA(HDR1X2)
+Added Component: Designator=GateB(HDR1X2)
+Added Component: Designator=H1(SK 104 25,4 STS)
+Added Component: Designator=H2(SK 104 25,4 STS)
+Added Component: Designator=H3(SK 104 25,4 STS)
+Added Component: Designator=H4(SK 104 25,4 STS)
+Added Component: Designator=Q1(TO254)
+Added Component: Designator=Q2(TO254)
+Added Component: Designator=Q3(TO254)
+Added Component: Designator=Q4(TO254)
+Added Component: Designator=R1(Dummy-15mm)
+Added Component: Designator=R2(Dummy-15mm)
+Added Component: Designator=R-End(Dummy-10mm)
+Added Component: Designator=TX(Phoenix-2-5_08)
+Added Component: Designator=VCC(Phoenix-2-5_08)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=VCC-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetGateA_1 Pin=GateA-1
+Added Pin To Net: NetName=NetGateA_1 Pin=Q2-Gate
+Added Net: Name=NetGateA_1
+Added Pin To Net: NetName=NetGateA_2 Pin=GateA-2
+Added Pin To Net: NetName=NetGateA_2 Pin=Q1-Gate
+Added Net: Name=NetGateA_2
+Added Pin To Net: NetName=NetGateB_1 Pin=GateB-1
+Added Pin To Net: NetName=NetGateB_1 Pin=Q4-Gate
+Added Net: Name=NetGateB_1
+Added Pin To Net: NetName=NetGateB_2 Pin=GateB-2
+Added Pin To Net: NetName=NetGateB_2 Pin=Q3-Gate
+Added Net: Name=NetGateB_2
+Added Pin To Net: NetName=NetQ1_Drain Pin=Q1-Drain
+Added Pin To Net: NetName=NetQ1_Drain Pin=Q2-Drain
+Added Pin To Net: NetName=NetQ1_Drain Pin=R1-1
+Added Net: Name=NetQ1_Drain
+Added Pin To Net: NetName=NetQ1_Source Pin=Q1-Source
+Added Pin To Net: NetName=NetQ1_Source Pin=Q3-Source
+Added Net: Name=NetQ1_Source
+Added Pin To Net: NetName=NetQ3_Drain Pin=Q3-Drain
+Added Pin To Net: NetName=NetQ3_Drain Pin=Q4-Drain
+Added Pin To Net: NetName=NetQ3_Drain Pin=R2-1
+Added Net: Name=NetQ3_Drain
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R-End-2
+Added Pin To Net: NetName=NetR1_2 Pin=TX-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R-End-1
+Added Pin To Net: NetName=NetR2_2 Pin=TX-2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=C7-1
+Added Pin To Net: NetName=VCC Pin=Q2-Source
+Added Pin To Net: NetName=VCC Pin=Q4-Source
+Added Pin To Net: NetName=VCC Pin=VCC-1
+Added Net: Name=VCC
+Added Class: Name=DVT-PowerAMP-Stage
+Added Room: Name=DVT-PowerAMP-Stage

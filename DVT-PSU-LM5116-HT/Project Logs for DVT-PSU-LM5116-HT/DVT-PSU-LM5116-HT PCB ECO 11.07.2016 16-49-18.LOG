@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Q1
+Removed Member From Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Q2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=U1-19
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=U1-15
+Added Net: Name=NetQ2_1
+Added Class: Name=DVT-PSU-LM5116-HT_2
+Added Room: Name=DVT-PSU-LM5116-HT_2

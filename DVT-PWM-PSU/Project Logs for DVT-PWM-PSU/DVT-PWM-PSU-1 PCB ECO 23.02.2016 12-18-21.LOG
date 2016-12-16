@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VIN Pin=Vin-1
+Removed Pin From Net: NetName=GND Pin=Vin-2
+Added Pin To Net: NetName=GND Pin=Vin-1
+Added Pin To Net: NetName=VIN Pin=Vin-2
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R3 Resistor-Dummy-THT

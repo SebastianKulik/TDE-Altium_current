@@ -1,0 +1,67 @@
+Importer Log Report
+Project : ATmega32_ComServ.PrjPcb
+
+Section : Analyze Document - C:\Users\Sebastians\Documents\ExodusAmps\TDE-Altium\12_Stromkupplung\Messender Master_DAU_Kupplung_3phasig\ATmega32_ComServ.brd
+    Analyzing data of C:\Users\Sebastians\Documents\ExodusAmps\TDE-Altium\12_Stromkupplung\Messender Master_DAU_Kupplung_3phasig\ATmega32_ComServ.brd
+    Load settings
+    Load layers 64
+    Load Library "atmel"
+    Load Packages 1
+    Load Library "microchip"
+    Load Packages 1
+    Load Library "con-lstb"
+    Load Packages 4
+    Load Library "rcl"
+    Load Packages 4
+    Load Library "crystal"
+    Load Packages 1
+    Load Library "linear"
+    Load Packages 1
+    Load Library "led"
+    Load Packages 1
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - C:\Users\Sebastians\Documents\ExodusAmps\TDE-Altium\12_Stromkupplung\Messender Master_DAU_Kupplung_3phasig\ATmega32_ComServ.sch
+    Analyzing data of C:\Users\Sebastians\Documents\ExodusAmps\TDE-Altium\12_Stromkupplung\Messender Master_DAU_Kupplung_3phasig\ATmega32_ComServ.sch
+    Load settings
+    Load layers 64
+    Load schematic
+    Load Libraries 8
+    Load Library "atmel"
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "microchip"
+    Load Packages 6
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "con-lstb"
+    Load Packages 4
+    Load Symbols 4
+    Load DeviceSets 4
+    Load Library "rcl"
+    Load Packages 336
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "crystal"
+    Load Packages 21
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "ADS-1"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "linear"
+    Load Packages 6
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "led"
+    Load Packages 34
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 71
+    Load Sheets 1
+EndSection

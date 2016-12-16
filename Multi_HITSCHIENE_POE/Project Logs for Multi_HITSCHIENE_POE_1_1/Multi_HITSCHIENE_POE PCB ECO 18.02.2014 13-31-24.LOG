@@ -1,0 +1,4 @@
+Added Component: Designator=M1(Mark-3mm)
+Added Component: Designator=M2(Mark-3mm)
+Added Member To Class: ClassName=Multi_HITSCHIENE_POE Member=Component M1 Mark
+Added Member To Class: ClassName=Multi_HITSCHIENE_POE Member=Component M2 Mark

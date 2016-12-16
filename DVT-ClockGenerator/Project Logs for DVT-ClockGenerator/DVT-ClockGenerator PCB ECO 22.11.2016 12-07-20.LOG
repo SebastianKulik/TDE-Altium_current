@@ -1,0 +1,167 @@
+Added Component: Designator=5Vcc(Phoenix-2-5_08)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Deliverer"; Value = "RS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Deliverer PartNr"; Value = "193-0564"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "02.05.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PartNr"; Value = "1715721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Phoenix-2-5_08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.976/5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Sebastian Kulik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TDE-PN"; Value = "CON0008"; VariantName = "[No Variations]"
+Added Component: Designator=C1(Dummy-10mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Deliverer"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Deliverer PartNr"; Value = "2452198"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PartNr"; Value = "C052H100J2G5GA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Capacitor-Dummy-THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "15.09/1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08.12.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Sebastian Kulik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TDE-PN"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Dummy-10mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Deliverer"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Deliverer PartNr"; Value = "2452198"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PartNr"; Value = "C052H100J2G5GA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Capacitor-Dummy-THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "15.09/1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08.12.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Sebastian Kulik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TDE-PN"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(Dummy-10mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Deliverer"; Value = "RS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Deliverer PartNr"; Value = "117-344"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PartNr"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Capacitor-Dummy-THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.09/10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08.12.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Sebastian Kulik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TDE-PN"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(Dummy-10mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Deliverer"; Value = "RS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Deliverer PartNr"; Value = "721-5240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PartNr"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Capacitor-Dummy-THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.081/50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08.12.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Sebastian Kulik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TDE-PN"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(Dummy-10mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Deliverer"; Value = "RS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Deliverer PartNr"; Value = "721-5240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PartNr"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Capacitor-Dummy-THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.081/50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08.12.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Sebastian Kulik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TDE-PN"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Output(Phoenix-2-5_08)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Deliverer"; Value = "RS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Deliverer PartNr"; Value = "193-0564"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "02.05.2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PartNr"; Value = "1715721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Phoenix-2-5_08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.976/5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Sebastian Kulik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TDE-PN"; Value = "CON0008"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(HC49-U)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Deliverer"; Value = "RS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Deliverer PartNr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PartNr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "HC-49U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "22.11.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Sebastian Kulik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TDE-PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(DIP-8-Ceramic-HT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Deliverer"; Value = "WE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Deliverer PartNr"; Value = "418127270904"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "WE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PartNr"; Value = "418127270904"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "20.07.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Sebastian Kulik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TDFE-PN"; Value = "M0015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "WS-DITV-4DIP"; VariantName = "[No Variations]"
+Added Component: Designator=U1(TDFP16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Deliverer"; Value = "CISSOID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Deliverer PartNr"; Value = "CG50LP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CISSOID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PartNr"; Value = "CG50LP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TDFP16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "--"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "22.11.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Sebastian Kulik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TDE-PN"; Value = "IC0085"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-6
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=Q1-2
+Added Pin To Net: NetName=NetC2_1 Pin=U1-9
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetOutput_1 Pin=Output-1
+Added Pin To Net: NetName=NetOutput_1 Pin=U1-16
+Added Net: Name=NetOutput_1
+Added Pin To Net: NetName=NetSW1_1 Pin=SW1-1
+Added Pin To Net: NetName=NetSW1_1 Pin=U1-14
+Added Net: Name=NetSW1_1
+Added Pin To Net: NetName=NetSW1_2 Pin=SW1-2
+Added Pin To Net: NetName=NetSW1_2 Pin=U1-13
+Added Net: Name=NetSW1_2
+Added Pin To Net: NetName=NetSW1_3 Pin=SW1-3
+Added Pin To Net: NetName=NetSW1_3 Pin=U1-12
+Added Net: Name=NetSW1_3
+Added Pin To Net: NetName=Vdd Pin=5Vcc-1
+Added Pin To Net: NetName=Vdd Pin=C3-1
+Added Pin To Net: NetName=Vdd Pin=C4-1
+Added Pin To Net: NetName=Vdd Pin=C5-1
+Added Pin To Net: NetName=Vdd Pin=SW1-6
+Added Pin To Net: NetName=Vdd Pin=SW1-7
+Added Pin To Net: NetName=Vdd Pin=SW1-8
+Added Pin To Net: NetName=Vdd Pin=U1-1
+Added Pin To Net: NetName=Vdd Pin=U1-7
+Added Net: Name=Vdd
+Added Pin To Net: NetName=Vss Pin=5Vcc-2
+Added Pin To Net: NetName=Vss Pin=C1-2
+Added Pin To Net: NetName=Vss Pin=C2-2
+Added Pin To Net: NetName=Vss Pin=C3-2
+Added Pin To Net: NetName=Vss Pin=C4-2
+Added Pin To Net: NetName=Vss Pin=C5-2
+Added Pin To Net: NetName=Vss Pin=Output-2
+Added Pin To Net: NetName=Vss Pin=U1-15
+Added Pin To Net: NetName=Vss Pin=U1-17
+Added Pin To Net: NetName=Vss Pin=U1-18
+Added Pin To Net: NetName=Vss Pin=U1-19
+Added Net: Name=Vss
+Added Class: Name=DVT-ClockGenerator
+Change Room Name: Old Name=DVT-PSU-LM5116-HT_2 New Name=DVT-ClockGenerator
+Change Room Scope: Old Scope=InComponentClass('DVT-PSU-LM5116-HT_2') New Scope=InComponentClass('DVT-ClockGenerator')

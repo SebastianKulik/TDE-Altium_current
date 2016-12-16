@@ -1,0 +1,1837 @@
+Importer Log Report
+Project : EVMOMAPL137_Orcad_revg.PrjPcb
+
+Section : Document - C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\OMAPL137Eval\EVMOMAPL137_Orcad_revg.DSN
+
+    Section : Importing Sheet - SH32 - POWER INPUT.SchDoc
+        Warning : Power Port of type VCC3.3 at (10.8in,4.1in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (6.7in,3.7in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (8.7in,2.7in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (14.2in,4.1in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (12.1in,2.7in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (1.4in,4.7in) was replaced with Arrow style port
+        Warning : Junction at (4.7in,4.2in) has been added.
+        Warning : Junction at (4.7in,4.2in) has been added.
+        Warning : Junction at (3.7in,3.5in) has been added.
+        Warning : Junction at (3.7in,3.5in) has been added.
+        Warning : Junction at (7.4in,8.5in) has been added.
+        Warning : Junction at (7.4in,8.5in) has been added.
+        Warning : Junction at (3.5in,7.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.1in,7.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.7in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.2in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.4in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.1in,8.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.1in,7.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.6in,8.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.1in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.3in,7.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,7.5in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH31 - POWER II.SchDoc
+        Warning : Power Port of type VCC3.3 at (5.6in,9.2in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (0.7in,9.1in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (5.6in,7.7in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (0.7in,7.6in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (5.6in,6.2in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (0.7in,6.1in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (11.2in,3.5in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.7in,2.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.7in,1.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.8in,1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.2in,3.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.2in,2.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.1in,6.1in) is not recognised
+        Warning : Junction at (4.8in,9.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,8.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.1in,8.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,7.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,7.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.1in,7.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,6.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.1in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.5in,2.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.5in,1.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.5in,1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.8in,7.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.1in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.5in,7.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.4in,8.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.7in,6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.7in,6.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.7in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.8in,9.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.2in,3.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.5in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.7in,6.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.8in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.7in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.4in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.1in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.5in,2.9in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH30 - POWER.SchDoc
+        Warning : Power Port of type VCC3.3 at (10in,6.5in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (3.1in,5.3in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (2.5in,3.8in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (10.9in,5.9in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (8in,1.2in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (9.2in,2.6in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (9.2in,1.7in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (3.5in,6.8in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (12.3in,9.3in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (12.3in,7.3in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (14.4in,9.3in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (14.5in,8.3in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (14.5in,7.3in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (14.6in,6.3in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (8.9in,9.1in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (11in,9.1in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (10.5in,7.8in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (9.2in,7.8in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.3in,4.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.3in,4.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.3in,4.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13in,3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13in,2.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13in,3.1in) is not recognised
+        Warning : Junction at (2.9in,3.8in) has been added.
+        Warning : Junction at (11.6in,2.9in) has been added.
+        Warning : Junction at (12.8in,3.1in) has been added.
+        Warning : Junction at (12.2in,3in) has been added.
+        Warning : Junction at (6in,0.5in) has been added.
+        Warning : Junction at (5.8in,0.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.3in,6.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.5in,0.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.3in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.1in,1.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.1in,1.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.9in,5.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.7in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,1.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.2in,2.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.1in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.1in,8.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.7in,6.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.4in,6.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.7in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.2in,6.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.1in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.5in,1.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.5in,7.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.5in,8.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8in,1.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.9in,5.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.4in,5.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5in,2.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.4in,2.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.7in,3.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.9in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.2in,1.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.8in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.8in,9.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.8in,8.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.8in,8.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.8in,9.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.3in,9.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.8in,7.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.3in,7.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.8in,7.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.8in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.4in,9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.4in,9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.4in,3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.8in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.1in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.2in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.1in,4.9in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH29 - EXPANSION3.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,5.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,4.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,4.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,4.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,4.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,6.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,4.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,4.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,4.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,4.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,4.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,5.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,5.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,5.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,5.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,6.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,7.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,7.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,7.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,7.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,7.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,7.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,7.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,7.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,4.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,6.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,6.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,7.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,7.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,7.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,6.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,6.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,5.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,5.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,7.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,7.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,6.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,6.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,6.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,6.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,5.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,5.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,4.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,5.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,5.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,5.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,5in) is not recognised
+        Warning : Junction at (5.2in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.8in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,3.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,3.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,3.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,3.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,3.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,3.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.8in,8.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.2in,8.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,7.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,6.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,5.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,6.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,7.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,6.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,6.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,5.9in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH28 - EXPANSION2.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.5in,6.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.5in,6.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.5in,7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.5in,7.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.5in,6.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,6.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,7.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,6.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,6.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.5in,6.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.5in,5.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.5in,6.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.5in,6.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.3in,5.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.5in,6.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.5in,5.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.5in,6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.5in,6.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,6.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,6.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,6.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,6.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.3in,5.8in) is not recognised
+        Warning : Junction at (4.1in,7.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.7in,7.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.5in,5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.5in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.5in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.3in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.3in,5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.5in,6.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.1in,5.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.7in,5.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.3in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.3in,6.6in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH27 - EXPANSION1.SchDoc
+        Warning : Power Port of type VCC3.3 at (3.2in,7.5in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,3.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,3.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,4.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,4.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,4.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,4.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,4.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,6.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,7.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,6.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,6.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,6.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,6.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,6.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,7.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,4.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,4.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,6.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,6.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,4.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,4.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,4.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,4.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,3.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,5.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,7.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,5.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,5.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,6.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,5.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,5.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,3.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,5.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,5.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,5.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,5.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,6.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,6.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,5.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,5.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,6.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11in,6.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,3.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,3.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.9in,7.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.9in,7.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.4in,6.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.8in,6.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,4.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,3.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.4in,5.1in) is not recognised
+        Warning : Junction at (9.1in,2.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,2.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.5in,7.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.9in,7.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,2.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.3in,2.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.3in,2.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,6.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.3in,2.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,6.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.3in,2.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,2.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.3in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.3in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.3in,5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.3in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.3in,6.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.3in,6.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.9in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.5in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.2in,7.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.3in,5.7in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH26 - ENET PORTS.SchDoc
+        Warning : Power Port of type GND_E_ENET at (9.6in,6.5in) was replaced with Arrow style port
+        Warning : Power Port of type GND_E_ENET at (11.2in,6.6in) was replaced with Arrow style port
+        Warning : Power Port of type GND_E_ENET at (9.6in,2.3in) was replaced with Arrow style port
+        Warning : Power Port of type GND_E_ENET at (11.2in,2.4in) was replaced with Arrow style port
+        Warning : Junction at (11.2in,6.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.8in,6.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.2in,9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.7in,7.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.6in,8.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.2in,7.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.6in,7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.7in,7.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.2in,7.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.2in,2.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.2in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.7in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.6in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.2in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.6in,2.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.7in,3.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.2in,3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.2in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.8in,6.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.8in,7.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.2in,1.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.8in,2.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.8in,2.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.8in,3.1in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH25 - ENET- POWER.SchDoc
+        Warning : Junction at (10.8in,8.9in) has been added.
+        Warning : Junction at (10.8in,7.3in) has been added.
+        Warning : Junction at (10.8in,5.7in) has been added.
+        Warning : Junction at (10.8in,2.6in) has been added.
+        Warning : Junction at (10.8in,4.1in) has been added.
+        Warning : Junction at (3.7in,7.7in) has been added.
+        Warning : Junction at (3.7in,7.2in) has been added.
+        Warning : Junction at (3.7in,7.2in) has been added.
+        Warning : Junction at (7.6in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,4.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,4.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,7.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,7.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,6.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,6.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.1in,8.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.8in,8.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.1in,8.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.3in,8.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.3in,8.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.8in,8.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.3in,8.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.8in,8.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.3in,8.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.8in,8.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,8.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.3in,8.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.8in,8.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.8in,8.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.1in,8.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.7in,7.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.2in,7.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.8in,6.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.2in,6.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.2in,7.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.9in,7.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.2in,7.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.2in,6.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.2in,7.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.7in,6.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.8in,7.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.8in,8.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.8in,7.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.1in,7.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.2in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.7in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.8in,5.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.2in,5.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.8in,6.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.2in,2.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.8in,2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.2in,2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.3in,2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,2.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.3in,2.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.4in,4.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.8in,3.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.9in,4.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.9in,3.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.3in,2.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.3in,5.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.3in,5.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,7.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,7.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,6.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,6.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,6.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,6.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,6.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,6.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,7.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,6.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,7.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.7in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.2in,4.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.2in,5.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,8.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,8.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.2in,5.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.7in,5.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.2in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.7in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.2in,4.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.7in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.2in,3.6in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH24 - ENET PHY.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2in,7.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2in,4.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2in,4.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2in,4.8in) is not recognised
+        Warning : Junction at (0.5in,0.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (0.5in,3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1in,3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.5in,0.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1in,0.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.5in,0.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2in,0.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.5in,3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (0.5in,1.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1in,1.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2in,3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.5in,3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2in,1.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.5in,1.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.5in,2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3in,2.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.5in,1.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.3in,1.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.5in,2.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13in,1.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.5in,1.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12in,1.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.5in,1.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11in,1.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.5in,2.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.5in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.5in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11in,2.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.5in,2.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12in,2.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13in,2.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.5in,2.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (14in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (14in,1.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.5in,1.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (14.5in,1.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (14.5in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (14in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (14.5in,7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (14in,7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (14in,4.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.5in,4.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13in,4.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (14.5in,4.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.5in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.5in,7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13in,7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.5in,4.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.5in,7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.5in,5.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12in,5.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.5in,5.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13in,5.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (14in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (14.5in,6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.9in,9.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (0.6in,9.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.2in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.1in,7.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.3in,2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (14.5in,3in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH23 - AIC PHONE AIC.SchDoc
+        Warning : Power Port of type GND_AIC at (13.2in,5.8in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (11.1in,5.6in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (12.6in,2.1in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (11in,2.1in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (5.5in,5.9in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (3.2in,5.4in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (5.8in,6.8in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (6.3in,6.8in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (2.2in,5.2in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (13.2in,7.4in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (12.6in,7.1in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (9.6in,9.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (9.4in,7.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.9in,8.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.9in,7.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,6.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,6.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.8in,4.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.8in,3.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,2.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.9in,2.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (9.5in,4.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (9.3in,3.3in) is not recognised
+        Warning : Junction at (12.9in,8.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.1in,6.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.1in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.7in,6.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.4in,8.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.4in,7.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.3in,8.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.3in,7.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.2in,7.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.6in,2.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.8in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.6in,2.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11in,2.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.3in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.3in,3.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.2in,3.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.2in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.1in,3.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.2in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.3in,6.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.8in,7.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.4in,6.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.4in,6.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.4in,7.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.3in,6.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.3in,7.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.6in,7.9in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH22 - AIC3106.SchDoc
+        Warning : Power Port of type GND_AIC at (12.7in,3.6in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (13.4in,7.3in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (13.4in,6.1in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (13.9in,6.1in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (8.8in,7in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (8.7in,6.3in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (11.3in,7.6in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (10.8in,0.5in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (2in,5.5in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (1.3in,5.5in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (3.2in,6.7in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (3.2in,7.7in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (1.4in,7.7in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (1.4in,6.9in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (13in,5in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (13.2in,3.6in) was replaced with Arrow style port
+        Warning : Power Port of type GND_AIC at (10.6in,8.5in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.7in,3.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.7in,3.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.7in,3.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.7in,3.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.7in,3.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.7in,3.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.8in,0.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.6in,4.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.3in,5.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.3in,5.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.3in,5.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.3in,5.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.4in,6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.4in,5.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.3in,5.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.3in,5.5in) is not recognised
+        Warning : Junction at (11.3in,7.7in) has been added.
+        Warning : Junction at (11.3in,7.7in) has been added.
+        Warning : Junction at (10.6in,8.6in) has been added.
+        Warning : Junction at (10.6in,8.6in) has been added.
+        Warning : Junction at (9.9in,2.3in) has been added.
+        Warning : Junction at (10.5in,2.4in) has been added.
+        Warning : Junction at (11.1in,2.5in) has been added.
+        Warning : Junction at (11.7in,2.6in) has been added.
+        Warning : Junction at (11.1in,2.5in) has been added.
+        Warning : Junction at (11.7in,2.6in) has been added.
+        Warning : Junction at (10.7in,8.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.8in,8.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.3in,8.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.3in,8.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.2in,4.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.9in,6.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.4in,7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.3in,8.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.9in,8.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2in,9.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.2in,9.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.8in,9.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.8in,8.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.2in,8.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.8in,7.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.2in,7.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.4in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.5in,6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.8in,6.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.5in,6.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.3in,6.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.3in,5.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.7in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.6in,7.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.3in,1.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.7in,1.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.2in,7.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.4in,7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.4in,7.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.2in,6.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.2in,8.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10in,9.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.1in,9.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,7.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,7.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.6in,9.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,9.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.6in,9.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10in,8.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.6in,8.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,7.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.6in,6.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.5in,5.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.6in,7.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.2in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.6in,9.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.5in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.7in,3.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.1in,3.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.5in,3.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.3in,6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.4in,2in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH21 - JTAG CONNECTOR.SchDoc
+        Warning : Power Port of type VCC3.3 at (7in,4.2in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.4in,6.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.4in,5.8in) is not recognised
+        Warning : Junction at (1.4in,4.2in) has been added.
+        Warning : Junction at (1.4in,4.2in) has been added.
+        Warning : Junction at (1.2in,7.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.2in,8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.2in,7.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.9in,8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6in,7.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.2in,8.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5in,8.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.1in,2.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.1in,2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.1in,2.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.1in,2.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.1in,1.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.1in,2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.1in,1.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.8in,3.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.2in,8.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.7in,4.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.1in,3.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (0.8in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11in,7.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.6in,8.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.6in,7.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.2in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.2in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.3in,0.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.8in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.1in,6.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.4in,8.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.1in,2.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8in,2.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,2.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.2in,2.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,2.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.1in,1.7in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH20 - SD_MMC.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,6.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,6.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,6.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,6.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,6.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,6.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,5.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,5.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGERIGHT-OUT at (7.5in,2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGERIGHT-OUT at (7.5in,1.9in) is not recognised
+        Warning : Junction at (4.3in,6.4in) has been added.
+        Warning : Junction at (7.7in,5.9in) has been added.
+        Warning : Junction at (7.1in,6in) has been added.
+        Warning : Junction at (5.6in,6.1in) has been added.
+        Warning : Junction at (2.8in,6.6in) has been added.
+        Warning : Junction at (5.2in,6.2in) has been added.
+        Warning : Junction at (1.8in,7in) has been added.
+        Warning : Junction at (4.8in,6.3in) has been added.
+        Warning : Junction at (2.3in,6.9in) has been added.
+        Warning : Junction at (8.3in,5.8in) has been added.
+        Warning : Junction at (10.7in,6.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.7in,8.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.1in,8.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.3in,5.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.7in,7.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.3in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.3in,6.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.3in,6.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.9in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.1in,6.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.9in,6.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.5in,6.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.3in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.3in,5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.1in,7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.3in,7.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.8in,7.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.8in,7.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.3in,7.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.3in,7.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,7.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.2in,7.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,7.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.8in,4.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.3in,4.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.8in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.8in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.3in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.7in,7.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.1in,7.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.2in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.2in,1.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.7in,2in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH19 - SD_MMC MUX.SchDoc
+        Warning : Power Port of type VCC3.3 at (11.1in,6.8in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (5.8in,7.5in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (5.8in,9.1in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.3in,5.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.3in,5.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.3in,5.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.3in,5.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.3in,5.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.3in,5.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.3in,5.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.3in,5.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.3in,4.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,4.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,4.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,4.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,4.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,3.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,3.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,3.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,3.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,4.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,5.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,5.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,5.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,5.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,5.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,5.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.1in,8.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.4in,6.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.1in,8.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.3in,5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.3in,4.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.3in,4.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,3.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,3.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,3.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,5.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.4in,5.6in) is not recognised
+        Warning : Junction at (11.3in,2.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.2in,6.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.1in,6.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.3in,2.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.3in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5in,8.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.8in,7.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.8in,9.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.6in,8.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.5in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.5in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.5in,3.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.5in,3.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.5in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.5in,3.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.5in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.5in,4.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.5in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.5in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.5in,4.4in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH18 -  RS232.SchDoc
+        Warning : Power Port of type GND_E_RS232 at (12.2in,8.5in) was replaced with Arrow style port
+        Warning : Power Port of type GND_E_RS232 at (10in,6.8in) was replaced with Arrow style port
+        Warning : Power Port of type GND_E_RS232 at (11.8in,5.6in) was replaced with Arrow style port
+        Warning : Power Port of type GND_E_RS232 at (9in,6in) was replaced with Arrow style port
+        Warning : Power Port of type GND_E_RS232 at (9in,6.8in) was replaced with Arrow style port
+        Warning : Power Port of type GND_E_RS232 at (10in,6in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.3in,7.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.3in,6.6in) is not recognised
+        Warning : Junction at (10in,6.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9in,6.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10in,7.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.9in,8.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9in,7.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.4in,8.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.8in,8.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.8in,5.8in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH17 - USER SWITCHES_LE.SchDoc
+        Warning : Power Port of type VCC3.3 at (7.2in,4.7in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.5in,6.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.5in,6.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.5in,6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.5in,5.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.5in,2.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.5in,2.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.5in,2.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.5in,2.6in) is not recognised
+        Warning : Junction at (6.7in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.2in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.9in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.8in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.7in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7in,8.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.9in,8.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.9in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.8in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.8in,6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,8.1in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH16 - SPI ROM.SchDoc
+        Warning : Power Port of type VCC3.3 at (8.1in,5.4in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (4.1in,3.8in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (2.9in,4.9in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (8.9in,2.2in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (4.9in,2.4in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.2in,4.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.2in,4.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.2in,4.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.2in,4.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.7in,3.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.7in,3.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.7in,3.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.7in,3.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.7in,3.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.2in,4.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.6in,3.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,4.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (9.8in,1.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (9.8in,1.3in) is not recognised
+        Warning : Junction at (4in,8.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.7in,4.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.8in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.1in,5.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.2in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.4in,4.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.6in,4.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.9in,4.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.1in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.4in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.6in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.1in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.7in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.1in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.9in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.9in,2.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,1.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.5in,1.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.1in,1.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,2.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.5in,2.3in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH15 - SDRAM EMIF B.SchDoc
+        Warning : Power Port of type VCC3.3 at (2.7in,4.8in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (8.8in,4.8in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,8.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,8.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,8.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,8.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,8.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,5.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,5.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,5.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,5.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,6.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,6.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,6.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,6.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,6.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,8.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,8.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,8.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,6.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,6.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,7.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,7.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,7.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,7.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,7.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,7.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,7.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,8.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,8.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.9in,8.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.9in,8.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.9in,8.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.9in,7.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.9in,7.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.9in,8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.9in,8.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.9in,8.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.5in,6.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.5in,6.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.5in,6.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.5in,5.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.5in,5.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.5in,5.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.5in,6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.5in,5.9in) is not recognised
+        Warning : Junction at (5.3in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.3in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.3in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.3in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.3in,4.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.3in,4.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.7in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.7in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.2in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.7in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.7in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,4.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.4in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.4in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.4in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.4in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.4in,4.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.4in,4.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.3in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.3in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.8in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.2in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.3in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.9in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.7in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.2in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.2in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.7in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.2in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.7in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.8in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.3in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,4.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.7in,4.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.3in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.8in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.7in,4.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.7in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.7in,4.3in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH14 - BOOT MODE.SchDoc
+        Warning : Power Port of type VCC3.3 at (4.5in,8.9in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (4.8in,4.2in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (11in,8in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (6.2in,6.1in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,3.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,3.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,3.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,3.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.1in,8.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.1in,8.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.1in,8.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.1in,8.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,3.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.6in,3.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (12.1in,8.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.8in,5.4in) is not recognised
+        Warning : Junction at (7.6in,8.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.8in,8.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8in,8.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9in,8.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.5in,8.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.8in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.5in,8.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.5in,8.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,3.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,3.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,3.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.2in,8.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.5in,8.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11in,7.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.2in,6in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH13 - OMAP-L137 CAPS.SchDoc
+        Warning : Junction at (2.5in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.2in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.9in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.6in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.3in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.7in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.1in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.5in,7.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.2in,7.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.9in,7.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.6in,7.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,8.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.2in,8.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,8.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.7in,8.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6in,8.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.3in,8.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.6in,8.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.9in,8.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.1in,8.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.3in,6.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.9in,6.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.2in,6.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.6in,6.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.5in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.2in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.6in,2.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.9in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.3in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.5in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.1in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.4in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.7in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.2in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.6in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.3in,1.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.3in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.7in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.4in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.1in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.5in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.2in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.9in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.3in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.5in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.1in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.4in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.7in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.2in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.6in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.3in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.7in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.4in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.1in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,6.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,6.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.1in,6.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.7in,7.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,7.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.1in,7.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,2.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.5in,2.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.2in,2.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.5in,1.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.2in,1.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.9in,1.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.2in,1.4in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH12 - OMAP-L137 GND.SchDoc
+        Warning : Junction at (7.6in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,5.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,5.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,5.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,5.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,5.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,5.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,5.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,5.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,5.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,5.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,5.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,5.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,5.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,5.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,5.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,5.8in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH11 - OMAP-L137 POWER.SchDoc
+        Warning : Power Port of type VCC3.3 at (1.3in,7.9in) was replaced with Arrow style port
+        Warning : Junction at (9.1in,7.7in) has been added.
+        Warning : Junction at (4.8in,7.7in) has been added.
+        Warning : Junction at (12.5in,7.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,7.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,7.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,7.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,7.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,7.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,6.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,7.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,6.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,6.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,6.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,6.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,7.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,7.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,7.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,7.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,7.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,6.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,7.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,6.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,6.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,6.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,6.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,6.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,6.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.5in,7.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.2in,7.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.7in,3.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,6.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.1in,3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.1in,3.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.2in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,5.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,7.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,7.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,6.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,6.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.6in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.5in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.9in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11in,5.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.5in,5.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.5in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.9in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.6in,5.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11in,5.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.5in,6.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.3in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.8in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.7in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.7in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.9in,6.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.9in,7.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.7in,3.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.7in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.2in,3.7in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH10 - OMAP-L137 JTAG.SchDoc
+        Warning : Power Port of type VCC3.3 at (3.4in,2.6in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.6in,3.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.6in,3in) is not recognised
+        Warning : Junction at (4.1in,6.8in) has been added.
+        Warning : Junction at (9in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.6in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9in,5.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.6in,5.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.6in,5.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.9in,8.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.9in,8.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.2in,8.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.5in,8.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.9in,7.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.9in,3.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.6in,6.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.2in,5.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.2in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.6in,6.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9in,6.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.6in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.2in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.2in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.1in,1.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.4in,2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.1in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.4in,2.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.6in,2.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.4in,6.2in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH09 - OMAP-L137 EMIF B.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,6.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,6.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,6.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,7.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,7.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,7.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,7.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,7.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,7.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,7.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,7.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,6.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,6.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,6.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,6.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,6.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,5.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,5.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,5.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,5.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,5.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,5.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,5.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,5.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,4.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,4.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,4.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,4.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,4.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,4.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,4.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.3in,4.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.8in,2.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.8in,3.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.8in,3.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.8in,3.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.8in,2.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.8in,5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.8in,5.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.8in,4.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.8in,4.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.8in,4.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,7.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,7.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,7.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,7.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,7.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,7.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,8.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,6.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,6.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,6.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,7.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,6.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,6.7in) is not recognised
+        Warning : Junction at (13.1in,2.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.7in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.3in,3.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.9in,3.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.4in,3.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.4in,5.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.5in,5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.3in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.3in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.9in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.7in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.1in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.9in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.7in,4.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.3in,4.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.1in,4.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.9in,4.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.7in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.1in,4.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.9in,5in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH08 - OMAP-L137 EMIF A.SchDoc
+        Warning : Power Port of type VCC3.3 at (12in,6.4in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (13.5in,3.7in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (1.2in,6.3in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (1in,8.3in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (13.5in,6.4in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,8.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,8.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,8.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,8.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,8.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,8.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,8.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,7.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,7.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,7.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,7.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,7.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,7.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,4.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,7.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.9in,3.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.9in,3.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.9in,3.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.9in,3.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,4.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,4.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.9in,3.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.9in,3.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.9in,3.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.9in,3.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.4in,2.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.5in,7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.2in,5.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (14.1in,5.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.5in,0.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3in,3.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3in,3.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3in,3.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3in,3.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.1in,1.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.1in,1.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.1in,1.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.1in,1.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3in,3.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3in,3.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3in,3.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3in,3.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.1in,1.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.1in,1.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.1in,1.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.1in,1.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.8in,2.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11.2in,2.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (11.2in,2.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7in,1.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7in,2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7in,1.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7in,2.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7in,1.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (9.4in,0.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (9.4in,1.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (9.7in,1.2in) is not recognised
+        Warning : Junction at (2.7in,8.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.5in,3.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,0.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.6in,7.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.6in,7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.6in,6.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.6in,7.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12in,5.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.5in,6.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.1in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.3in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.2in,2.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.3in,0.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.6in,2.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.6in,1.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.6in,1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.2in,1.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,3.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.9in,2.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.9in,2.3in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH07 - OMAP-L137 USB1.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.2in,6.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.2in,6.2in) is not recognised
+        Warning : Junction at (8.3in,8.5in) has been added.
+        Warning : Junction at (5.6in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.4in,2.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.8in,2.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5in,2.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.4in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.8in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.9in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.7in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.6in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.5in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.5in,4.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.9in,4.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.1in,4.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.1in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.5in,4.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.3in,4.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.7in,8.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.1in,8.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.4in,8.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.9in,8.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,8.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.1in,6.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.6in,6.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,8.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.9in,4.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.4in,6.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.5in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.3in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.3in,4.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.6in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.5in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.5in,3.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (14.6in,3.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.9in,4.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.3in,3.5in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH06 - OMAP-L137 USB2.SchDoc
+        Warning : Power Port of type VCC3.3 at (3.9in,9in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.2in,7.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.8in,8.5in) is not recognised
+        Warning : Junction at (11.7in,4.9in) has been added.
+        Warning : Junction at (11.5in,5.1in) has been added.
+        Warning : Junction at (11.7in,4.9in) has been added.
+        Warning : Junction at (11.5in,5.1in) has been added.
+        Warning : Junction at (9.2in,8.8in) has been added.
+        Warning : Junction at (7.5in,7.8in) has been added.
+        Warning : Junction at (7.5in,7.8in) has been added.
+        Warning : Junction at (4.5in,5.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.6in,5.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.5in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.5in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.4in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.8in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4in,5.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.4in,5.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.8in,5.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3in,6.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.6in,6.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.2in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.2in,6.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.6in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.8in,6.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,4.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.4in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.1in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.2in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.3in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.3in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.5in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.7in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.1in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,3.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.1in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12in,5.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12in,6.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.8in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.9in,3.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.3in,6.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.7in,6.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.1in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.4in,8.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.4in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.6in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.2in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.7in,4.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.4in,5.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.4in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.7in,6.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (0.7in,6.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.2in,6.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (0.7in,5.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.9in,9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.5in,2.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (14in,1.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (14in,2.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.5in,1.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.5in,4.6in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH05 - SPI MUXING.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,1.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.5in,4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.5in,4.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,2.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.4in,4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (3.4in,4.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.8in,7.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.8in,7.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (4.8in,7.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,7.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,7.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,7.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,7.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,7.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,7.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.8in,5.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.8in,6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (6.7in,2.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.5in,3.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.5in,3.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.5in,4.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.5in,4.4in) is not recognised
+        Warning : Junction at (5.6in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.3in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.5in,3.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8in,3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.8in,8.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,4.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.6in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.3in,6.8in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH04 - OMAP-L137 SERIAL.SchDoc
+        Warning : Power Port of type VCC3.3 at (12.4in,3.8in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (11.2in,3.8in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (11.8in,3.8in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (13in,3.8in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (13.2in,8.3in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (2in,5.1in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (2.1in,8in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (2.6in,6in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.8in,6.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.8in,4.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.8in,9.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.8in,8.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.8in,8.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.8in,8.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.8in,9.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.8in,9.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.8in,6.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.9in,5.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.8in,6.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.6in,3.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.6in,2.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.6in,2.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.6in,2.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.6in,2.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.4in,1.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.8in,8.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.8in,9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.8in,7.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,2.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,2.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,2.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,2.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.9in,1.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.5in,1.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (7.5in,1in) is not recognised
+        Warning : Junction at (13.2in,6.6in) has been added.
+        Warning : Junction at (12.7in,6.8in) has been added.
+        Warning : Junction at (2.5in,9.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.3in,9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.2in,8.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.1in,7.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.5in,8.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2in,4.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.5in,6.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.6in,2.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.9in,1.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.7in,3.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8.7in,2.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.2in,2.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.4in,2.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13in,2.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.8in,2.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (8in,1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.2in,8.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (13.2in,5.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.6in,5.5in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH03 - ETHERNET MUXES.SchDoc
+        Warning : Power Port of type VCC3.3 at (9.4in,6.4in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (4.1in,8.8in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (4.1in,7.2in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.2in,4.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.2in,5.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.2in,5.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.2in,5.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.2in,5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.2in,4.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.2in,4.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.2in,4.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.2in,4.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (5.2in,4.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.6in,8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.5in,3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.5in,4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.5in,3.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.5in,3.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.5in,3.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.5in,3.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.5in,3.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.5in,3.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.5in,3.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (10.5in,2.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.6in,8.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (2.7in,6.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.6in,4.4in) is not recognised
+        Warning : Junction at (6.7in,4.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.7in,6.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.5in,2.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.5in,2.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.5in,2.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (9.4in,6.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.1in,8.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.3in,8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.9in,8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,3.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,3.1in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,3.3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,3.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,3.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,3.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,3.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,3.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,3.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.8in,3in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.1in,7.2in) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - SH02 - OMAP-L137 MCASP.SchDoc
+        Warning : Power Port of type VCC3.3 at (7.9in,3.6in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (4.3in,2in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (2.6in,9.1in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (1.8in,5.5in) was replaced with Arrow style port
+        Warning : Power Port of type VCC3.3 at (3.1in,3in) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,6.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,6.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,6.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,5.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,6.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,7.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,7.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,7.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,6.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.8in,4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,4.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.7in,5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.9in,7.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.9in,7.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.9in,7.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.9in,8.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.9in,6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.9in,5.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.9in,6.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.9in,6.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.9in,6.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.9in,6.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.9in,6.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.8in,3.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.9in,9.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,2.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,2.5in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,2.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,2.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,2.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.7in,2.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (14in,3.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (14in,3.2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (14in,3.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (14in,3.1in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.1in,1.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.2in,1.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.7in,2.4in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (1.6in,1.3in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,2in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,1.7in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,1.6in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,1.8in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (8.8in,1.9in) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR at (13.4in,6.2in) is not recognised
+        Warning : Junction at (2.6in,8.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.8in,5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.3in,5.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.7in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.8in,2.8in) has been removed. It will be automatically calculated.
+        Warning : Junction at (5.9in,2.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6in,2.6in) has been removed. It will be automatically calculated.
+        Warning : Junction at (6.1in,2.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (7.9in,3.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (4.3in,2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.9in,2.7in) has been removed. It will be automatically calculated.
+        Warning : Junction at (12.1in,3.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (11.9in,2.4in) has been removed. It will be automatically calculated.
+        Warning : Junction at (14.1in,2.5in) has been removed. It will be automatically calculated.
+        Warning : Junction at (3.1in,2.9in) has been removed. It will be automatically calculated.
+        Warning : Junction at (2.3in,2.2in) has been removed. It will be automatically calculated.
+        Warning : Junction at (1.9in,2.2in) has been removed. It will be automatically calculated.
+    EndSection
+EndSection

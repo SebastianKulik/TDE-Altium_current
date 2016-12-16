@@ -1,0 +1,32 @@
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~100|Field=Deliverer~String~Deliverer~100|Field=Deliverer PartNr~String~Deliverer PartNr~100|Field=Description~String~Description~100|Field=Price~String~Price~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~DVT-PowerAMP-Stage.PrjPcb|ReportField=ProjectFullPath~C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PowerAMP-Stage\DVT-PowerAMP-Stage.PrjPcb|ReportField=Title~Bill of Materials For Project [DVT-PowerAMP-Stage.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~31|ReportField=ReportTime~09:32:38|ReportField=ReportDate~19.05.2016|ReportField=ReportDateTime~19.05.2016 09:32:38|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~19.05.2016|ReportField=CurrentTime~09:29:52|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PowerAMP-Stage\DVT-PowerAMP-Stage.SchDoc|ReportField=DocumentName~DVT-PowerAMP-Stage.SchDoc|ReportField=DocumentNumber~|ReportField=Drawn By~Sebastian Kulik|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~12.05.2016|ReportField=Organization~|ReportField=PartNumber~PN10043|ReportField=ProjectName~DVT-PowerAMP-Stage.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~DVT-PowerAMP-Stage|ReportField=DataSourceFileName~DVT-PowerAMP-Stage.PrjPcb|ReportField=DataSourceFullPath~C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PowerAMP-Stage\DVT-PowerAMP-Stage.PrjPcb
+1|C1|RS|699-5027|Capacitor-Dummy-THT||1
+2|C2|RS|699-5027|Capacitor-Dummy-THT||1
+3|C3|RS|699-5027|Capacitor-Dummy-THT||1
+4|C4|RS|699-5027|Capacitor-Dummy-THT||1
+5|C5|RS|699-5027|Capacitor-Dummy-THT||1
+6|C6|RS|699-5027|Capacitor-Dummy-THT||1
+7|C7|RS|699-5027|Capacitor-Dummy-THT||1
+8|Q1|Future|CHT-NMOS4010-TO254-T|N-FET, 40V@ 10A, Saturn series|408.62|1
+9|Q3|Future|CHT-NMOS4010-TO254-T|N-FET, 40V@ 10A, Saturn series|408.62|1
+10|Q5|Future|CHT-NMOS4010-TO254-T|N-FET, 40V@ 10A, Saturn series|408.62|1
+11|Q2|Future|CHT-PMOS3008-TO254-T|P-FET, 30V@ 8A, Venus series|416.62|1
+12|Q4|Future|CHT-PMOS3008-TO254-T|P-FET, 30V@ 8A, Venus series|416.62|1
+13|H5|RS|504-0592|Fischer-Clamp|0.156/10|1
+14|H6|RS|504-0592|Fischer-Clamp|0.156/10|1
+15|H7|RS|504-0592|Fischer-Clamp|0.156/10|1
+16|H8|RS|504-0592|Fischer-Clamp|0.156/10|1
+17|EN|Farnell|2356176|Plug, 2-Pin||1
+18|TX|RS|193-0564|Phoenix, 2 pol, 5.08mm, 22A, 715721||1
+19|VCC|RS|193-0564|Phoenix, 2 pol, 5.08mm, 22A, 715721||1
+20|GateA|Farnell|2356176|Plug, 2-Pin||1
+21|GateB|Farnell|2356176|Plug, 2-Pin||1
+22|P1|WE|61300611121|Plug, 08-Pin||1
+23|R-End|-|-|Resistor-Dummy-THT||1
+24|R1|-|-|Resistor-Dummy-THT||1
+25|R2|-|-|Resistor-Dummy-THT||1
+26|R3|-|-|Resistor-Dummy-THT||1
+27|R4|-|-|Resistor-Dummy-THT||1
+28|H1|RS|189-8139|Heatsink, 6.5K/W, TO220|1.82|1
+29|H2|RS|189-8139|Heatsink, 6.5K/W, TO220|1.82|1
+30|H3|RS|189-8139|Heatsink, 6.5K/W, TO220|1.82|1
+31|H4|RS|189-8139|Heatsink, 6.5K/W, TO220|1.82|1

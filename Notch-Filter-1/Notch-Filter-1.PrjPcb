@@ -1,0 +1,2572 @@
+[Design]
+Version=1.0
+HierarchyMode=0
+ChannelRoomNamingStyle=0
+ReleasesFolder=
+ReleaseVaultGUID=
+ReleaseVaultName=
+ChannelDesignatorFormatString=$Component_$RoomName
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=0
+TemplateLocationPath=
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=1
+AllowPortNetNames=0
+AllowSheetEntryNetNames=1
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Default Configuration
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=0
+PowerPortNamesTakePriority=0
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+OutputPath=
+LogFolderPath=
+ManagedProjectGUID=
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Document1]
+DocumentPath=Notch-Filter-1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QULTKFAN
+
+[Document2]
+DocumentPath=Notch-Filter-1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ESKDXVSU
+
+[Document3]
+DocumentPath=NCDrill.cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document4]
+DocumentPath=Docu-Cam-2Layers.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=GerberX.cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document6]
+DocumentPath=Notch-Filter-1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=DBC328EC-08AF-4DE1-99E3-E9A99D33E03D
+Description=Notch-Filter-100kHz
+AllowFabrication=0
+ParameterCount=0
+VariationCount=8
+Variation1=Designator=C1|UniqueId=\AOTXMEPX|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator1=C1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=C1
+ParamVariation3=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator3=C1
+ParamVariation4=ParameterName=Deliverer PartNr|VariantValue=538-1225
+ParamDesignator4=C1
+ParamVariation5=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator5=C1
+ParamVariation6=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator6=C1
+ParamVariation7=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator7=C1
+ParamVariation8=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator8=C1
+ParamVariation9=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator9=C1
+ParamVariation10=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator10=C1
+ParamVariation11=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator11=C1
+ParamVariation12=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator12=C1
+ParamVariation13=ParameterName=PCB3D|VariantValue= 
+ParamDesignator13=C1
+ParamVariation14=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator14=C1
+ParamVariation15=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator15=C1
+ParamVariation16=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator16=C1
+ParamVariation17=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator17=C1
+ParamVariation18=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator18=C1
+ParamVariation19=ParameterName=Value|VariantValue=220pF
+ParamDesignator19=C1
+Variation2=Designator=C2|UniqueId=\AXXEVPRK|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation20=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator20=C2
+ParamVariation21=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator21=C2
+ParamVariation22=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator22=C2
+ParamVariation23=ParameterName=Deliverer PartNr|VariantValue=538-1225
+ParamDesignator23=C2
+ParamVariation24=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator24=C2
+ParamVariation25=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator25=C2
+ParamVariation26=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator26=C2
+ParamVariation27=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator27=C2
+ParamVariation28=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator28=C2
+ParamVariation29=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator29=C2
+ParamVariation30=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator30=C2
+ParamVariation31=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator31=C2
+ParamVariation32=ParameterName=PCB3D|VariantValue= 
+ParamDesignator32=C2
+ParamVariation33=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator33=C2
+ParamVariation34=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator34=C2
+ParamVariation35=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator35=C2
+ParamVariation36=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator36=C2
+ParamVariation37=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator37=C2
+ParamVariation38=ParameterName=Value|VariantValue=220pF
+ParamDesignator38=C2
+Variation3=Designator=C3_3|UniqueId=\YPXRAWPS|Kind=1|AlternatePart= 
+ParamVariation39=ParameterName=Deliverer|VariantValue=-
+ParamDesignator39=C3_3
+ParamVariation40=ParameterName=Deliverer PartNr|VariantValue=-
+ParamDesignator40=C3_3
+Variation4=Designator=C3|UniqueId=\YPJYIMEI|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation41=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator41=C3
+ParamVariation42=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator42=C3
+ParamVariation43=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator43=C3
+ParamVariation44=ParameterName=Deliverer PartNr|VariantValue=538-1225
+ParamDesignator44=C3
+ParamVariation45=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator45=C3
+ParamVariation46=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator46=C3
+ParamVariation47=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator47=C3
+ParamVariation48=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator48=C3
+ParamVariation49=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator49=C3
+ParamVariation50=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator50=C3
+ParamVariation51=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator51=C3
+ParamVariation52=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator52=C3
+ParamVariation53=ParameterName=PCB3D|VariantValue= 
+ParamDesignator53=C3
+ParamVariation54=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator54=C3
+ParamVariation55=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator55=C3
+ParamVariation56=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator56=C3
+ParamVariation57=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator57=C3
+ParamVariation58=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator58=C3
+ParamVariation59=ParameterName=Value|VariantValue=220pF
+ParamDesignator59=C3
+Variation5=Designator=C4|UniqueId=\NSKYYHRK|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation60=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator60=C4
+ParamVariation61=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator61=C4
+ParamVariation62=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator62=C4
+ParamVariation63=ParameterName=Deliverer PartNr|VariantValue=538-1225
+ParamDesignator63=C4
+ParamVariation64=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator64=C4
+ParamVariation65=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator65=C4
+ParamVariation66=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator66=C4
+ParamVariation67=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator67=C4
+ParamVariation68=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator68=C4
+ParamVariation69=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator69=C4
+ParamVariation70=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator70=C4
+ParamVariation71=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator71=C4
+ParamVariation72=ParameterName=PCB3D|VariantValue= 
+ParamDesignator72=C4
+ParamVariation73=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator73=C4
+ParamVariation74=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator74=C4
+ParamVariation75=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator75=C4
+ParamVariation76=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator76=C4
+ParamVariation77=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator77=C4
+ParamVariation78=ParameterName=Value|VariantValue=220pF
+ParamDesignator78=C4
+Variation6=Designator=C1_1|UniqueId=\CEAOUQXM|Kind=1|AlternatePart= 
+Variation7=Designator=C2_2|UniqueId=\CFSMVCQK|Kind=1|AlternatePart= 
+ParamVariation79=ParameterName=Deliverer|VariantValue=-
+ParamDesignator79=C2_2
+ParamVariation80=ParameterName=Deliverer PartNr|VariantValue=-
+ParamDesignator80=C2_2
+Variation8=Designator=C4_4|UniqueId=\BHOFAKOM|Kind=1|AlternatePart= 
+ParamVariationCount=80
+
+[ProjectVariant2]
+UniqueID=C8312FE7-C1DE-4D49-8785-4D71BEADDB95
+Description=Notch-Filter-200kHz
+AllowFabrication=0
+ParameterCount=0
+VariationCount=8
+Variation1=Designator=C1|UniqueId=\AOTXMEPX|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator1=C1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=C1
+ParamVariation3=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator3=C1
+ParamVariation4=ParameterName=Deliverer PartNr|VariantValue=699-4986
+ParamDesignator4=C1
+ParamVariation5=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator5=C1
+ParamVariation6=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator6=C1
+ParamVariation7=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator7=C1
+ParamVariation8=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator8=C1
+ParamVariation9=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator9=C1
+ParamVariation10=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator10=C1
+ParamVariation11=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator11=C1
+ParamVariation12=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator12=C1
+ParamVariation13=ParameterName=PCB3D|VariantValue= 
+ParamDesignator13=C1
+ParamVariation14=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator14=C1
+ParamVariation15=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator15=C1
+ParamVariation16=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator16=C1
+ParamVariation17=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator17=C1
+ParamVariation18=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator18=C1
+ParamVariation19=ParameterName=Value|VariantValue=68pF
+ParamDesignator19=C1
+Variation2=Designator=C2|UniqueId=\AXXEVPRK|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation20=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator20=C2
+ParamVariation21=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator21=C2
+ParamVariation22=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator22=C2
+ParamVariation23=ParameterName=Deliverer PartNr|VariantValue=699-4986
+ParamDesignator23=C2
+ParamVariation24=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator24=C2
+ParamVariation25=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator25=C2
+ParamVariation26=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator26=C2
+ParamVariation27=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator27=C2
+ParamVariation28=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator28=C2
+ParamVariation29=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator29=C2
+ParamVariation30=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator30=C2
+ParamVariation31=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator31=C2
+ParamVariation32=ParameterName=PCB3D|VariantValue= 
+ParamDesignator32=C2
+ParamVariation33=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator33=C2
+ParamVariation34=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator34=C2
+ParamVariation35=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator35=C2
+ParamVariation36=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator36=C2
+ParamVariation37=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator37=C2
+ParamVariation38=ParameterName=Value|VariantValue=68pF
+ParamDesignator38=C2
+Variation3=Designator=C3|UniqueId=\YPJYIMEI|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation39=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator39=C3
+ParamVariation40=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator40=C3
+ParamVariation41=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator41=C3
+ParamVariation42=ParameterName=Deliverer PartNr|VariantValue=699-4986
+ParamDesignator42=C3
+ParamVariation43=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator43=C3
+ParamVariation44=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator44=C3
+ParamVariation45=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator45=C3
+ParamVariation46=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator46=C3
+ParamVariation47=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator47=C3
+ParamVariation48=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator48=C3
+ParamVariation49=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator49=C3
+ParamVariation50=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator50=C3
+ParamVariation51=ParameterName=PCB3D|VariantValue= 
+ParamDesignator51=C3
+ParamVariation52=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator52=C3
+ParamVariation53=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator53=C3
+ParamVariation54=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator54=C3
+ParamVariation55=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator55=C3
+ParamVariation56=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator56=C3
+ParamVariation57=ParameterName=Value|VariantValue=68pF
+ParamDesignator57=C3
+Variation4=Designator=C4|UniqueId=\NSKYYHRK|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation58=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator58=C4
+ParamVariation59=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator59=C4
+ParamVariation60=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator60=C4
+ParamVariation61=ParameterName=Deliverer PartNr|VariantValue=699-4986
+ParamDesignator61=C4
+ParamVariation62=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator62=C4
+ParamVariation63=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator63=C4
+ParamVariation64=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator64=C4
+ParamVariation65=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator65=C4
+ParamVariation66=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator66=C4
+ParamVariation67=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator67=C4
+ParamVariation68=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator68=C4
+ParamVariation69=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator69=C4
+ParamVariation70=ParameterName=PCB3D|VariantValue= 
+ParamDesignator70=C4
+ParamVariation71=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator71=C4
+ParamVariation72=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator72=C4
+ParamVariation73=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator73=C4
+ParamVariation74=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator74=C4
+ParamVariation75=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator75=C4
+ParamVariation76=ParameterName=Value|VariantValue=68pF
+ParamDesignator76=C4
+Variation5=Designator=C1_1|UniqueId=\CEAOUQXM|Kind=1|AlternatePart= 
+Variation6=Designator=C2_2|UniqueId=\CFSMVCQK|Kind=1|AlternatePart= 
+ParamVariation77=ParameterName=Deliverer|VariantValue=-
+ParamDesignator77=C2_2
+ParamVariation78=ParameterName=Deliverer PartNr|VariantValue=-
+ParamDesignator78=C2_2
+Variation7=Designator=C3_3|UniqueId=\YPXRAWPS|Kind=1|AlternatePart= 
+ParamVariation79=ParameterName=Deliverer|VariantValue=-
+ParamDesignator79=C3_3
+ParamVariation80=ParameterName=Deliverer PartNr|VariantValue=-
+ParamDesignator80=C3_3
+Variation8=Designator=C4_4|UniqueId=\BHOFAKOM|Kind=1|AlternatePart= 
+ParamVariationCount=80
+
+[ProjectVariant3]
+UniqueID=BC1E6ED0-58A1-4F0C-8648-DA21B3893F3F
+Description=Notch-Filter-400kHz
+AllowFabrication=0
+ParameterCount=0
+VariationCount=8
+Variation1=Designator=C1|UniqueId=\AOTXMEPX|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator1=C1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=C1
+ParamVariation3=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator3=C1
+ParamVariation4=ParameterName=Deliverer PartNr|VariantValue=831-2913
+ParamDesignator4=C1
+ParamVariation5=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator5=C1
+ParamVariation6=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator6=C1
+ParamVariation7=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator7=C1
+ParamVariation8=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator8=C1
+ParamVariation9=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator9=C1
+ParamVariation10=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator10=C1
+ParamVariation11=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator11=C1
+ParamVariation12=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator12=C1
+ParamVariation13=ParameterName=PCB3D|VariantValue= 
+ParamDesignator13=C1
+ParamVariation14=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator14=C1
+ParamVariation15=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator15=C1
+ParamVariation16=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator16=C1
+ParamVariation17=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator17=C1
+ParamVariation18=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator18=C1
+ParamVariation19=ParameterName=Value|VariantValue=56pF
+ParamDesignator19=C1
+Variation2=Designator=C1_1|UniqueId=\CEAOUQXM|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation20=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator20=C1_1
+ParamVariation21=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator21=C1_1
+ParamVariation22=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator22=C1_1
+ParamVariation23=ParameterName=Deliverer PartNr|VariantValue=831-2913
+ParamDesignator23=C1_1
+ParamVariation24=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator24=C1_1
+ParamVariation25=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator25=C1_1
+ParamVariation26=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator26=C1_1
+ParamVariation27=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator27=C1_1
+ParamVariation28=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator28=C1_1
+ParamVariation29=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator29=C1_1
+ParamVariation30=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator30=C1_1
+ParamVariation31=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator31=C1_1
+ParamVariation32=ParameterName=PCB3D|VariantValue= 
+ParamDesignator32=C1_1
+ParamVariation33=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator33=C1_1
+ParamVariation34=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator34=C1_1
+ParamVariation35=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator35=C1_1
+ParamVariation36=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator36=C1_1
+ParamVariation37=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator37=C1_1
+ParamVariation38=ParameterName=Value|VariantValue=56pF
+ParamDesignator38=C1_1
+Variation3=Designator=C2|UniqueId=\AXXEVPRK|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation39=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator39=C2
+ParamVariation40=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator40=C2
+ParamVariation41=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator41=C2
+ParamVariation42=ParameterName=Deliverer PartNr|VariantValue=831-2913
+ParamDesignator42=C2
+ParamVariation43=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator43=C2
+ParamVariation44=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator44=C2
+ParamVariation45=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator45=C2
+ParamVariation46=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator46=C2
+ParamVariation47=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator47=C2
+ParamVariation48=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator48=C2
+ParamVariation49=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator49=C2
+ParamVariation50=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator50=C2
+ParamVariation51=ParameterName=PCB3D|VariantValue= 
+ParamDesignator51=C2
+ParamVariation52=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator52=C2
+ParamVariation53=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator53=C2
+ParamVariation54=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator54=C2
+ParamVariation55=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator55=C2
+ParamVariation56=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator56=C2
+ParamVariation57=ParameterName=Value|VariantValue=56pF
+ParamDesignator57=C2
+Variation4=Designator=C2_2|UniqueId=\CFSMVCQK|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation58=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator58=C2_2
+ParamVariation59=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator59=C2_2
+ParamVariation60=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator60=C2_2
+ParamVariation61=ParameterName=Deliverer PartNr|VariantValue=831-2913
+ParamDesignator61=C2_2
+ParamVariation62=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator62=C2_2
+ParamVariation63=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator63=C2_2
+ParamVariation64=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator64=C2_2
+ParamVariation65=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator65=C2_2
+ParamVariation66=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator66=C2_2
+ParamVariation67=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator67=C2_2
+ParamVariation68=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator68=C2_2
+ParamVariation69=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator69=C2_2
+ParamVariation70=ParameterName=PCB3D|VariantValue= 
+ParamDesignator70=C2_2
+ParamVariation71=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator71=C2_2
+ParamVariation72=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator72=C2_2
+ParamVariation73=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator73=C2_2
+ParamVariation74=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator74=C2_2
+ParamVariation75=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator75=C2_2
+ParamVariation76=ParameterName=Value|VariantValue=56pF
+ParamDesignator76=C2_2
+Variation5=Designator=C3|UniqueId=\YPJYIMEI|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation77=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator77=C3
+ParamVariation78=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator78=C3
+ParamVariation79=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator79=C3
+ParamVariation80=ParameterName=Deliverer PartNr|VariantValue=831-2913
+ParamDesignator80=C3
+ParamVariation81=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator81=C3
+ParamVariation82=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator82=C3
+ParamVariation83=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator83=C3
+ParamVariation84=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator84=C3
+ParamVariation85=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator85=C3
+ParamVariation86=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator86=C3
+ParamVariation87=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator87=C3
+ParamVariation88=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator88=C3
+ParamVariation89=ParameterName=PCB3D|VariantValue= 
+ParamDesignator89=C3
+ParamVariation90=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator90=C3
+ParamVariation91=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator91=C3
+ParamVariation92=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator92=C3
+ParamVariation93=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator93=C3
+ParamVariation94=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator94=C3
+ParamVariation95=ParameterName=Value|VariantValue=56pF
+ParamDesignator95=C3
+Variation6=Designator=C3_3|UniqueId=\YPXRAWPS|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation96=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator96=C3_3
+ParamVariation97=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator97=C3_3
+ParamVariation98=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator98=C3_3
+ParamVariation99=ParameterName=Deliverer PartNr|VariantValue=831-2913
+ParamDesignator99=C3_3
+ParamVariation100=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator100=C3_3
+ParamVariation101=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator101=C3_3
+ParamVariation102=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator102=C3_3
+ParamVariation103=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator103=C3_3
+ParamVariation104=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator104=C3_3
+ParamVariation105=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator105=C3_3
+ParamVariation106=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator106=C3_3
+ParamVariation107=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator107=C3_3
+ParamVariation108=ParameterName=PCB3D|VariantValue= 
+ParamDesignator108=C3_3
+ParamVariation109=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator109=C3_3
+ParamVariation110=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator110=C3_3
+ParamVariation111=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator111=C3_3
+ParamVariation112=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator112=C3_3
+ParamVariation113=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator113=C3_3
+ParamVariation114=ParameterName=Value|VariantValue=56pF
+ParamDesignator114=C3_3
+Variation7=Designator=C4|UniqueId=\NSKYYHRK|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation115=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator115=C4
+ParamVariation116=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator116=C4
+ParamVariation117=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator117=C4
+ParamVariation118=ParameterName=Deliverer PartNr|VariantValue=831-2913
+ParamDesignator118=C4
+ParamVariation119=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator119=C4
+ParamVariation120=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator120=C4
+ParamVariation121=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator121=C4
+ParamVariation122=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator122=C4
+ParamVariation123=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator123=C4
+ParamVariation124=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator124=C4
+ParamVariation125=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator125=C4
+ParamVariation126=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator126=C4
+ParamVariation127=ParameterName=PCB3D|VariantValue= 
+ParamDesignator127=C4
+ParamVariation128=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator128=C4
+ParamVariation129=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator129=C4
+ParamVariation130=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator130=C4
+ParamVariation131=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator131=C4
+ParamVariation132=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator132=C4
+ParamVariation133=ParameterName=Value|VariantValue=56pF
+ParamDesignator133=C4
+Variation8=Designator=C4_4|UniqueId=\BHOFAKOM|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation134=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator134=C4_4
+ParamVariation135=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator135=C4_4
+ParamVariation136=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator136=C4_4
+ParamVariation137=ParameterName=Deliverer PartNr|VariantValue=831-2913
+ParamDesignator137=C4_4
+ParamVariation138=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator138=C4_4
+ParamVariation139=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator139=C4_4
+ParamVariation140=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator140=C4_4
+ParamVariation141=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator141=C4_4
+ParamVariation142=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator142=C4_4
+ParamVariation143=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator143=C4_4
+ParamVariation144=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator144=C4_4
+ParamVariation145=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator145=C4_4
+ParamVariation146=ParameterName=PCB3D|VariantValue= 
+ParamDesignator146=C4_4
+ParamVariation147=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator147=C4_4
+ParamVariation148=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator148=C4_4
+ParamVariation149=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator149=C4_4
+ParamVariation150=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator150=C4_4
+ParamVariation151=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator151=C4_4
+ParamVariation152=ParameterName=Value|VariantValue=56pF
+ParamDesignator152=C4_4
+ParamVariationCount=152
+
+[ProjectVariant4]
+UniqueID=155FF05A-8469-4046-8FA0-DCA9A3DE523E
+Description=Notch-Filter-500kHz
+AllowFabrication=0
+ParameterCount=0
+VariationCount=8
+Variation1=Designator=C1|UniqueId=\AOTXMEPX|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator1=C1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=C1
+ParamVariation3=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator3=C1
+ParamVariation4=ParameterName=Deliverer PartNr|VariantValue=721-5101
+ParamDesignator4=C1
+ParamVariation5=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator5=C1
+ParamVariation6=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator6=C1
+ParamVariation7=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator7=C1
+ParamVariation8=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator8=C1
+ParamVariation9=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator9=C1
+ParamVariation10=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator10=C1
+ParamVariation11=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator11=C1
+ParamVariation12=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator12=C1
+ParamVariation13=ParameterName=PCB3D|VariantValue= 
+ParamDesignator13=C1
+ParamVariation14=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator14=C1
+ParamVariation15=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator15=C1
+ParamVariation16=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator16=C1
+ParamVariation17=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator17=C1
+ParamVariation18=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator18=C1
+ParamVariation19=ParameterName=Value|VariantValue=22pF
+ParamDesignator19=C1
+Variation2=Designator=C1_1|UniqueId=\CEAOUQXM|Kind=1|AlternatePart= 
+Variation3=Designator=C2|UniqueId=\AXXEVPRK|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation20=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator20=C2
+ParamVariation21=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator21=C2
+ParamVariation22=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator22=C2
+ParamVariation23=ParameterName=Deliverer PartNr|VariantValue=721-5101
+ParamDesignator23=C2
+ParamVariation24=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator24=C2
+ParamVariation25=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator25=C2
+ParamVariation26=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator26=C2
+ParamVariation27=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator27=C2
+ParamVariation28=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator28=C2
+ParamVariation29=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator29=C2
+ParamVariation30=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator30=C2
+ParamVariation31=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator31=C2
+ParamVariation32=ParameterName=PCB3D|VariantValue= 
+ParamDesignator32=C2
+ParamVariation33=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator33=C2
+ParamVariation34=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator34=C2
+ParamVariation35=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator35=C2
+ParamVariation36=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator36=C2
+ParamVariation37=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator37=C2
+ParamVariation38=ParameterName=Value|VariantValue=22pF
+ParamDesignator38=C2
+Variation4=Designator=C2_2|UniqueId=\CFSMVCQK|Kind=1|AlternatePart= 
+Variation5=Designator=C3|UniqueId=\YPJYIMEI|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation39=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator39=C3
+ParamVariation40=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator40=C3
+ParamVariation41=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator41=C3
+ParamVariation42=ParameterName=Deliverer PartNr|VariantValue=721-5101
+ParamDesignator42=C3
+ParamVariation43=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator43=C3
+ParamVariation44=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator44=C3
+ParamVariation45=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator45=C3
+ParamVariation46=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator46=C3
+ParamVariation47=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator47=C3
+ParamVariation48=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator48=C3
+ParamVariation49=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator49=C3
+ParamVariation50=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator50=C3
+ParamVariation51=ParameterName=PCB3D|VariantValue= 
+ParamDesignator51=C3
+ParamVariation52=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator52=C3
+ParamVariation53=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator53=C3
+ParamVariation54=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator54=C3
+ParamVariation55=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator55=C3
+ParamVariation56=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator56=C3
+ParamVariation57=ParameterName=Value|VariantValue=22pF
+ParamDesignator57=C3
+Variation6=Designator=C3_3|UniqueId=\YPXRAWPS|Kind=1|AlternatePart= 
+Variation7=Designator=C4_4|UniqueId=\BHOFAKOM|Kind=1|AlternatePart= 
+Variation8=Designator=C4|UniqueId=\NSKYYHRK|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation58=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator58=C4
+ParamVariation59=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator59=C4
+ParamVariation60=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator60=C4
+ParamVariation61=ParameterName=Deliverer PartNr|VariantValue=721-5101
+ParamDesignator61=C4
+ParamVariation62=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator62=C4
+ParamVariation63=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator63=C4
+ParamVariation64=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator64=C4
+ParamVariation65=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator65=C4
+ParamVariation66=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator66=C4
+ParamVariation67=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator67=C4
+ParamVariation68=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator68=C4
+ParamVariation69=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator69=C4
+ParamVariation70=ParameterName=PCB3D|VariantValue= 
+ParamDesignator70=C4
+ParamVariation71=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator71=C4
+ParamVariation72=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator72=C4
+ParamVariation73=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator73=C4
+ParamVariation74=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator74=C4
+ParamVariation75=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator75=C4
+ParamVariation76=ParameterName=Value|VariantValue=22pF
+ParamDesignator76=C4
+ParamVariationCount=76
+
+[ProjectVariant5]
+UniqueID=90B6CCC7-4237-471D-93AF-7A67E57B1A61
+Description=Notch-Filter-600kHz
+AllowFabrication=0
+ParameterCount=0
+VariationCount=8
+Variation1=Designator=C1|UniqueId=\AOTXMEPX|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator1=C1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=C1
+ParamVariation3=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator3=C1
+ParamVariation4=ParameterName=Deliverer PartNr|VariantValue=789-9315
+ParamDesignator4=C1
+ParamVariation5=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator5=C1
+ParamVariation6=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator6=C1
+ParamVariation7=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator7=C1
+ParamVariation8=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator8=C1
+ParamVariation9=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator9=C1
+ParamVariation10=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator10=C1
+ParamVariation11=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator11=C1
+ParamVariation12=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator12=C1
+ParamVariation13=ParameterName=PCB3D|VariantValue= 
+ParamDesignator13=C1
+ParamVariation14=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator14=C1
+ParamVariation15=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator15=C1
+ParamVariation16=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator16=C1
+ParamVariation17=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator17=C1
+ParamVariation18=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator18=C1
+ParamVariation19=ParameterName=Value|VariantValue=15pF
+ParamDesignator19=C1
+Variation2=Designator=C1_1|UniqueId=\CEAOUQXM|Kind=1|AlternatePart= 
+Variation3=Designator=C2|UniqueId=\AXXEVPRK|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation20=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator20=C2
+ParamVariation21=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator21=C2
+ParamVariation22=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator22=C2
+ParamVariation23=ParameterName=Deliverer PartNr|VariantValue=789-9315
+ParamDesignator23=C2
+ParamVariation24=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator24=C2
+ParamVariation25=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator25=C2
+ParamVariation26=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator26=C2
+ParamVariation27=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator27=C2
+ParamVariation28=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator28=C2
+ParamVariation29=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator29=C2
+ParamVariation30=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator30=C2
+ParamVariation31=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator31=C2
+ParamVariation32=ParameterName=PCB3D|VariantValue= 
+ParamDesignator32=C2
+ParamVariation33=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator33=C2
+ParamVariation34=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator34=C2
+ParamVariation35=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator35=C2
+ParamVariation36=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator36=C2
+ParamVariation37=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator37=C2
+ParamVariation38=ParameterName=Value|VariantValue=15pF
+ParamDesignator38=C2
+Variation4=Designator=C2_2|UniqueId=\CFSMVCQK|Kind=1|AlternatePart= 
+Variation5=Designator=C3|UniqueId=\YPJYIMEI|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation39=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator39=C3
+ParamVariation40=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator40=C3
+ParamVariation41=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator41=C3
+ParamVariation42=ParameterName=Deliverer PartNr|VariantValue=789-9315
+ParamDesignator42=C3
+ParamVariation43=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator43=C3
+ParamVariation44=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator44=C3
+ParamVariation45=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator45=C3
+ParamVariation46=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator46=C3
+ParamVariation47=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator47=C3
+ParamVariation48=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator48=C3
+ParamVariation49=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator49=C3
+ParamVariation50=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator50=C3
+ParamVariation51=ParameterName=PCB3D|VariantValue= 
+ParamDesignator51=C3
+ParamVariation52=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator52=C3
+ParamVariation53=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator53=C3
+ParamVariation54=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator54=C3
+ParamVariation55=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator55=C3
+ParamVariation56=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator56=C3
+ParamVariation57=ParameterName=Value|VariantValue=15pF
+ParamDesignator57=C3
+Variation6=Designator=C3_3|UniqueId=\YPXRAWPS|Kind=1|AlternatePart= 
+Variation7=Designator=C4|UniqueId=\NSKYYHRK|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation58=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator58=C4
+ParamVariation59=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator59=C4
+ParamVariation60=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator60=C4
+ParamVariation61=ParameterName=Deliverer PartNr|VariantValue=789-9315
+ParamDesignator61=C4
+ParamVariation62=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator62=C4
+ParamVariation63=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator63=C4
+ParamVariation64=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator64=C4
+ParamVariation65=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator65=C4
+ParamVariation66=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator66=C4
+ParamVariation67=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator67=C4
+ParamVariation68=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator68=C4
+ParamVariation69=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator69=C4
+ParamVariation70=ParameterName=PCB3D|VariantValue= 
+ParamDesignator70=C4
+ParamVariation71=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator71=C4
+ParamVariation72=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator72=C4
+ParamVariation73=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator73=C4
+ParamVariation74=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator74=C4
+ParamVariation75=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator75=C4
+ParamVariation76=ParameterName=Value|VariantValue=15pF
+ParamDesignator76=C4
+Variation8=Designator=C4_4|UniqueId=\BHOFAKOM|Kind=1|AlternatePart= 
+ParamVariationCount=76
+
+[ProjectVariant6]
+UniqueID=FAF5D83A-64DF-49C6-B708-635D73C97818
+Description=Notch-Filter-800kHz
+AllowFabrication=0
+ParameterCount=0
+VariationCount=8
+Variation1=Designator=C1|UniqueId=\AOTXMEPX|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator1=C1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=C1
+ParamVariation3=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator3=C1
+ParamVariation4=ParameterName=Deliverer PartNr|VariantValue=852-3312
+ParamDesignator4=C1
+ParamVariation5=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator5=C1
+ParamVariation6=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator6=C1
+ParamVariation7=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator7=C1
+ParamVariation8=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator8=C1
+ParamVariation9=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator9=C1
+ParamVariation10=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator10=C1
+ParamVariation11=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator11=C1
+ParamVariation12=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator12=C1
+ParamVariation13=ParameterName=PCB3D|VariantValue= 
+ParamDesignator13=C1
+ParamVariation14=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator14=C1
+ParamVariation15=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator15=C1
+ParamVariation16=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator16=C1
+ParamVariation17=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator17=C1
+ParamVariation18=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator18=C1
+ParamVariation19=ParameterName=Value|VariantValue=18pF
+ParamDesignator19=C1
+Variation2=Designator=C1_1|UniqueId=\CEAOUQXM|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation20=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator20=C1_1
+ParamVariation21=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator21=C1_1
+ParamVariation22=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator22=C1_1
+ParamVariation23=ParameterName=Deliverer PartNr|VariantValue=852-3312
+ParamDesignator23=C1_1
+ParamVariation24=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator24=C1_1
+ParamVariation25=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator25=C1_1
+ParamVariation26=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator26=C1_1
+ParamVariation27=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator27=C1_1
+ParamVariation28=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator28=C1_1
+ParamVariation29=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator29=C1_1
+ParamVariation30=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator30=C1_1
+ParamVariation31=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator31=C1_1
+ParamVariation32=ParameterName=PCB3D|VariantValue= 
+ParamDesignator32=C1_1
+ParamVariation33=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator33=C1_1
+ParamVariation34=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator34=C1_1
+ParamVariation35=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator35=C1_1
+ParamVariation36=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator36=C1_1
+ParamVariation37=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator37=C1_1
+ParamVariation38=ParameterName=Value|VariantValue=18pF
+ParamDesignator38=C1_1
+Variation3=Designator=C2|UniqueId=\AXXEVPRK|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation39=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator39=C2
+ParamVariation40=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator40=C2
+ParamVariation41=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator41=C2
+ParamVariation42=ParameterName=Deliverer PartNr|VariantValue=852-3312
+ParamDesignator42=C2
+ParamVariation43=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator43=C2
+ParamVariation44=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator44=C2
+ParamVariation45=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator45=C2
+ParamVariation46=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator46=C2
+ParamVariation47=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator47=C2
+ParamVariation48=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator48=C2
+ParamVariation49=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator49=C2
+ParamVariation50=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator50=C2
+ParamVariation51=ParameterName=PCB3D|VariantValue= 
+ParamDesignator51=C2
+ParamVariation52=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator52=C2
+ParamVariation53=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator53=C2
+ParamVariation54=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator54=C2
+ParamVariation55=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator55=C2
+ParamVariation56=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator56=C2
+ParamVariation57=ParameterName=Value|VariantValue=18pF
+ParamDesignator57=C2
+Variation4=Designator=C2_2|UniqueId=\CFSMVCQK|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation58=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator58=C2_2
+ParamVariation59=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator59=C2_2
+ParamVariation60=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator60=C2_2
+ParamVariation61=ParameterName=Deliverer PartNr|VariantValue=852-3312
+ParamDesignator61=C2_2
+ParamVariation62=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator62=C2_2
+ParamVariation63=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator63=C2_2
+ParamVariation64=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator64=C2_2
+ParamVariation65=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator65=C2_2
+ParamVariation66=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator66=C2_2
+ParamVariation67=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator67=C2_2
+ParamVariation68=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator68=C2_2
+ParamVariation69=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator69=C2_2
+ParamVariation70=ParameterName=PCB3D|VariantValue= 
+ParamDesignator70=C2_2
+ParamVariation71=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator71=C2_2
+ParamVariation72=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator72=C2_2
+ParamVariation73=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator73=C2_2
+ParamVariation74=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator74=C2_2
+ParamVariation75=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator75=C2_2
+ParamVariation76=ParameterName=Value|VariantValue=18pF
+ParamDesignator76=C2_2
+Variation5=Designator=C3|UniqueId=\YPJYIMEI|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation77=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator77=C3
+ParamVariation78=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator78=C3
+ParamVariation79=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator79=C3
+ParamVariation80=ParameterName=Deliverer PartNr|VariantValue=852-3312
+ParamDesignator80=C3
+ParamVariation81=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator81=C3
+ParamVariation82=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator82=C3
+ParamVariation83=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator83=C3
+ParamVariation84=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator84=C3
+ParamVariation85=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator85=C3
+ParamVariation86=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator86=C3
+ParamVariation87=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator87=C3
+ParamVariation88=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator88=C3
+ParamVariation89=ParameterName=PCB3D|VariantValue= 
+ParamDesignator89=C3
+ParamVariation90=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator90=C3
+ParamVariation91=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator91=C3
+ParamVariation92=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator92=C3
+ParamVariation93=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator93=C3
+ParamVariation94=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator94=C3
+ParamVariation95=ParameterName=Value|VariantValue=18pF
+ParamDesignator95=C3
+Variation6=Designator=C3_3|UniqueId=\YPXRAWPS|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation96=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator96=C3_3
+ParamVariation97=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator97=C3_3
+ParamVariation98=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator98=C3_3
+ParamVariation99=ParameterName=Deliverer PartNr|VariantValue=852-3312
+ParamDesignator99=C3_3
+ParamVariation100=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator100=C3_3
+ParamVariation101=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator101=C3_3
+ParamVariation102=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator102=C3_3
+ParamVariation103=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator103=C3_3
+ParamVariation104=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator104=C3_3
+ParamVariation105=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator105=C3_3
+ParamVariation106=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator106=C3_3
+ParamVariation107=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator107=C3_3
+ParamVariation108=ParameterName=PCB3D|VariantValue= 
+ParamDesignator108=C3_3
+ParamVariation109=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator109=C3_3
+ParamVariation110=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator110=C3_3
+ParamVariation111=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator111=C3_3
+ParamVariation112=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator112=C3_3
+ParamVariation113=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator113=C3_3
+ParamVariation114=ParameterName=Value|VariantValue=18pF
+ParamDesignator114=C3_3
+Variation7=Designator=C4|UniqueId=\NSKYYHRK|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation115=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator115=C4
+ParamVariation116=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator116=C4
+ParamVariation117=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator117=C4
+ParamVariation118=ParameterName=Deliverer PartNr|VariantValue=852-3312
+ParamDesignator118=C4
+ParamVariation119=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator119=C4
+ParamVariation120=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator120=C4
+ParamVariation121=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator121=C4
+ParamVariation122=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator122=C4
+ParamVariation123=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator123=C4
+ParamVariation124=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator124=C4
+ParamVariation125=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator125=C4
+ParamVariation126=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator126=C4
+ParamVariation127=ParameterName=PCB3D|VariantValue= 
+ParamDesignator127=C4
+ParamVariation128=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator128=C4
+ParamVariation129=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator129=C4
+ParamVariation130=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator130=C4
+ParamVariation131=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator131=C4
+ParamVariation132=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator132=C4
+ParamVariation133=ParameterName=Value|VariantValue=18pF
+ParamDesignator133=C4
+Variation8=Designator=C4_4|UniqueId=\BHOFAKOM|Kind=2|AlternatePart=Capacitor-Dummy-THT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=Capacitor-Dummy-THT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=Dummy-10mm|AltLibLink_IsSameFootprint=True
+ParamVariation134=ParameterName=Comment|VariantValue=Capacitor-Dummy-THT
+ParamDesignator134=C4_4
+ParamVariation135=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator135=C4_4
+ParamVariation136=ParameterName=Deliverer|VariantValue=RS
+ParamDesignator136=C4_4
+ParamVariation137=ParameterName=Deliverer PartNr|VariantValue=852-3312
+ParamDesignator137=C4_4
+ParamVariation138=ParameterName=Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator138=C4_4
+ParamVariation139=ParameterName=Footprint|VariantValue=Dummy-10mm
+ParamDesignator139=C4_4
+ParamVariation140=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator140=C4_4
+ParamVariation141=ParameterName=Library Reference|VariantValue=Capacitor-Dummy-THT
+ParamDesignator141=C4_4
+ParamVariation142=ParameterName=Manufacturer|VariantValue=-
+ParamDesignator142=C4_4
+ParamVariation143=ParameterName=Manufacturer PartNr|VariantValue=-
+ParamDesignator143=C4_4
+ParamVariation144=ParameterName=PackageDescription|VariantValue=-
+ParamDesignator144=C4_4
+ParamVariation145=ParameterName=Part Description|VariantValue=Capacitor-Dummy-THT
+ParamDesignator145=C4_4
+ParamVariation146=ParameterName=PCB3D|VariantValue= 
+ParamDesignator146=C4_4
+ParamVariation147=ParameterName=Published|VariantValue=08.12.2015
+ParamDesignator147=C4_4
+ParamVariation148=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator148=C4_4
+ParamVariation149=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator149=C4_4
+ParamVariation150=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator150=C4_4
+ParamVariation151=ParameterName=TDE-PN|VariantValue=-
+ParamDesignator151=C4_4
+ParamVariation152=ParameterName=Value|VariantValue=18pF
+ParamDesignator152=C4_4
+ParamVariationCount=152
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Notch-Filter-1\Design Rule Check - Notch-Filter-1.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Notch-Filter-1\Notch-Filter-1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Notch-Filter-1\Notch-Filter-1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Notch-Filter-1\Notch-Filter-1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Notch-Filter-1\Notch-Filter-1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Notch-Filter-1\Notch-Filter-1.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Notch-Filter-1\Notch-Filter-1.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Notch-Filter-1\Notch-Filter-1.GM31
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Notch-Filter-1\Notch-Filter-1.GM32
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Notch-Filter-1\Notch-Filter-1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Notch-Filter-1\Notch-Filter-1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Notch-Filter-1\Notch-Filter-1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Notch-Filter-1\Notch-Filter-1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Notch-Filter-1\Notch-Filter-1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Notch-Filter-1\Notch-Filter-1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Notch-Filter-1\Notch-Filter-1.TXT
+DItemRevisionGUID=
+
+[Configuration1]
+Name=Default Configuration
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+CurrentRevision=
+Variant=[No Variations]
+OutputJobsCount=0
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=0
+
+[Generic_SmartPDFSettings]
+ProjectMode=0
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=..\BOM Review1.xlsx
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=Notch-Filter-100kHz
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=FreePDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=EDIF
+OutputName3=EDIF for PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MultiWire
+OutputName7=MultiWire
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Pcad
+OutputName10=Pcad for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=SIMetrixNetlist
+OutputName18=SIMetrix
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=SIMPLISNetlist
+OutputName19=SIMPLIS
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=TangoNetlist
+OutputName20=Tango Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=TelesisNetlist
+OutputName21=Telesis Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=Verilog
+OutputName22=Verilog File
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=VHDL
+OutputName23=VHDL File
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+OutputType24=WireListNetlist
+OutputName24=WireList Netlist
+OutputDocumentPath24=
+OutputVariantName24=
+OutputDefault24=0
+OutputType25=XSpiceNetlist
+OutputName25=XSpice Netlist
+OutputDocumentPath25=
+OutputVariantName25=
+OutputDefault25=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=FreePDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AdvSimNetlist
+OutputName1=Mixed Sim
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembler Source Print
+OutputName1=Assembler Source Prints
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=C Source Print
+OutputName2=C Source Prints
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=C/C++ Header Print
+OutputName3=C/C++ Header Prints
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=C++ Source Print
+OutputName4=C++ Source Prints
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Composite
+OutputName5=Composite Drawing
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=FSM Print
+OutputName6=FSM Prints
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Logic Analyser Print
+OutputName7=Logic Analyser Prints
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=OpenBus Print
+OutputName8=OpenBus Prints
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=PCB 3D Print
+OutputName9=PCB 3D Print
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=PCB 3D Video
+OutputName10=PCB 3D Video
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=PCB Print
+OutputName11=PCB Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=PCBLIB Print
+OutputName12=PCBLIB Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=PDF3D
+OutputName13=PDF3D
+OutputDocumentPath13=
+OutputVariantName13=[No Variations]
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=Report Print
+OutputName14=Report Prints
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=Schematic Print
+OutputName15=Schematic Prints
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType16=SimView Print
+OutputName16=SimView Prints
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType17=Software Platform Print
+OutputName17=Software Platform Prints
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType18=VHDL Print
+OutputName18=VHDL Prints
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType19=Wave Print
+OutputName19=Wave Prints
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType20=WaveSim Print
+OutputName20=WaveSim Prints
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=FreePDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembly
+OutputName1=Assembly Drawings
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=FreePDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=NC Drill
+OutputName1=NC Drill Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=Test Points
+OutputName4=Test Point Report
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=Plane
+OutputName5=Power-Plane Prints
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=ODB
+OutputName6=ODB++ Files
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=Final
+OutputName11=Final Artwork Prints
+OutputDocumentPath11=
+OutputVariantName11=[No Variations]
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Gerber
+OutputName12=Gerber Files
+OutputDocumentPath12=
+OutputVariantName12=[No Variations]
+OutputDefault12=0
+Configuration12_Name1=OutputConfigurationParameter1
+Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908320~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16908319~1,16908320~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=FreePDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Script
+OutputName1=Script Output
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+OutputType2=SimpleBOM
+OutputName2=Simple BOM
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=SinglePinNetReporter
+OutputName3=Report Single Pin Nets
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=BOM_PartType
+OutputName4=Bill of Materials
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration4_Name1=ColumnNameFormat
+Configuration4_Item1=CaptionAsName
+Configuration4_Name2=Filter
+Configuration4_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration4_Name3=General
+Configuration4_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\BOM Review1.xlsx|BatchMode=5|FormWidth=1228|FormHeight=660|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration4_Name4=GroupOrder
+Configuration4_Item4=Deliverer PartNr=True
+Configuration4_Name5=SortOrder
+Configuration4_Item5=Designator=Up
+Configuration4_Name6=VisibleOrder
+Configuration4_Item6=Designator=100|Deliverer=100|Deliverer PartNr=208|Quantity=46|Value=46
+OutputType5=ComponentCrossReference
+OutputName5=Component Cross Reference Report
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ReportHierarchy
+OutputName6=Report Project Hierarchy
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=FreePDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Text Print
+OutputName2=Text Print
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Text Print
+OutputName3=Text Print
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Text Print
+OutputName4=Text Print
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Text Print
+OutputName5=Text Print
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Text Print
+OutputName6=Text Print
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Text Print
+OutputName7=Text Print
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Text Print
+OutputName8=Text Print
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Text Print
+OutputName9=Text Print
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Text Print
+OutputName10=Text Print
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Text Print
+OutputName11=Text Print
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Text Print
+OutputName12=Text Print
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Text Print
+OutputName13=Text Print
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=Text Print
+OutputName14=Text Print
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=Text Print
+OutputName15=Text Print
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType16=Text Print
+OutputName16=Text Print
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType17=Text Print
+OutputName17=Text Print
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType18=Text Print
+OutputName18=Text Print
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType19=Text Print
+OutputName19=Text Print
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType20=Text Print
+OutputName20=Text Print
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType21=Text Print
+OutputName21=Text Print
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType22=Text Print
+OutputName22=Text Print
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType23=Text Print
+OutputName23=Text Print
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType24=Text Print
+OutputName24=Text Print
+OutputDocumentPath24=
+OutputVariantName24=
+OutputDefault24=0
+PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType25=Text Print
+OutputName25=Text Print
+OutputDocumentPath25=
+OutputVariantName25=
+OutputDefault25=0
+PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType26=Text Print
+OutputName26=Text Print
+OutputDocumentPath26=
+OutputVariantName26=
+OutputDefault26=0
+PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType27=Text Print
+OutputName27=Text Print
+OutputDocumentPath27=
+OutputVariantName27=
+OutputDefault27=0
+PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType28=Text Print
+OutputName28=Text Print
+OutputDocumentPath28=
+OutputVariantName28=
+OutputDefault28=0
+PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType29=Text Print
+OutputName29=Text Print
+OutputDocumentPath29=
+OutputVariantName29=
+OutputDefault29=0
+PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=FreePDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Component states check
+OutputName1=Vault's components states check
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=Configuration compliance
+OutputName2=Environment configuration compliance check
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=Design Rules Check
+OutputName3=Design Rules Check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Differences Report
+OutputName4=Differences Report
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Electrical Rules Check
+OutputName5=Electrical Rules Check
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Footprint Comparison Report
+OutputName6=Footprint Comparison Report
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=FreePDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=ExportIDF
+OutputName3=Export IDF
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportSTEP
+OutputName4=Export STEP
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=NetList Sch
+OutputName5=NetList Sch
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=2
+Type12=2
+Type13=2
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=2
+Type26=2
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=2
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=1
+Type45=2
+Type46=1
+Type47=2
+Type48=2
+Type49=1
+Type50=2
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=0
+Type60=1
+Type61=2
+Type62=2
+Type63=1
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=2
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=1
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNWNNNWW
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNN
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NWEENEENEEENNEENN
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
+L11=NNENNNNEEENWNENWN
+L12=WWWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NWEENEEEENEWNEEWW
+L15=NNENNNNEEENWNENWW
+L16=WWWWNWWNWWWNWWWNW
+L17=WNNNNNNNWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+
+[PrjClassGen]
+CompClassManualEnabled=0
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=1
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+PartTypes=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=1
+DoModels=1
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+PartTypes=0
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Code Memory|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DVT-ClockGenerator.PrjPcb]
+   Generated File[DVT-ClockGenerator.TXT]
+   Generated File[DVT-ClockGenerator.LDP]
+   Generated File[DVT-ClockGenerator.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:59:37 On 23.11.2016

@@ -1,0 +1,14 @@
+Replace Part C13 100nF25V_0402 in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4_PSU.SchDoc with 100nF25V_0402 from Capacitors.IntLib
+Replace Part C14 10uF25V_1210 in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4_PSU.SchDoc with 10uF25V_1210 from Capacitors.IntLib
+Replace Part C15 100nF25V_0402 in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4_PSU.SchDoc with 100nF25V_0402 from Capacitors.IntLib
+Replace Part C27 470uF25V_POL_FT in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4_PSU.SchDoc with 470uF25V_POL_FT from Capacitors.IntLib
+Replace Part C28 10uF50V_1210 in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4_PSU.SchDoc with 10uF50V_1210 from Capacitors.IntLib
+Replace Part C35 10uF25V_1210 in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4_PSU.SchDoc with 10uF25V_1210 from Capacitors.IntLib
+Replace Part C36 100nF25V_0402 in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4_PSU.SchDoc with 100nF25V_0402 from Capacitors.IntLib
+Replace Part D1 RB160M-30TR in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4_PSU.SchDoc with RB160M-30TR from Discrete.IntLib
+Replace Part D2 RB160M-30TR in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4_PSU.SchDoc with RB160M-30TR from Discrete.IntLib
+Replace Part D3 SMAJ58A-E3/61 in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4_PSU.SchDoc with SMAJ58A-E3/61 from Discrete.IntLib
+Replace Part L3 300R2A_0603 in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4_PSU.SchDoc with 300R2A_0603 from Passives.IntLib
+Replace Part U9 Recom-R-783_3-0_5 in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4_PSU.SchDoc with Recom-R-783_3-0_5 from ICs.IntLib
+Replace Part U10 AG-9812M in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4_PSU.SchDoc with AG-9812M from ICs.IntLib
+Replace Part X2 Header-2-WR-TBL3127 in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\MMC_2_4\MMC_2_4_PSU.SchDoc with Header-2-WR-TBL3127 from Connectors.IntLib

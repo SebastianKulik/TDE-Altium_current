@@ -1,0 +1,35 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ATmega32_ComServ.PrjPcb]
+   Generated File[ATmega32_ComServ.GTL]
+   Generated File[ATmega32_ComServ.GBL]
+   Generated File[ATmega32_ComServ.GPB]
+   Generated File[ATmega32_ComServ.GPT]
+   Generated File[ATmega32_ComServ.GTO]
+   Generated File[ATmega32_ComServ.GTP]
+   Generated File[ATmega32_ComServ.GTS]
+   Generated File[ATmega32_ComServ.GBS]
+   Generated File[ATmega32_ComServ.GBP]
+   Generated File[ATmega32_ComServ.GBO]
+   Generated File[ATmega32_ComServ.GKO]
+   Generated File[ATmega32_ComServ.GM1]
+   Generated File[ATmega32_ComServ.GM2]
+   Generated File[ATmega32_ComServ.GM3]
+   Generated File[ATmega32_ComServ.GM4]
+   Generated File[ATmega32_ComServ.GM5]
+   Generated File[ATmega32_ComServ.GM6]
+   Generated File[ATmega32_ComServ.GM7]
+   Generated File[ATmega32_ComServ.GM10]
+   Generated File[ATmega32_ComServ.GM16]
+   Generated File[ATmega32_ComServ.GM27]
+   Generated File[ATmega32_ComServ.GM28]
+   Generated File[ATmega32_ComServ.GM30]
+   Generated File[ATmega32_ComServ.RUL]
+   Generated File[ATmega32_ComServ.EXTREP]
+   Generated File[ATmega32_ComServ.REP]
+
+
+Files Generated   : 26
+Documents Printed : 0
+
+Finished Output Generation At 14:49:32 On 10.11.2014

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetEN_1 Pin=EN-1
+Removed Pin From Net: NetName=GND Pin=EN-2
+Change Component DesignItemId : Designator=EN Old DesignItemId=Plug_2_90_2.54 New DesignItemId=Plug_3_90_2.54
+Change Component Footprint: Designator=EN Old Footprint=HDR1X2 New Footprint=HDR1X3
+Change Component Comment : Designator=EN Old Comment=Plug_2_90_2.54 New Comment=Plug_3_90_2.54
+Added Pin To Net: NetName=VCC Pin=EN-1
+Added Pin To Net: NetName=NetEN_1 Pin=EN-2
+Added Pin To Net: NetName=GND Pin=EN-3
+Change Net Name : Old Net Name=NetEN_1 New Net Name=NetEN_2

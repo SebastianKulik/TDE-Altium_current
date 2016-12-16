@@ -1,0 +1,18 @@
+Added Component: Designator=Q1(TO220V)
+Added Component: Designator=Q2(TO220V)
+Added Component: Designator=Q3(TO220V)
+Added Component: Designator=Q4(TO220V)
+Added Component: Designator=R-End(Dummy-10mm)
+Added Component: Designator=TX(Phoenix-2-5_08)
+Added Pin To Net: NetName=NetR-End_1 Pin=R-End-1
+Added Pin To Net: NetName=NetR-End_1 Pin=TX-2
+Added Net: Name=NetR-End_1
+Added Pin To Net: NetName=NetR-End_2 Pin=R-End-2
+Added Pin To Net: NetName=NetR-End_2 Pin=TX-1
+Added Net: Name=NetR-End_2
+Added Member To Class: ClassName=DVT-Discrete Member=Component Q1 XTR2N0825-T
+Added Member To Class: ClassName=DVT-Discrete Member=Component Q2 XTR2N0525-T
+Added Member To Class: ClassName=DVT-Discrete Member=Component Q3 XTR2N0825-T
+Added Member To Class: ClassName=DVT-Discrete Member=Component Q4 XTR2N0525-T
+Added Member To Class: ClassName=DVT-Discrete Member=Component R-End Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete Member=Component TX PHOENIX_1715721

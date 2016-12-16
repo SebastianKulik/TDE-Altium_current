@@ -1,0 +1,11 @@
+***********************************
+*     Created by WB Importer      *
+***********************************
+.SUBCKT LM5116_BUCK_BLOCK_Cin_WB_CAP_POLARIZED 1 2
+* C = 1.41E-5 F
+* ESR = 0.0019633333333333334 Ohm
+
+Ccap 1 3 1.41E-5
+Resr 3 2 0.0019633333333333334
+
+.ENDS

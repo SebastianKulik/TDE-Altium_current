@@ -1,0 +1,4 @@
+Added Component: Designator=Q1(WE-TBL3-5)
+Added Component: Designator=Q2(WE-TBL3-5)
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component Q1 3Pol_TBL_5mm
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component Q2 3Pol_TBL_5mm

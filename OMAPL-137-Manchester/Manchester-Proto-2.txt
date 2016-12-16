@@ -1,0 +1,11 @@
+Manchester-Lochraster Prototyp
+
+1. SOIC16 adapter x6:
+http://at.farnell.com/aries/lcqt-soic16/ic-adapter-16-soic-dip-2-54mm/dp/2476039
+
+2. Multipexter IC  SN74CBTL3257D  x6:
+http://at.farnell.com/texas-instruments/sn74cbtlv3257d/logik-lv-4bit-fet-mux-demux-16soic/dp/1740177
+
+3. AND-Gater IC 74AC11008N  x8:
+http://at.farnell.com/texas-instruments/74ac11008n/logik-quad-2ingate-16dip/dp/1749860
+

@@ -1,0 +1,12 @@
+Added Component: Designator=Input(Phoenix-2-5_08)
+Added Component: Designator=Output(Phoenix-2-5_08)
+Added Component: Designator=R4(Dummy-10mm)
+Added Pin To Net: NetName=GND Pin=Input-2
+Added Pin To Net: NetName=GND Pin=Output-2
+Added Pin To Net: NetName=NetQ1_3 Pin=R4-2
+Added Pin To Net: NetName=NetOutput_1 Pin=Output-1
+Added Pin To Net: NetName=NetOutput_1 Pin=R4-1
+Added Net: Name=NetOutput_1
+Added Member To Class: ClassName=DVT-Levelshifert-HT Member=Component Input PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Levelshifert-HT Member=Component Output PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Levelshifert-HT Member=Component R4 Resistor-Dummy-THT

@@ -1,0 +1,36 @@
+Added Component: Designator=C12(Dummy-10mm)
+Added Component: Designator=C13(Dummy-10mm)
+Added Component: Designator=R14(Dummy-10mm)
+Added Component: Designator=R15(Dummy-10mm)
+Added Component: Designator=R16(Dummy-10mm)
+Added Component: Designator=R17(Dummy-10mm)
+Added Component: Designator=R18(Dummy-10mm)
+Added Pin To Net: NetName=VOUT Pin=C13-1
+Added Pin To Net: NetName=VOUT Pin=R14-1
+Added Pin To Net: NetName=A-GND Pin=R16-2
+Added Pin To Net: NetName=VOUT Pin=R18-1
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=R17-2
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=U1-10
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=R15-1
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=R15-2
+Added Pin To Net: NetName=NetR14_2 Pin=R16-1
+Added Pin To Net: NetName=NetR14_2 Pin=R17-1
+Added Pin To Net: NetName=NetR14_2 Pin=U1-7
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=U1-24
+Added Net: Name=NetR18_2
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component C12 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component C13 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R14 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R15 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R16 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R17 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R18 Resistor-Dummy-THT

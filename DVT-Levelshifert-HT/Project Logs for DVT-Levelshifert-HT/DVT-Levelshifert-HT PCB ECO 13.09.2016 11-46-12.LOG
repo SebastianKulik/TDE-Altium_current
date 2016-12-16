@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=NetQ1_1 Pin=Q1-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=Q1-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=R3-1
+Added Component: Designator=J1(Phoenix-2-5_08)
+Added Component: Designator=J2(Phoenix-2-5_08)
+Added Component: Designator=J3(Phoenix-2-5_08)
+Added Component: Designator=J4(Phoenix-2-5_08)
+Added Pin To Net: NetName=NetQ1_1 Pin=Input-1
+Added Pin To Net: NetName=3.3V Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=NetQ1_1 Pin=J3-1
+Added Pin To Net: NetName=NetQ1_1 Pin=J4-1
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetInput_1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R3-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=Q1-2
+Added Pin To Net: NetName=NetJ2_2 Pin=Q1-2
+Added Pin To Net: NetName=NetJ2_2 Pin=Q1-2
+Added Pin To Net: NetName=NetJ2_2 Pin=Q1-2
+Added Pin To Net: NetName=NetJ2_2 Pin=Q1-2
+Added Pin To Net: NetName=NetJ2_2 Pin=Q1-2
+Added Pin To Net: NetName=NetJ2_2 Pin=Q1-2
+Added Pin To Net: NetName=NetJ2_2 Pin=Q1-2
+Added Pin To Net: NetName=NetJ2_2 Pin=Q1-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R2-2
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R3-2
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=R2-1
+Added Net: Name=NetJ4_2
+Added Member To Class: ClassName=DVT-Levelshifert-HT Member=Component J1 PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Levelshifert-HT Member=Component J2 PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Levelshifert-HT Member=Component J3 PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Levelshifert-HT Member=Component J4 PHOENIX_1715721

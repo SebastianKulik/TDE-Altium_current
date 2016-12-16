@@ -1,0 +1,232 @@
+Added Component: Designator=C1(Dummy-10mm)
+Added Component: Designator=C2(Dummy-10mm)
+Added Component: Designator=C3(Dummy-10mm)
+Added Component: Designator=C4(Dummy-10mm)
+Added Component: Designator=C5(Dummy-10mm)
+Added Component: Designator=C6(Dummy-10mm)
+Added Component: Designator=C7(Dummy-10mm)
+Added Component: Designator=D1(DO-15-Dummy)
+Added Component: Designator=D2(DO-15-Dummy)
+Added Component: Designator=D3(DO-15-Dummy)
+Added Component: Designator=EN(HDR1X2)
+Added Component: Designator=ERR1(HDR1X3)
+Added Component: Designator=ERR2(HDR1X3)
+Added Component: Designator=INV-1(HDR1X3)
+Added Component: Designator=INV-2(HDR1X3)
+Added Component: Designator=MCU-VCC(HDR1X2)
+Added Component: Designator=MCU(HDR1X8_2.54)
+Added Component: Designator=N_P-1(HDR1X2)
+Added Component: Designator=N_P-2(HDR1X2)
+Added Component: Designator=PA-EN(HDR1X2)
+Added Component: Designator=PVCC(Phoenix-2-5_08)
+Added Component: Designator=Q1(DIP-8-Ceramic-HT)
+Added Component: Designator=Q2(DIP-8-Ceramic-HT)
+Added Component: Designator=Q3(DIP-8-Ceramic-HT)
+Added Component: Designator=Q4(DIP-8-Ceramic-HT)
+Added Component: Designator=Q5(DIP-8-Ceramic-HT)
+Added Component: Designator=R1(Dummy-10mm)
+Added Component: Designator=R2(Dummy-10mm)
+Added Component: Designator=R-End(Dummy-10mm)
+Added Component: Designator=R-Gate-H(Dummy-10mm)
+Added Component: Designator=R-Gate-L(Dummy-10mm)
+Added Component: Designator=TX(Phoenix-2-5_08)
+Added Component: Designator=U1(DIP-16-Ceramic-HT)
+Added Component: Designator=U2(DIP-16-Ceramic-HT)
+Added Component: Designator=VCC(Phoenix-2-5_08)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=PVDD Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=PVDD Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=NetD1_2 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=NetD1_2 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-1
+Added Pin To Net: NetName=PVDD Pin=D1-2
+Added Pin To Net: NetName=NetMCU_3 Pin=D2-1
+Added Pin To Net: NetName=NetMCU_4 Pin=D2-2
+Added Pin To Net: NetName=NetMCU_5 Pin=D3-1
+Added Pin To Net: NetName=NetMCU_6 Pin=D3-2
+Added Pin To Net: NetName=GND Pin=EN-2
+Added Pin To Net: NetName=NetQ3_5 Pin=ERR1-1
+Added Pin To Net: NetName=VCC Pin=ERR1-3
+Added Pin To Net: NetName=NetQ4_5 Pin=ERR2-1
+Added Pin To Net: NetName=VCC Pin=ERR2-3
+Added Pin To Net: NetName=NetQ1_1 Pin=INV-1-1
+Added Pin To Net: NetName=NetQ1_5 Pin=INV-1-2
+Added Pin To Net: NetName=GND Pin=INV-1-3
+Added Pin To Net: NetName=NetQ2_5 Pin=INV-2-1
+Added Pin To Net: NetName=NetQ3_1 Pin=INV-2-2
+Added Pin To Net: NetName=GND Pin=INV-2-3
+Added Pin To Net: NetName=NetMCU_1 Pin=MCU-1
+Added Pin To Net: NetName=NetMCU_2 Pin=MCU-2
+Added Pin To Net: NetName=NetQ1_1 Pin=MCU-3
+Added Pin To Net: NetName=NetQ2_5 Pin=MCU-4
+Added Pin To Net: NetName=NetQ3_5 Pin=MCU-5
+Added Pin To Net: NetName=NetQ4_5 Pin=MCU-6
+Added Pin To Net: NetName=NetC1_1 Pin=MCU-7
+Added Pin To Net: NetName=GND Pin=MCU-8
+Added Pin To Net: NetName=VCC Pin=MCU-VCC-1
+Added Pin To Net: NetName=NetC1_1 Pin=MCU-VCC-2
+Added Pin To Net: NetName=NetPA-EN_1 Pin=PA-EN-1
+Added Pin To Net: NetName=GND Pin=PA-EN-2
+Added Pin To Net: NetName=PVDD Pin=PVCC-1
+Added Pin To Net: NetName=GND Pin=PVCC-2
+Added Pin To Net: NetName=NetPA-EN_1 Pin=Q1-1
+Added Pin To Net: NetName=NetPA-EN_1 Pin=Q1-1
+Added Pin To Net: NetName=NetPA-EN_1 Pin=Q1-1
+Added Pin To Net: NetName=NetMCU_3 Pin=Q1-5
+Added Pin To Net: NetName=NetMCU_3 Pin=Q1-5
+Added Pin To Net: NetName=NetMCU_3 Pin=Q1-5
+Added Pin To Net: NetName=NetMCU_3 Pin=Q1-5
+Added Pin To Net: NetName=NetD1_2 Pin=Q2-1
+Added Pin To Net: NetName=NetD1_2 Pin=Q2-1
+Added Pin To Net: NetName=NetD1_2 Pin=Q2-1
+Added Pin To Net: NetName=NetMCU_3 Pin=Q2-5
+Added Pin To Net: NetName=NetMCU_3 Pin=Q2-5
+Added Pin To Net: NetName=NetMCU_3 Pin=Q2-5
+Added Pin To Net: NetName=NetMCU_3 Pin=Q2-5
+Added Pin To Net: NetName=NetPA-EN_1 Pin=Q3-1
+Added Pin To Net: NetName=NetPA-EN_1 Pin=Q3-1
+Added Pin To Net: NetName=NetPA-EN_1 Pin=Q3-1
+Added Pin To Net: NetName=NetMCU_5 Pin=Q3-5
+Added Pin To Net: NetName=NetMCU_5 Pin=Q3-5
+Added Pin To Net: NetName=NetMCU_5 Pin=Q3-5
+Added Pin To Net: NetName=NetMCU_5 Pin=Q3-5
+Added Pin To Net: NetName=NetD1_2 Pin=Q4-1
+Added Pin To Net: NetName=NetD1_2 Pin=Q4-1
+Added Pin To Net: NetName=NetD1_2 Pin=Q4-1
+Added Pin To Net: NetName=NetMCU_5 Pin=Q4-5
+Added Pin To Net: NetName=NetMCU_5 Pin=Q4-5
+Added Pin To Net: NetName=NetMCU_5 Pin=Q4-5
+Added Pin To Net: NetName=NetMCU_5 Pin=Q4-5
+Added Pin To Net: NetName=NetPA-EN_1 Pin=Q5-1
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=PVDD Pin=Q5-3
+Added Pin To Net: NetName=VCC Pin=Q5-4
+Added Pin To Net: NetName=GND Pin=Q5-6
+Added Pin To Net: NetName=NetPA-EN_1 Pin=Q5-7
+Added Pin To Net: NetName=NetPA-EN_1 Pin=Q5-8
+Added Pin To Net: NetName=NetMCU_3 Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetMCU_5 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R-End-1
+Added Pin To Net: NetName=NetR1_2 Pin=R-End-2
+Added Pin To Net: NetName=NetR1_2 Pin=TX-1
+Added Pin To Net: NetName=NetR2_2 Pin=TX-2
+Added Pin To Net: NetName=NetQ1_5 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=NetMCU_4 Pin=U1-8
+Added Pin To Net: NetName=PVDD Pin=U1-11
+Added Pin To Net: NetName=PVDD Pin=U1-12
+Added Pin To Net: NetName=PVDD Pin=U1-13
+Added Pin To Net: NetName=VCC Pin=U1-14
+Added Pin To Net: NetName=VCC Pin=U1-15
+Added Pin To Net: NetName=NetMCU_1 Pin=U1-16
+Added Pin To Net: NetName=NetQ3_1 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=NetMCU_6 Pin=U2-8
+Added Pin To Net: NetName=PVDD Pin=U2-11
+Added Pin To Net: NetName=PVDD Pin=U2-12
+Added Pin To Net: NetName=PVDD Pin=U2-13
+Added Pin To Net: NetName=VCC Pin=U2-14
+Added Pin To Net: NetName=VCC Pin=U2-15
+Added Pin To Net: NetName=NetMCU_2 Pin=U2-16
+Added Pin To Net: NetName=VCC Pin=VCC-1
+Added Pin To Net: NetName=GND Pin=VCC-2
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetMCU_3 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetMCU_4 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetMCU_5 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetMCU_6 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetINV-1_1
+Change Net Name : Old Net Name=NetQ1_5 New Net Name=NetINV-1_2
+Change Net Name : Old Net Name=NetQ2_5 New Net Name=NetINV-2_1
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetINV-2_2
+Change Net Name : Old Net Name=NetQ3_5 New Net Name=NetERR1_1
+Change Net Name : Old Net Name=NetQ4_5 New Net Name=NetERR2_1
+Added Pin To Net: NetName=NetEN_1 Pin=EN-1
+Added Pin To Net: NetName=NetEN_1 Pin=Q5-5
+Added Net: Name=NetEN_1
+Added Pin To Net: NetName=NetERR1_2 Pin=ERR1-2
+Added Pin To Net: NetName=NetERR1_2 Pin=U1-1
+Added Net: Name=NetERR1_2
+Added Pin To Net: NetName=NetERR2_2 Pin=ERR2-2
+Added Pin To Net: NetName=NetERR2_2 Pin=U2-1
+Added Net: Name=NetERR2_2
+Added Pin To Net: NetName=NetN_P-1_1 Pin=N_P-1-1
+Added Pin To Net: NetName=NetN_P-1_1 Pin=U1-7
+Added Net: Name=NetN_P-1_1
+Added Pin To Net: NetName=NetN_P-1_2 Pin=N_P-1-2
+Added Pin To Net: NetName=NetN_P-1_2 Pin=U1-4
+Added Net: Name=NetN_P-1_2
+Added Pin To Net: NetName=NetN_P-2_1 Pin=N_P-2-1
+Added Pin To Net: NetName=NetN_P-2_1 Pin=U2-7
+Added Net: Name=NetN_P-2_1
+Added Pin To Net: NetName=NetN_P-2_2 Pin=N_P-2-2
+Added Pin To Net: NetName=NetN_P-2_2 Pin=U2-4
+Added Net: Name=NetN_P-2_2
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_4 Pin=Q2-4
+Added Pin To Net: NetName=NetQ1_4 Pin=R-Gate-H-1
+Added Net: Name=NetQ1_4
+Added Pin To Net: NetName=NetQ3_4 Pin=Q3-4
+Added Pin To Net: NetName=NetQ3_4 Pin=Q4-4
+Added Pin To Net: NetName=NetQ3_4 Pin=R-Gate-L-1
+Added Net: Name=NetQ3_4
+Added Pin To Net: NetName=NetR-Gate-H_2 Pin=R-Gate-H-2
+Added Pin To Net: NetName=NetR-Gate-H_2 Pin=U1-9
+Added Pin To Net: NetName=NetR-Gate-H_2 Pin=U1-10
+Added Net: Name=NetR-Gate-H_2
+Added Pin To Net: NetName=NetR-Gate-L_2 Pin=R-Gate-L-2
+Added Pin To Net: NetName=NetR-Gate-L_2 Pin=U2-9
+Added Pin To Net: NetName=NetR-Gate-L_2 Pin=U2-10
+Added Net: Name=NetR-Gate-L_2
+Change Class Name : Old Net Name=DVT-Discrete New Net Name=DVT-Discrete-1
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component C1 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component C2 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component C3 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component C4 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component C5 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component C6 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component C7 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component D1 Diode-Dummy
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component D2 Diode-Dummy
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component D3 Diode-Dummy
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component EN Plug_2_90_2.54
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component ERR1 Plug_3_90_2.54
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component ERR2 Plug_3_90_2.54
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component INV-1 Plug_3_90_2.54
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component INV-2 Plug_3_90_2.54
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component MCU-VCC Plug_2_90_2.54
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component MCU Plug_08_2.54
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component N_P-1 Plug_2_90_2.54
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component N_P-2 Plug_2_90_2.54
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component PA-EN Plug_2_90_2.54
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component PVCC PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component Q1 XTR2N0825-D
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component Q2 XTR2N0525-D
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component Q3 XTR2N0825-D
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component Q4 XTR2N0525-D
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component Q5 XTR20411A-D
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component R1 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component R2 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component R-End Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component R-Gate-H Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component R-Gate-L Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component TX PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component U1 XTR25411A-D
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component U2 XTR25411A-D
+Added Member To Class: ClassName=DVT-Discrete-1 Member=Component VCC PHOENIX_1715721
+Added Room: Name=DVT-Discrete-1

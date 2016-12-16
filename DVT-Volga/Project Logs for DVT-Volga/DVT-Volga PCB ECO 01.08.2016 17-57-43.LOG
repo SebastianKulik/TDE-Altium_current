@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetINPUT_2 Pin=U1-4
+Removed Pin From Net: NetName=NetINPUT_1 Pin=U1-5
+Added Component: Designator=RX+(Phoenix-2-5_08)
+Added Component: Designator=RX-(Phoenix-2-5_08)
+Added Pin To Net: NetName=NetINPUT_2 Pin=RX+-1
+Added Pin To Net: NetName=NetINPUT_1 Pin=RX--1
+Added Pin To Net: NetName=NetRX+_2 Pin=RX+-2
+Added Pin To Net: NetName=NetRX+_2 Pin=U1-4
+Added Net: Name=NetRX+_2
+Added Pin To Net: NetName=NetRX-_2 Pin=RX--2
+Added Pin To Net: NetName=NetRX-_2 Pin=U1-5
+Added Net: Name=NetRX-_2
+Added Member To Class: ClassName=DVT-Volga Member=Component RX+ PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Volga Member=Component RX- PHOENIX_1715721

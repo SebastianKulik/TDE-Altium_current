@@ -1,0 +1,192 @@
+*************************************************************
+FileName = DVT-Levelshifert-HT.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : DVT-Levelshifert-HT.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : DVT-Levelshifert-HT.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : DVT-Levelshifert-HT.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : outline
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : DVT-Levelshifert-HT.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : outline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DVT-Levelshifert-HT.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : measuring
+      File : DVT-Levelshifert-HT.GM31
+
+    Adding Layer      : measuring
+
+    Adding Layer      : outline
+
+
+Used DCodes :
+    D16
+    D17
+    D26
+*************************************************************
+
+*************************************************************
+Generating : outline
+      File : DVT-Levelshifert-HT.GM32
+
+    Adding Layer      : outline
+
+    Adding Layer      : outline
+
+
+Used DCodes :
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : DVT-Levelshifert-HT.GD1
+
+    Adding Layer      : outline
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D17
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : DVT-Levelshifert-HT.GG1
+
+    Adding Layer      : outline
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D17
+    D43
+*************************************************************
+

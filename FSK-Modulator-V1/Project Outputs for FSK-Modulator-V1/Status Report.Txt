@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [FSK-Modulator-V1.PrjPcb]
+   Generated File[FSK-Modulator-V1.GTL]
+   Generated File[FSK-Modulator-V1.GBL]
+   Generated File[FSK-Modulator-V1.GTO]
+   Generated File[FSK-Modulator-V1.GTS]
+   Generated File[FSK-Modulator-V1.GBS]
+   Generated File[FSK-Modulator-V1.GM31]
+   Generated File[FSK-Modulator-V1.GM32]
+   Generated File[FSK-Modulator-V1.GD1]
+   Generated File[FSK-Modulator-V1.GG1]
+   Generated File[FSK-Modulator-V1.RUL]
+   Generated File[FSK-Modulator-V1.EXTREP]
+   Generated File[FSK-Modulator-V1.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 18:30:55 On 28.11.2016

@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=OUT-2
+Removed Pin From Net: NetName=GND Pin=U3-8
+Removed Pin From Net: NetName=GND Pin=VCC-2
+Removed Pin From Net: NetName=GND Pin=VDD-2
+Removed Pin From Net: NetName=GND Pin=VDDA-2
+Added Component: Designator=GND-Isolation(Phoenix-2-5_08)
+Added Pin To Net: NetName=GND Pin=GND-Isolation-1
+Added Pin To Net: NetName=GND-R Pin=C1-2
+Added Pin To Net: NetName=GND-R Pin=C2-2
+Added Pin To Net: NetName=GND-R Pin=C3-2
+Added Pin To Net: NetName=GND-R Pin=C8-1
+Added Pin To Net: NetName=GND-R Pin=C8-2
+Added Pin To Net: NetName=GND-R Pin=GND-Isolation-2
+Added Pin To Net: NetName=GND-R Pin=U3-8
+Added Pin To Net: NetName=GND-R Pin=VCC-2
+Added Pin To Net: NetName=GND-R Pin=VDD-2
+Added Pin To Net: NetName=GND-R Pin=VDDA-2
+Added Net: Name=GND-R
+Added Pin To Net: NetName=GNDR Pin=C9-2
+Added Pin To Net: NetName=GNDR Pin=OUT-2
+Added Net: Name=GNDR
+Added Member To Class: ClassName=DVT-Discrete-2 Member=Component GND-Isolation PHOENIX_1715721

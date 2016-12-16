@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=C? Old DesignItemId=10pF50V_0603 New DesignItemId=16pF50V_0402
+Change Component Footprint: Designator=C? Old Footprint=C0603 New Footprint=C0402
+Change Component Comment : Designator=C? Old Comment=10pF50V_0603 New Comment=16pF50V_0402
+Added Pin To Net: NetName=NetR2_1 Pin=C?-1
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetC?_1

@@ -1,0 +1,114 @@
+Stückliste exportiert aus C:/Users/lindner_w/Documents/eagle/DAU_Kupplung/DAU_Kupplung_3phasig_V1_12.sch am 04.06.2012 08:04:03
+
+Bestückungsvariante: 
+
+Bauteil   Wert               Device             Package            Description                         
+AC1002_1  AC1010             AC1010             AC1010                                                 
+C1        1µ                 C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C2        470n/270V          C-EU225-087X268    C225-087X268       CAPACITOR, European symbol          
+C3        100n               C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C4        100n               C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C5        100n               C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C6        4,7µ               CPOL-EUE2.5-6      E2,5-6             POLARIZED CAPACITOR, European symbol
+C7        4,7µ               CPOL-EUE2.5-6      E2,5-6             POLARIZED CAPACITOR, European symbol
+C8        4,7µ               CPOL-EUE2.5-6      E2,5-6             POLARIZED CAPACITOR, European symbol
+C9        100n               C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C10       4µ7                CPOL-EUE2,5-6E     E2,5-6E            POLARIZED CAPACITOR, European symbol
+C11       1µ                 C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C12       4µ7                C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C13       1µ                 C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C14       1µ                 C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C15       1µ                 C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C16       1µ                 C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C17       1µ                 C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C18       4µ7                C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C19       1µ                 C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C20       1µ                 C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C21       1µ                 C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C22       4µ7                C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C23       1µ                 C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C24       470n/270V          C-EU225-087X268    C225-087X268       CAPACITOR, European symbol          
+C25       470n/270V          C-EU225-087X268    C225-087X268       CAPACITOR, European symbol          
+C26       1µ                 C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C27       1µ                 C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C28       100n               C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C29       100n               C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C30       100n               C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C31       100n               C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C32       100n               C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C33       100n               C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C34       100n               C-EUC0805K         C0805K             CAPACITOR, European symbol          
+C35       100n               C-EUC0805K         C0805K             CAPACITOR, European symbol          
+F1        T250mA/240V        TR5                TR5                FUSE                                
+F2        T250mA/240V        TR5                TR5                FUSE                                
+F3        T250mA/240V        TR5                TR5                FUSE                                
+LED1                         LEDSQR2X5          LED2X5             LED                                 
+P6KE300CA P6KE300CA          TSV                TSV                                                    
+R1        82k                R-EU_R0805         R0805              RESISTOR, European symbol           
+R2        33k                R-EU_R0805         R0805              RESISTOR, European symbol           
+R3        22k                R-EU_R0805         R0805              RESISTOR, European symbol           
+R4        470k               R-EU_0204/7        0204/7             RESISTOR, European symbol           
+R5        82k                R-EU_R0805         R0805              RESISTOR, European symbol           
+R6        1M                 R-EU_R0805         R0805              RESISTOR, European symbol           
+R7        10k                R-EU_R0805         R0805              RESISTOR, European symbol           
+R8        4k7                R-EU_R0805         R0805              RESISTOR, European symbol           
+R9        470k               R-EU_0204/7        0204/7             RESISTOR, European symbol           
+R10       470k               R-EU_0204/7        0204/7             RESISTOR, European symbol           
+R11       82k                R-EU_R0805         R0805              RESISTOR, European symbol           
+R12       33k                R-EU_R0805         R0805              RESISTOR, European symbol           
+R13       33k                R-EU_R0805         R0805              RESISTOR, European symbol           
+R14       220R/33k           R-EU_R0805         R0805              RESISTOR, European symbol           
+R15       330R               R-EU_R0805         R0805              RESISTOR, European symbol           
+R16       68R                R-EU_0204/7        0204/7             RESISTOR, European symbol           
+R17       22k                R-EU_R0805         R0805              RESISTOR, European symbol           
+R18       10k                R-EU_R0805         R0805              RESISTOR, European symbol           
+R19       4k7                R-EU_R0805         R0805              RESISTOR, European symbol           
+R20       68R                R-EU_0204/7        0204/7             RESISTOR, European symbol           
+R21       22k                R-EU_R0805         R0805              RESISTOR, European symbol           
+R22       10k                R-EU_R0805         R0805              RESISTOR, European symbol           
+R23       4k7                R-EU_R0805         R0805              RESISTOR, European symbol           
+R24       68R                R-EU_0204/7        0204/7             RESISTOR, European symbol           
+R25       10R                R-EU_R0805         R0805              RESISTOR, European symbol           
+R26       10R                R-EU_R0805         R0805              RESISTOR, European symbol           
+R27       10R                R-EU_R0805         R0805              RESISTOR, European symbol           
+R28       10R                R-EU_R0805         R0805              RESISTOR, European symbol           
+R29       10R                R-EU_R0805         R0805              RESISTOR, European symbol           
+R30       10R                R-EU_R0805         R0805              RESISTOR, European symbol           
+R31       10R                R-EU_R0805         R0805              RESISTOR, European symbol           
+R32       10R                R-EU_R0805         R0805              RESISTOR, European symbol           
+R33       680k               R-EU_R0805         R0805              RESISTOR, European symbol           
+R34       470k               R-EU_R0805         R0805              RESISTOR, European symbol           
+R35       220R               R-EU_R0805         R0805              RESISTOR, European symbol           
+R36       330R               R-EU_R0805         R0805              RESISTOR, European symbol           
+R37       0/82k              R-EU_R0805         R0805              RESISTOR, European symbol           
+R38       0/82k              R-EU_R0805         R0805              RESISTOR, European symbol           
+R39       0/82k              R-EU_R0805         R0805              RESISTOR, European symbol           
+R40       220R/33k           R-EU_R0805         R0805              RESISTOR, European symbol           
+R41       220R/33k           R-EU_R0805         R0805              RESISTOR, European symbol           
+SJ1                          SJ2WW              SJ_2W              SMD solder JUMPER                   
+SJ2                          SJ2WW              SJ_2W              SMD solder JUMPER                   
+SJ3                          SJ2WW              SJ_2W              SMD solder JUMPER                   
+SV1                          MA04-1             MA04-1             PIN HEADER                          
+TSV2      TSV                TSV                TSV                                                    
+U$1       RECOM_RAC04_12SA   RECOM_RAC04_12SA   RAC04_12SA                                             
+U$2       SICHERHEITSTRAFO   SICHERHEITSTRAFO   TRAFO_0,35VA                                           
+U$3       ADUC831_MINIMUM    ADUC831_MINIMUM    ADUC_MINIMUM                                           
+U$4       MODEMSTECKER       MODEMSTECKER       MODEM_FUSS                                             
+U$5       PLC_UEBERTRAGER_V2 PLC_UEBERTRAGER_V2 PLC-UEBERTRAGER_V2                                     
+U$7       AC1010             AC1010             AC1010                                                 
+U$8       RECTIFIER          RECTIFIER          RECTIFIER                                              
+U$10      RECOM_785_05       RECOM_785_05       RECOM785X                                              
+U$11      TS1084_HOCH        TS1084_HOCH        TS1084_HOCH                                            
+U$12      AD536              AD536              TO100_10PIN                                            
+U$13      AD536              AD536              TO100_10PIN                                            
+U$14      AC1010             AC1010             AC1010                                                 
+U$15      AD536              AD536              TO100_10PIN                                            
+U$16      SICHERHEITSTRAFO   SICHERHEITSTRAFO   TRAFO_0,35VA                                           
+U$17      RECTIFIER          RECTIFIER          RECTIFIER                                              
+U$18      SICHERHEITSTRAFO   SICHERHEITSTRAFO   TRAFO_0,35VA                                           
+U$19      RECTIFIER          RECTIFIER          RECTIFIER                                              
+U$20      NETZFILTER_05_A    NETZFILTER_05_A    NETZFILTER                                             
+X1        CONNECTO_5_POL     CONNECTO_5_POL     CONNECTOR_5_POL                                        
+X2        22-23-2031         22-23-2031         22-23-2031         .100" (2.54mm) Center Header - 3 Pin
+X3        22-23-2031         22-23-2031         22-23-2031         .100" (2.54mm) Center Header - 3 Pin
+X4        22-23-2031         22-23-2031         22-23-2031         .100" (2.54mm) Center Header - 3 Pin

@@ -1,0 +1,23 @@
+Added Component: Designator=U1(TDFP16)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Deliverer"; Value = "CISSOID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Deliverer PartNr"; Value = "CHT-VOLGA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CISSOID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PartNr"; Value = "CHT-VOLGA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "204.93/5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "01.08.2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Sebastian Kulik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TDE-PN"; Value = "IC0080"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=U1-1
+Added Pin To Net: NetName=NetRX+_2 Pin=U1-4
+Added Pin To Net: NetName=NetRX-_2 Pin=U1-5
+Added Pin To Net: NetName=NetJ1_3 Pin=U1-9
+Added Pin To Net: NetName=VCC Pin=U1-11
+Added Pin To Net: NetName=VCC Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=VCC Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Member To Class: ClassName=DVT-Volga-V2 Member=Component U1 CHT-VOLGA

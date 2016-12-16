@@ -1,0 +1,4 @@
+Added Component: Designator=**(Eye)
+Added Component: Designator=*(Eye)
+Added Member To Class: ClassName=Manchester-Comparator_Module Member=Component ** Eye
+Added Member To Class: ClassName=Manchester-Comparator_Module Member=Component * Eye

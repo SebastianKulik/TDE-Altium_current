@@ -1,0 +1,7 @@
+***********************************
+*     Created by WB Importer      *
+***********************************
+.SUBCKT LM5116_BUCK_BLOCK_L1_WB_INDUCTOR 1 2
+L1 2 3 1.0E-4
+RDCR 3 1 0.106
+.ENDS

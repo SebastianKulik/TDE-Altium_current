@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=U1-18
+Removed Pin From Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=VCC Pin=U1-18
+Added Pin To Net: NetName=VCC Pin=U1-19
+Added Member To Class: ClassName=DVT-Volga-V2 Member=Component U1 CHT-VOLGA

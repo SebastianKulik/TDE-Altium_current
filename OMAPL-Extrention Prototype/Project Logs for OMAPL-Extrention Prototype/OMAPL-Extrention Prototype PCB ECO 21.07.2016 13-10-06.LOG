@@ -1,0 +1,6 @@
+Added Component: Designator=GPIOsIn(HDR1X4)
+Added Pin To Net: NetName=EXP_EMIFA_D12 Pin=GPIOsIn-1
+Added Pin To Net: NetName=EXP_EMIFA_D13 Pin=GPIOsIn-2
+Added Pin To Net: NetName=EXP_EMIFA_D14 Pin=GPIOsIn-3
+Added Pin To Net: NetName=EXP_EMIFA_D15 Pin=GPIOsIn-4
+Added Member To Class: ClassName=OMAPL-Extrention Prototype Member=Component GPIOsIn Plug_4_90_2.54

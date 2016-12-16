@@ -1,0 +1,34 @@
+Field=Designator~String~Designator~100|Field=Ref-X(mm)~String~Ref-X(mm)~100|Field=Ref-Y(mm)~String~Ref-Y(mm)~100|Field=Rotation~String~Rotation~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Multi_HUTSCHIENE_1_1.PrjPCB|ReportField=ProjectFullPath~C:\Users\Sebastians\Documents\ExodusAmps\TDE-Altium\Multi_HUTSCHIENE\Multi_HUTSCHIENE_1_1.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [Multi_HUTSCHIENE_1_1.PcbDoc]|ReportField=TotalQuantity~62|ReportField=ReportTime~12:22:41|ReportField=ReportDate~25.02.2014|ReportField=ReportDateTime~25.02.2014 12:22:41|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~Multi_HUTSCHIENE_1_1.PcbDoc|ReportField=DataSourceFullPath~C:\Users\Sebastians\Documents\ExodusAmps\TDE-Altium\Multi_HUTSCHIENE\Multi_HUTSCHIENE_1_1.PcbDoc
+C1, C2, C3, C4, C6, C11, C26, C27|19.101, 16.104, 5.105, 8.293, 23.101, 22.555, 16.383, 25.273|60.363, 60.871, 56.604, 55.639, 53.454, 37.287, 67.983, 64.041|0, 0, 180, 90, 270, 180, 270, 270
+C7|4.966|60.008|90
+C8, C15, C29, C36|16.408, 18.377, 23.622, 5.296|44.552, 27.343, 24.663, 63.779|0, 270, 0, 0
+C9|18.517|35.992|90
+C10|19.571|35.852|90
+C13|10.604|28.943|180
+C14|13.322|43.815|180
+C22, C23|9.83, 6.439|47.765, 54.991|0, 90
+C30, C31, C32, C33|16.51, 14.427, 13.17, 11.087|23.216|90
+C34, C35|15.875, 23.851|42.075, 26.264|0
+D2|5.601|69.355|270
+J1|14.6|10.16|180
+JP1|25.908|53.924|270
+JP2|1.905|21.463|90
+JP4, JP5|27.305, 27.343|64.262, 20.028|270
+JP6|2.032|40.894|90
+L1|23.762|27.864|0
+M1, M2, M3|27, 27, 1.8|70, 27, 71|0
+Q1|6.16|50.317|90
+R1, R2, R8|24.079, 18.39, 17.678|50.978, 24.778, 37.846|270, 0, 0
+R9|11.582|39.103|90
+R10, R11, R12, R13|12.624, 13.767, 15.989, 15.1|39.129, 38.951, 38.76, 38.748|90, 90, 270, 90
+R14|16.535|29.502|90
+R15|19.393|33.718|270
+R50, R51, R52, R53|16.485, 14.605, 13.183, 11.163|26.378, 26.378, 26.378, 26.365|90
+U1|15.85|53.2|180
+U2|9.042|66.434|270
+U3|20.815|69.101|0
+U4|21.006|64.224|270
+U5|8.534|58.674|0
+U6|14.482|34|180
+U7|23.152|32.474|90
+X1, X3, X4, X5|18.034, 6.604, 23.698, 12.319|76.073|0

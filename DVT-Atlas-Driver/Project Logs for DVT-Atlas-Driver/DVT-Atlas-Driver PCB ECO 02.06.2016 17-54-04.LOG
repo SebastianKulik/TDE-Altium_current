@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetC14_1 Pin=C14-1
+Removed Pin From Net: NetName=NetC14_2 Pin=C14-2
+Removed Pin From Net: NetName=NetC15_1 Pin=C15-1
+Removed Pin From Net: NetName=NetC15_1 Pin=U1-16
+Removed Pin From Net: NetName=NetC14_1 Pin=U1-27
+Removed Pin From Net: NetName=NetC14_2 Pin=U1-28
+Removed Member From Class: ClassName=DVT-Atlas-Driver1 Member=C14
+Removed Member From Class: ClassName=DVT-Atlas-Driver1 Member=C15
+Added Component: Designator=INA(HDR1X3)
+Added Pin To Net: NetName=NetC14_2 Pin=INA-1
+Added Pin To Net: NetName=NetC15_1 Pin=INA-2
+Added Pin To Net: NetName=NetC14_1 Pin=INA-3
+Added Pin To Net: NetName=NetC14_2 Pin=P1-1
+Added Pin To Net: NetName=NetC15_1 Pin=U1-3
+Added Pin To Net: NetName=NetC14_2 Pin=U2-4
+Added Pin To Net: NetName=NetC14_2 Pin=U2-5
+Added Pin To Net: NetName=NetC14_1 Pin=U2-6
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetINA_3
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetINA_1
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetINA_2
+Added Member To Class: ClassName=DVT-Atlas-Driver2 Member=Component INA Plug_3_90_2.54

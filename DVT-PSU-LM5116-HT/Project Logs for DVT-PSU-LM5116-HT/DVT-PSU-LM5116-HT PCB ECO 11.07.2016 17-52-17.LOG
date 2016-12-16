@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=NetQ1_3 Pin=Q1-3
+Removed Pin From Net: NetName=NetR6_1 Pin=R6-1
+Removed Pin From Net: NetName=NetR6_1 Pin=U1-11
+Removed Pin From Net: NetName=NetQ1_3 Pin=U1-20
+Added Component: Designator=C6(Dummy-10mm)
+Added Component: Designator=C7(Dummy-10mm)
+Added Component: Designator=D1(TO220AC)
+Added Component: Designator=J1(HDR1X2)
+Added Pin To Net: NetName=NetQ1_3 Pin=C6-1
+Added Pin To Net: NetName=NetR6_1 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=NetQ1_3 Pin=D1-1
+Added Pin To Net: NetName=NetMeasuring_1 Pin=J1-2
+Added Pin To Net: NetName=NetR6_1 Pin=Q1-3
+Added Pin To Net: NetName=NetR6_1 Pin=Q2-2
+Added Pin To Net: NetName=NetQ1_3 Pin=U1-18
+Added Pin To Net: NetName=NetR6_1 Pin=U1-20
+Change Net Name : Old Net Name=NetMeasuring_1 New Net Name=NetJ1_2
+Change Net Name : Old Net Name=NetQ1_3 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetC6_2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=D1-2
+Added Pin To Net: NetName=NetC7_1 Pin=U1-16
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R6-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-11
+Added Net: Name=NetJ1_1
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component C6 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component C7 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component D1 GB02SLT12-220
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_2 Member=Component J1 Plug_2_90_2.54

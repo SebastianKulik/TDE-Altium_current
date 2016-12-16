@@ -1,0 +1,7 @@
+Added Component: Designator=U3(DIP-14)
+Added Pin To Net: NetName=NetP1_8 Pin=U3-3
+Added Pin To Net: NetName=NetU2_1 Pin=U2-1
+Added Pin To Net: NetName=NetU2_1 Pin=U3-1
+Added Pin To Net: NetName=NetU2_1 Pin=U3-2
+Added Net: Name=NetU2_1
+Added Member To Class: ClassName=Manchester-Comparator_Module Member=Component U3 SN7400N

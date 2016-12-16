@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=C14 Old DesignItemId=10uF25V_1210 New DesignItemId=470uF25V_POL_FT
+Change Component DesignItemId : Designator=C41 Old DesignItemId=470uF25V_POL_FT New DesignItemId=100uF_6V3_V293D-B
+Change Component Footprint: Designator=C14 Old Footprint=C1210 New Footprint=Panasonic-FT-F_Case
+Change Component Footprint: Designator=C41 Old Footprint=Panasonic-FT-F_Case New Footprint=Vishay293D-B
+Change Component Comment : Designator=C14 Old Comment=10uF25V_1210 New Comment=470uF25V_POL_FT
+Change Component Comment : Designator=C41 Old Comment=470uF25V_POL_FT New Comment=100uF_6V3_V293D-B

@@ -1,0 +1,4 @@
+Added Component: Designator=L1(WE-LHMI1335)
+Added Pin To Net: NetName=NetC6_2 Pin=L1-1
+Added Pin To Net: NetName=NetCout1_1 Pin=L1-2
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_2 Member=Component L1 4u7H7.5A

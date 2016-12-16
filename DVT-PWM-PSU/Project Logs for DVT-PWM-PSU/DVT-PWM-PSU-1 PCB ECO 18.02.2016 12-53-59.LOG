@@ -1,0 +1,51 @@
+Added Component: Designator=C8(Dummy-10mm)
+Added Component: Designator=C9(Dummy-10mm)
+Added Component: Designator=C10(Dummy-10mm)
+Added Component: Designator=C11(Dummy-10mm)
+Added Component: Designator=L1(WE-HCF)
+Added Component: Designator=R12(Dummy-10mm)
+Added Component: Designator=Rocs(Dummy-10mm)
+Added Component: Designator=Rsense(Dummy-15mm)
+Added Component: Designator=Vout(Phoenix-2-5_08)
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetC6_2 Pin=L1-1
+Added Pin To Net: NetName=A-GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=Rsense-1
+Added Pin To Net: NetName=A-GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=Vout-2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=Rocs-2
+Added Pin To Net: NetName=NetC8_1 Pin=U1-18
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=Rocs-1
+Added Pin To Net: NetName=NetC8_2 Pin=Rsense-2
+Added Pin To Net: NetName=NetC8_2 Pin=U3-1
+Added Pin To Net: NetName=NetC8_2 Pin=U3-1
+Added Pin To Net: NetName=NetC8_2 Pin=U3-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U1-8
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetU1_19 Pin=U1-19
+Added Pin To Net: NetName=NetU1_19 Pin=U3-5
+Added Net: Name=NetU1_19
+Added Pin To Net: NetName=VOUT Pin=C9-1
+Added Pin To Net: NetName=VOUT Pin=C10-1
+Added Pin To Net: NetName=VOUT Pin=C11-1
+Added Pin To Net: NetName=VOUT Pin=L1-2
+Added Pin To Net: NetName=VOUT Pin=Vout-1
+Added Net: Name=VOUT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component C8 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component C9 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component C10 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component C11 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component L1 10uH16A
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component R12 Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component Rocs Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-1 Member=Component Rsense Resistor-Dummy-THT
+Added Member To Class: ClassName=DVT-PWM-PSU-2 Member=Component Vout PHOENIX_1715721

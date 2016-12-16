@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=T_AXR1(9) Pin=GPIOs-1
+Removed Pin From Net: NetName=GND Pin=GPIOs-2
+Removed Pin From Net: NetName=NetInputs_2 Pin=Inputs-2
+Added Pin To Net: NetName=GND Pin=ADR-3
+Added Pin To Net: NetName=GND Pin=ADR-4
+Added Pin To Net: NetName=GND Pin=ADR-5
+Added Pin To Net: NetName=A2 Pin=ADR-6
+Added Pin To Net: NetName=A1 Pin=ADR-7
+Added Pin To Net: NetName=A0 Pin=ADR-8
+Added Pin To Net: NetName=T_AXR1(6) Pin=GPIOs-1
+Added Pin To Net: NetName=T_AXR1(7) Pin=GPIOs-2
+Added Pin To Net: NetName=T_AXR1(8) Pin=GPIOs-3
+Added Pin To Net: NetName=T_AXR1(9) Pin=GPIOs-4
+Added Pin To Net: NetName=GND Pin=GPIOs-5
+Added Pin To Net: NetName=GND Pin=GPIOs-6
+Added Pin To Net: NetName=GND Pin=GPIOs-7
+Added Pin To Net: NetName=GND Pin=GPIOs-8
+Added Pin To Net: NetName=GND Pin=Inputs-2
+Added Pin To Net: NetName=GND Pin=Inputs-3
+Added Pin To Net: NetName=GND Pin=Inputs-4
+Added Pin To Net: NetName=NetInputs_2 Pin=Inputs-5
+Added Pin To Net: NetName=IN3 Pin=Inputs-6
+Added Pin To Net: NetName=IN2 Pin=Inputs-7
+Added Pin To Net: NetName=IN1 Pin=Inputs-8
+Change Net Name : Old Net Name=NetInputs_2 New Net Name=NetInputs_5

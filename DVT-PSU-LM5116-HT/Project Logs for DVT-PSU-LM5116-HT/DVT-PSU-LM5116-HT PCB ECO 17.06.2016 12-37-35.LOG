@@ -1,0 +1,28 @@
+Added Component: Designator=R1(R2010)
+Added Component: Designator=R2(R2010)
+Added Component: Designator=R3(R2010)
+Added Component: Designator=R4(R2010)
+Added Component: Designator=U1(DIP-20-Ceramic-HT)
+Added Component: Designator=VIN(Phoenix-2-5_08)
+Added Component: Designator=VOUT(Phoenix-2-5_08)
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=VIN-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-4
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-1
+Added Pin To Net: NetName=NetR2_2 Pin=U1-2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-3
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=VIN Pin=R1-1
+Added Pin To Net: NetName=VIN Pin=R3-2
+Added Pin To Net: NetName=VIN Pin=U1-1
+Added Pin To Net: NetName=VIN Pin=VIN-1
+Added Net: Name=VIN
+Added Class: Name=DVT-PSU-LM5116-HT_1
+Added Room: Name=DVT-PSU-LM5116-HT_1

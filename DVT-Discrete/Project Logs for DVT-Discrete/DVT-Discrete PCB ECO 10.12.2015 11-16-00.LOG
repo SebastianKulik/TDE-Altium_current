@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=C1
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=C2
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=C3
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=C4
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=C5
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=MCU-VCC
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=PVCC
+Removed Member From Class: ClassName=DVT-Discrete-1 Member=VCC
+Added Class: Name=DVT-Discrete-2
+Added Room: Name=DVT-Discrete-2

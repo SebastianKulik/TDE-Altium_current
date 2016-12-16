@@ -1,0 +1,8 @@
+Replace Part H1 SK 104 25,4 STS in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PowerAMP-Stage\DVT-PowerAMP-Stage.SchDoc with SK 104 25,4 STS from Discrete.IntLib
+Replace Part H2 SK 104 25,4 STS in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PowerAMP-Stage\DVT-PowerAMP-Stage.SchDoc with SK 104 25,4 STS from Discrete.IntLib
+Replace Part H3 SK 104 25,4 STS in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PowerAMP-Stage\DVT-PowerAMP-Stage.SchDoc with SK 104 25,4 STS from Discrete.IntLib
+Replace Part H4 SK 104 25,4 STS in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PowerAMP-Stage\DVT-PowerAMP-Stage.SchDoc with SK 104 25,4 STS from Discrete.IntLib
+Replace Part Q1 CHT-NMOS4010-TO254-T in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PowerAMP-Stage\DVT-PowerAMP-Stage.SchDoc with CHT-NMOS4010-TO254-T from Discrete.IntLib
+Replace Part Q2 CHT-PMOS3008-TO254-T in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PowerAMP-Stage\DVT-PowerAMP-Stage.SchDoc with CHT-PMOS3008-TO254-T from Discrete.IntLib
+Replace Part Q3 CHT-NMOS4010-TO254-T in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PowerAMP-Stage\DVT-PowerAMP-Stage.SchDoc with CHT-NMOS4010-TO254-T from Discrete.IntLib
+Replace Part Q4 CHT-PMOS3008-TO254-T in C:\Users\kulik_s\Documents\ExodusAmps\TDE-Altium\DVT-PowerAMP-Stage\DVT-PowerAMP-Stage.SchDoc with CHT-PMOS3008-TO254-T from Discrete.IntLib

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DVT-Volga-V2.PrjPcb]
+   Generated File[DVT-Volga-V2.TXT]
+   Generated File[DVT-Volga-V2.LDP]
+   Generated File[DVT-Volga-V2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:55:57 On 17.11.2016

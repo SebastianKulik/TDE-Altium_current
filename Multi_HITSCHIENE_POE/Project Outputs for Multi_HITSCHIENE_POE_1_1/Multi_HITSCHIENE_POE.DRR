@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Multi_HITSCHIENE_POE.PcbDoc   05.03.2014  08:27:58
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Multi_HITSCHIENE_POE.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.7112mm (28mil)         Round          58               194.42 mm (7.65 Inch)
+T2        0.762mm (30mil)          Round          10               50.80 mm (2.00 Inch)
+T3        0.9mm (35.433mil)        Round          4                46.66 mm (1.84 Inch)
+---------------------------------------------------------------------------
+Totals                                            72               291.88 mm (11.49 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

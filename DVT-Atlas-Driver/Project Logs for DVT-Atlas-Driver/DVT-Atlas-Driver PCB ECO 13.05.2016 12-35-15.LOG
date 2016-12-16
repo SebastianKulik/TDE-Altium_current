@@ -1,0 +1,38 @@
+Added Component: Designator=5VCC(Phoenix-2-5_08)
+Added Component: Designator=C1(Dummy-10mm)
+Added Component: Designator=C2(Dummy-10mm)
+Added Component: Designator=C3(Dummy-10mm)
+Added Component: Designator=C4(Dummy-10mm)
+Added Component: Designator=C5(Dummy-10mm)
+Added Component: Designator=C6(Dummy-10mm)
+Added Component: Designator=GND(Phoenix-2-5_08)
+Added Component: Designator=PVCC(Phoenix-2-5_08)
+Added Component: Designator=U1(SOIC28)
+Added Pin To Net: NetName=5VCC Pin=5VCC-1
+Added Pin To Net: NetName=5VCC Pin=C4-1
+Added Pin To Net: NetName=5VCC Pin=C5-1
+Added Pin To Net: NetName=5VCC Pin=C6-1
+Added Pin To Net: NetName=5VCC Pin=U1-6
+Added Pin To Net: NetName=5VCC Pin=U1-9
+Added Net: Name=5VCC
+Added Pin To Net: NetName=A-GND Pin=C1-2
+Added Pin To Net: NetName=A-GND Pin=C2-2
+Added Pin To Net: NetName=A-GND Pin=C3-2
+Added Pin To Net: NetName=A-GND Pin=GND-1
+Added Pin To Net: NetName=A-GND Pin=PVCC-2
+Added Pin To Net: NetName=A-GND Pin=U1-20
+Added Pin To Net: NetName=A-GND Pin=U1-21
+Added Net: Name=A-GND
+Added Pin To Net: NetName=D-GND Pin=5VCC-2
+Added Pin To Net: NetName=D-GND Pin=C4-2
+Added Pin To Net: NetName=D-GND Pin=C5-2
+Added Pin To Net: NetName=D-GND Pin=C6-2
+Added Pin To Net: NetName=D-GND Pin=GND-2
+Added Net: Name=D-GND
+Added Pin To Net: NetName=PVCC Pin=C1-1
+Added Pin To Net: NetName=PVCC Pin=C2-1
+Added Pin To Net: NetName=PVCC Pin=C3-1
+Added Pin To Net: NetName=PVCC Pin=PVCC-1
+Added Net: Name=PVCC
+Added Class: Name=DVT-Atlas-Driver
+Added Room: Name=DVT-Atlas-Driver

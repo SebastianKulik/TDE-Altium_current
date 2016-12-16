@@ -1,0 +1,6 @@
+Added Component: Designator=P1(HDR1X8_2.54)
+Added Component: Designator=P2(HDR1X8_2.54)
+Added Component: Designator=U1(TDFP16)
+Added Class: Name=Volga-PCB
+Change Room Name: Old Name=DVT-PSU-LM5116-HT_2 New Name=Volga-PCB
+Change Room Scope: Old Scope=InComponentClass('DVT-PSU-LM5116-HT_2') New Scope=InComponentClass('Volga-PCB')

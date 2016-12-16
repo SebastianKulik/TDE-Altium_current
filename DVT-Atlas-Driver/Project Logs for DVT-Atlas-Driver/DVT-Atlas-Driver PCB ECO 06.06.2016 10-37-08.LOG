@@ -1,0 +1,16 @@
+Added Component: Designator=C14(Dummy-10mm)
+Added Component: Designator=C15(Dummy-10mm)
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=U1-28
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=U1-27
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=U1-15
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=U1-16
+Added Net: Name=NetC15_2
+Added Member To Class: ClassName=DVT-Atlas-Driver1 Member=Component C14 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-Atlas-Driver1 Member=Component C15 Capacitor-Dummy-THT

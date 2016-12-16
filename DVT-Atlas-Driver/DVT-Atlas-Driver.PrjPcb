@@ -1,0 +1,2165 @@
+[Design]
+Version=1.0
+HierarchyMode=0
+ChannelRoomNamingStyle=0
+ReleasesFolder=
+ReleaseVaultGUID=
+ReleaseVaultName=
+ChannelDesignatorFormatString=$Component_$RoomName
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=0
+TemplateLocationPath=
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=1
+AllowPortNetNames=0
+AllowSheetEntryNetNames=1
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Default Configuration
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=0
+PowerPortNamesTakePriority=0
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+OutputPath=
+LogFolderPath=
+ManagedProjectGUID=
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Document1]
+DocumentPath=DVT-Atlas-Driver1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YXPPIHVX
+
+[Document2]
+DocumentPath=DVT-Atlas-Driver2.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CNQBRTGO
+
+[Document3]
+DocumentPath=DVT-Atlas-Driver.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IAPXVPGC
+
+[Document4]
+DocumentPath=DVT-Atlas-Driver.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=DVT-AtlasDriver-Docu.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document6]
+DocumentPath=GerberX.cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document7]
+DocumentPath=NCDrill.cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=D4343D4B-A425-4BCD-B25D-8B0AFEFB6523
+Description=HT-Variant of DVT-Atlas-Driver
+AllowFabrication=1
+ParameterCount=0
+VariationCount=17
+Variation1=Designator=C1|UniqueId=\TLFOVIIG|Kind=2|AlternatePart=100nF_50V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=100nF_50V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Comment|VariantValue=100nF_50V_THT_HT
+ParamDesignator1=C1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=C1
+ParamVariation3=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator3=C1
+ParamVariation4=ParameterName=Deliverer PartNr|VariantValue=2452193
+ParamDesignator4=C1
+ParamVariation5=ParameterName=Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator5=C1
+ParamVariation6=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator6=C1
+ParamVariation7=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator7=C1
+ParamVariation8=ParameterName=Library Reference|VariantValue=100nF_50V_THT_HT
+ParamDesignator8=C1
+ParamVariation9=ParameterName=Manufacturer|VariantValue=Kemet
+ParamDesignator9=C1
+ParamVariation10=ParameterName=Manufacturer PartNr|VariantValue=C052H104K5G5GA
+ParamDesignator10=C1
+ParamVariation11=ParameterName=PackageDescription|VariantValue=KEMET, C052H/C062 Series, THT
+ParamDesignator11=C1
+ParamVariation12=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator12=C1
+ParamVariation13=ParameterName=PCB3D|VariantValue= 
+ParamDesignator13=C1
+ParamVariation14=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator14=C1
+ParamVariation15=ParameterName=Published|VariantValue=18.07.2016
+ParamDesignator15=C1
+ParamVariation16=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator16=C1
+ParamVariation17=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator17=C1
+ParamVariation18=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator18=C1
+ParamVariation19=ParameterName=TDE-PN|VariantValue=C0073
+ParamDesignator19=C1
+ParamVariation20=ParameterName=Value|VariantValue=100nF50V
+ParamDesignator20=C1
+Variation2=Designator=C2|UniqueId=\ONBAKOTK|Kind=2|AlternatePart=100nF_50V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=100nF_50V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=True
+ParamVariation21=ParameterName=Comment|VariantValue=100nF_50V_THT_HT
+ParamDesignator21=C2
+ParamVariation22=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator22=C2
+ParamVariation23=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator23=C2
+ParamVariation24=ParameterName=Deliverer PartNr|VariantValue=2452193
+ParamDesignator24=C2
+ParamVariation25=ParameterName=Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator25=C2
+ParamVariation26=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator26=C2
+ParamVariation27=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator27=C2
+ParamVariation28=ParameterName=Library Reference|VariantValue=100nF_50V_THT_HT
+ParamDesignator28=C2
+ParamVariation29=ParameterName=Manufacturer|VariantValue=Kemet
+ParamDesignator29=C2
+ParamVariation30=ParameterName=Manufacturer PartNr|VariantValue=C052H104K5G5GA
+ParamDesignator30=C2
+ParamVariation31=ParameterName=PackageDescription|VariantValue=KEMET, C052H/C062 Series, THT
+ParamDesignator31=C2
+ParamVariation32=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator32=C2
+ParamVariation33=ParameterName=PCB3D|VariantValue= 
+ParamDesignator33=C2
+ParamVariation34=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator34=C2
+ParamVariation35=ParameterName=Published|VariantValue=18.07.2016
+ParamDesignator35=C2
+ParamVariation36=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator36=C2
+ParamVariation37=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator37=C2
+ParamVariation38=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator38=C2
+ParamVariation39=ParameterName=TDE-PN|VariantValue=C0073
+ParamDesignator39=C2
+ParamVariation40=ParameterName=Value|VariantValue=100nF50V
+ParamDesignator40=C2
+Variation3=Designator=C3|UniqueId=\BIYIARJU|Kind=2|AlternatePart=100nF_50V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=100nF_50V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=True
+ParamVariation41=ParameterName=Comment|VariantValue=100nF_50V_THT_HT
+ParamDesignator41=C3
+ParamVariation42=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator42=C3
+ParamVariation43=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator43=C3
+ParamVariation44=ParameterName=Deliverer PartNr|VariantValue=2452193
+ParamDesignator44=C3
+ParamVariation45=ParameterName=Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator45=C3
+ParamVariation46=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator46=C3
+ParamVariation47=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator47=C3
+ParamVariation48=ParameterName=Library Reference|VariantValue=100nF_50V_THT_HT
+ParamDesignator48=C3
+ParamVariation49=ParameterName=Manufacturer|VariantValue=Kemet
+ParamDesignator49=C3
+ParamVariation50=ParameterName=Manufacturer PartNr|VariantValue=C052H104K5G5GA
+ParamDesignator50=C3
+ParamVariation51=ParameterName=PackageDescription|VariantValue=KEMET, C052H/C062 Series, THT
+ParamDesignator51=C3
+ParamVariation52=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator52=C3
+ParamVariation53=ParameterName=PCB3D|VariantValue= 
+ParamDesignator53=C3
+ParamVariation54=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator54=C3
+ParamVariation55=ParameterName=Published|VariantValue=18.07.2016
+ParamDesignator55=C3
+ParamVariation56=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator56=C3
+ParamVariation57=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator57=C3
+ParamVariation58=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator58=C3
+ParamVariation59=ParameterName=TDE-PN|VariantValue=C0073
+ParamDesignator59=C3
+ParamVariation60=ParameterName=Value|VariantValue=100nF50V
+ParamDesignator60=C3
+Variation4=Designator=C4|UniqueId=\UTPJEHVC|Kind=2|AlternatePart=100nF_50V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=100nF_50V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=True
+ParamVariation61=ParameterName=Comment|VariantValue=100nF_50V_THT_HT
+ParamDesignator61=C4
+ParamVariation62=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator62=C4
+ParamVariation63=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator63=C4
+ParamVariation64=ParameterName=Deliverer PartNr|VariantValue=2452193
+ParamDesignator64=C4
+ParamVariation65=ParameterName=Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator65=C4
+ParamVariation66=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator66=C4
+ParamVariation67=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator67=C4
+ParamVariation68=ParameterName=Library Reference|VariantValue=100nF_50V_THT_HT
+ParamDesignator68=C4
+ParamVariation69=ParameterName=Manufacturer|VariantValue=Kemet
+ParamDesignator69=C4
+ParamVariation70=ParameterName=Manufacturer PartNr|VariantValue=C052H104K5G5GA
+ParamDesignator70=C4
+ParamVariation71=ParameterName=PackageDescription|VariantValue=KEMET, C052H/C062 Series, THT
+ParamDesignator71=C4
+ParamVariation72=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator72=C4
+ParamVariation73=ParameterName=PCB3D|VariantValue= 
+ParamDesignator73=C4
+ParamVariation74=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator74=C4
+ParamVariation75=ParameterName=Published|VariantValue=18.07.2016
+ParamDesignator75=C4
+ParamVariation76=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator76=C4
+ParamVariation77=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator77=C4
+ParamVariation78=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator78=C4
+ParamVariation79=ParameterName=TDE-PN|VariantValue=C0073
+ParamDesignator79=C4
+ParamVariation80=ParameterName=Value|VariantValue=100nF50V
+ParamDesignator80=C4
+Variation5=Designator=C5|UniqueId=\GAWCVGUS|Kind=2|AlternatePart=100nF_50V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=100nF_50V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=True
+ParamVariation81=ParameterName=Comment|VariantValue=100nF_50V_THT_HT
+ParamDesignator81=C5
+ParamVariation82=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator82=C5
+ParamVariation83=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator83=C5
+ParamVariation84=ParameterName=Deliverer PartNr|VariantValue=2452193
+ParamDesignator84=C5
+ParamVariation85=ParameterName=Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator85=C5
+ParamVariation86=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator86=C5
+ParamVariation87=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator87=C5
+ParamVariation88=ParameterName=Library Reference|VariantValue=100nF_50V_THT_HT
+ParamDesignator88=C5
+ParamVariation89=ParameterName=Manufacturer|VariantValue=Kemet
+ParamDesignator89=C5
+ParamVariation90=ParameterName=Manufacturer PartNr|VariantValue=C052H104K5G5GA
+ParamDesignator90=C5
+ParamVariation91=ParameterName=PackageDescription|VariantValue=KEMET, C052H/C062 Series, THT
+ParamDesignator91=C5
+ParamVariation92=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator92=C5
+ParamVariation93=ParameterName=PCB3D|VariantValue= 
+ParamDesignator93=C5
+ParamVariation94=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator94=C5
+ParamVariation95=ParameterName=Published|VariantValue=18.07.2016
+ParamDesignator95=C5
+ParamVariation96=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator96=C5
+ParamVariation97=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator97=C5
+ParamVariation98=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator98=C5
+ParamVariation99=ParameterName=TDE-PN|VariantValue=C0073
+ParamDesignator99=C5
+ParamVariation100=ParameterName=Value|VariantValue=100nF50V
+ParamDesignator100=C5
+Variation6=Designator=C6|UniqueId=\PXTEERBX|Kind=2|AlternatePart=100nF_50V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=100nF_50V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=True
+ParamVariation101=ParameterName=Comment|VariantValue=100nF_50V_THT_HT
+ParamDesignator101=C6
+ParamVariation102=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator102=C6
+ParamVariation103=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator103=C6
+ParamVariation104=ParameterName=Deliverer PartNr|VariantValue=2452193
+ParamDesignator104=C6
+ParamVariation105=ParameterName=Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator105=C6
+ParamVariation106=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator106=C6
+ParamVariation107=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator107=C6
+ParamVariation108=ParameterName=Library Reference|VariantValue=100nF_50V_THT_HT
+ParamDesignator108=C6
+ParamVariation109=ParameterName=Manufacturer|VariantValue=Kemet
+ParamDesignator109=C6
+ParamVariation110=ParameterName=Manufacturer PartNr|VariantValue=C052H104K5G5GA
+ParamDesignator110=C6
+ParamVariation111=ParameterName=PackageDescription|VariantValue=KEMET, C052H/C062 Series, THT
+ParamDesignator111=C6
+ParamVariation112=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator112=C6
+ParamVariation113=ParameterName=PCB3D|VariantValue= 
+ParamDesignator113=C6
+ParamVariation114=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator114=C6
+ParamVariation115=ParameterName=Published|VariantValue=18.07.2016
+ParamDesignator115=C6
+ParamVariation116=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator116=C6
+ParamVariation117=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator117=C6
+ParamVariation118=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator118=C6
+ParamVariation119=ParameterName=TDE-PN|VariantValue=C0073
+ParamDesignator119=C6
+ParamVariation120=ParameterName=Value|VariantValue=100nF50V
+ParamDesignator120=C6
+Variation7=Designator=C7|UniqueId=\TJJSPHVV|Kind=2|AlternatePart=100nF_50V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=100nF_50V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=True
+ParamVariation121=ParameterName=Comment|VariantValue=100nF_50V_THT_HT
+ParamDesignator121=C7
+ParamVariation122=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator122=C7
+ParamVariation123=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator123=C7
+ParamVariation124=ParameterName=Deliverer PartNr|VariantValue=2452193
+ParamDesignator124=C7
+ParamVariation125=ParameterName=Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator125=C7
+ParamVariation126=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator126=C7
+ParamVariation127=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator127=C7
+ParamVariation128=ParameterName=Library Reference|VariantValue=100nF_50V_THT_HT
+ParamDesignator128=C7
+ParamVariation129=ParameterName=Manufacturer|VariantValue=Kemet
+ParamDesignator129=C7
+ParamVariation130=ParameterName=Manufacturer PartNr|VariantValue=C052H104K5G5GA
+ParamDesignator130=C7
+ParamVariation131=ParameterName=PackageDescription|VariantValue=KEMET, C052H/C062 Series, THT
+ParamDesignator131=C7
+ParamVariation132=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator132=C7
+ParamVariation133=ParameterName=PCB3D|VariantValue= 
+ParamDesignator133=C7
+ParamVariation134=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator134=C7
+ParamVariation135=ParameterName=Published|VariantValue=18.07.2016
+ParamDesignator135=C7
+ParamVariation136=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator136=C7
+ParamVariation137=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator137=C7
+ParamVariation138=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator138=C7
+ParamVariation139=ParameterName=TDE-PN|VariantValue=C0073
+ParamDesignator139=C7
+ParamVariation140=ParameterName=Value|VariantValue=100nF50V
+ParamDesignator140=C7
+Variation8=Designator=C9|UniqueId=\RMBTHMQA|Kind=2|AlternatePart=100nF_50V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=100nF_50V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=True
+ParamVariation141=ParameterName=Comment|VariantValue=100nF_50V_THT_HT
+ParamDesignator141=C9
+ParamVariation142=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator142=C9
+ParamVariation143=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator143=C9
+ParamVariation144=ParameterName=Deliverer PartNr|VariantValue=2452193
+ParamDesignator144=C9
+ParamVariation145=ParameterName=Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator145=C9
+ParamVariation146=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator146=C9
+ParamVariation147=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator147=C9
+ParamVariation148=ParameterName=Library Reference|VariantValue=100nF_50V_THT_HT
+ParamDesignator148=C9
+ParamVariation149=ParameterName=Manufacturer|VariantValue=Kemet
+ParamDesignator149=C9
+ParamVariation150=ParameterName=Manufacturer PartNr|VariantValue=C052H104K5G5GA
+ParamDesignator150=C9
+ParamVariation151=ParameterName=PackageDescription|VariantValue=KEMET, C052H/C062 Series, THT
+ParamDesignator151=C9
+ParamVariation152=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator152=C9
+ParamVariation153=ParameterName=PCB3D|VariantValue= 
+ParamDesignator153=C9
+ParamVariation154=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator154=C9
+ParamVariation155=ParameterName=Published|VariantValue=18.07.2016
+ParamDesignator155=C9
+ParamVariation156=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator156=C9
+ParamVariation157=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator157=C9
+ParamVariation158=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator158=C9
+ParamVariation159=ParameterName=TDE-PN|VariantValue=C0073
+ParamDesignator159=C9
+ParamVariation160=ParameterName=Value|VariantValue=100nF50V
+ParamDesignator160=C9
+Variation9=Designator=C8|UniqueId=\FIPLGGIV|Kind=2|AlternatePart=100nF_50V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=100nF_50V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=False
+ParamVariation161=ParameterName=Comment|VariantValue=100nF_50V_THT_HT
+ParamDesignator161=C8
+ParamVariation162=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator162=C8
+ParamVariation163=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator163=C8
+ParamVariation164=ParameterName=Deliverer PartNr|VariantValue=2452193
+ParamDesignator164=C8
+ParamVariation165=ParameterName=Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator165=C8
+ParamVariation166=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator166=C8
+ParamVariation167=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator167=C8
+ParamVariation168=ParameterName=Library Reference|VariantValue=100nF_50V_THT_HT
+ParamDesignator168=C8
+ParamVariation169=ParameterName=Manufacturer|VariantValue=Kemet
+ParamDesignator169=C8
+ParamVariation170=ParameterName=Manufacturer PartNr|VariantValue=C052H104K5G5GA
+ParamDesignator170=C8
+ParamVariation171=ParameterName=PackageDescription|VariantValue=KEMET, C052H/C062 Series, THT
+ParamDesignator171=C8
+ParamVariation172=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator172=C8
+ParamVariation173=ParameterName=PCB3D|VariantValue= 
+ParamDesignator173=C8
+ParamVariation174=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator174=C8
+ParamVariation175=ParameterName=Published|VariantValue=18.07.2016
+ParamDesignator175=C8
+ParamVariation176=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator176=C8
+ParamVariation177=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator177=C8
+ParamVariation178=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator178=C8
+ParamVariation179=ParameterName=TDE-PN|VariantValue=C0073
+ParamDesignator179=C8
+ParamVariation180=ParameterName=Value|VariantValue=100nF50V
+ParamDesignator180=C8
+Variation10=Designator=C10|UniqueId=\HGUOSRWA|Kind=2|AlternatePart=100nF_50V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=100nF_50V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=True
+ParamVariation181=ParameterName=Comment|VariantValue=100nF_50V_THT_HT
+ParamDesignator181=C10
+ParamVariation182=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator182=C10
+ParamVariation183=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator183=C10
+ParamVariation184=ParameterName=Deliverer PartNr|VariantValue=2452193
+ParamDesignator184=C10
+ParamVariation185=ParameterName=Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator185=C10
+ParamVariation186=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator186=C10
+ParamVariation187=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator187=C10
+ParamVariation188=ParameterName=Library Reference|VariantValue=100nF_50V_THT_HT
+ParamDesignator188=C10
+ParamVariation189=ParameterName=Manufacturer|VariantValue=Kemet
+ParamDesignator189=C10
+ParamVariation190=ParameterName=Manufacturer PartNr|VariantValue=C052H104K5G5GA
+ParamDesignator190=C10
+ParamVariation191=ParameterName=PackageDescription|VariantValue=KEMET, C052H/C062 Series, THT
+ParamDesignator191=C10
+ParamVariation192=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator192=C10
+ParamVariation193=ParameterName=PCB3D|VariantValue= 
+ParamDesignator193=C10
+ParamVariation194=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator194=C10
+ParamVariation195=ParameterName=Published|VariantValue=18.07.2016
+ParamDesignator195=C10
+ParamVariation196=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator196=C10
+ParamVariation197=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator197=C10
+ParamVariation198=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator198=C10
+ParamVariation199=ParameterName=TDE-PN|VariantValue=C0073
+ParamDesignator199=C10
+ParamVariation200=ParameterName=Value|VariantValue=100nF50V
+ParamDesignator200=C10
+Variation11=Designator=C11|UniqueId=\SVOQBBHF|Kind=2|AlternatePart=100nF_50V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=100nF_50V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=True
+ParamVariation201=ParameterName=Comment|VariantValue=100nF_50V_THT_HT
+ParamDesignator201=C11
+ParamVariation202=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator202=C11
+ParamVariation203=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator203=C11
+ParamVariation204=ParameterName=Deliverer PartNr|VariantValue=2452193
+ParamDesignator204=C11
+ParamVariation205=ParameterName=Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator205=C11
+ParamVariation206=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator206=C11
+ParamVariation207=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator207=C11
+ParamVariation208=ParameterName=Library Reference|VariantValue=100nF_50V_THT_HT
+ParamDesignator208=C11
+ParamVariation209=ParameterName=Manufacturer|VariantValue=Kemet
+ParamDesignator209=C11
+ParamVariation210=ParameterName=Manufacturer PartNr|VariantValue=C052H104K5G5GA
+ParamDesignator210=C11
+ParamVariation211=ParameterName=PackageDescription|VariantValue=KEMET, C052H/C062 Series, THT
+ParamDesignator211=C11
+ParamVariation212=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator212=C11
+ParamVariation213=ParameterName=PCB3D|VariantValue= 
+ParamDesignator213=C11
+ParamVariation214=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator214=C11
+ParamVariation215=ParameterName=Published|VariantValue=18.07.2016
+ParamDesignator215=C11
+ParamVariation216=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator216=C11
+ParamVariation217=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator217=C11
+ParamVariation218=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator218=C11
+ParamVariation219=ParameterName=TDE-PN|VariantValue=C0073
+ParamDesignator219=C11
+ParamVariation220=ParameterName=Value|VariantValue=100nF50V
+ParamDesignator220=C11
+Variation12=Designator=C12|UniqueId=\YWJDAIBH|Kind=2|AlternatePart=100nF_50V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=100nF_50V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=True
+ParamVariation221=ParameterName=Comment|VariantValue=100nF_50V_THT_HT
+ParamDesignator221=C12
+ParamVariation222=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator222=C12
+ParamVariation223=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator223=C12
+ParamVariation224=ParameterName=Deliverer PartNr|VariantValue=2452193
+ParamDesignator224=C12
+ParamVariation225=ParameterName=Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator225=C12
+ParamVariation226=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator226=C12
+ParamVariation227=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator227=C12
+ParamVariation228=ParameterName=Library Reference|VariantValue=100nF_50V_THT_HT
+ParamDesignator228=C12
+ParamVariation229=ParameterName=Manufacturer|VariantValue=Kemet
+ParamDesignator229=C12
+ParamVariation230=ParameterName=Manufacturer PartNr|VariantValue=C052H104K5G5GA
+ParamDesignator230=C12
+ParamVariation231=ParameterName=PackageDescription|VariantValue=KEMET, C052H/C062 Series, THT
+ParamDesignator231=C12
+ParamVariation232=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator232=C12
+ParamVariation233=ParameterName=PCB3D|VariantValue= 
+ParamDesignator233=C12
+ParamVariation234=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator234=C12
+ParamVariation235=ParameterName=Published|VariantValue=18.07.2016
+ParamDesignator235=C12
+ParamVariation236=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator236=C12
+ParamVariation237=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator237=C12
+ParamVariation238=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator238=C12
+ParamVariation239=ParameterName=TDE-PN|VariantValue=C0073
+ParamDesignator239=C12
+ParamVariation240=ParameterName=Value|VariantValue=100nF50V
+ParamDesignator240=C12
+Variation13=Designator=C13|UniqueId=\BRXMKVRA|Kind=2|AlternatePart=100nF_50V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=100nF_50V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=True
+ParamVariation241=ParameterName=Comment|VariantValue=100nF_50V_THT_HT
+ParamDesignator241=C13
+ParamVariation242=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator242=C13
+ParamVariation243=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator243=C13
+ParamVariation244=ParameterName=Deliverer PartNr|VariantValue=2452193
+ParamDesignator244=C13
+ParamVariation245=ParameterName=Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator245=C13
+ParamVariation246=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator246=C13
+ParamVariation247=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator247=C13
+ParamVariation248=ParameterName=Library Reference|VariantValue=100nF_50V_THT_HT
+ParamDesignator248=C13
+ParamVariation249=ParameterName=Manufacturer|VariantValue=Kemet
+ParamDesignator249=C13
+ParamVariation250=ParameterName=Manufacturer PartNr|VariantValue=C052H104K5G5GA
+ParamDesignator250=C13
+ParamVariation251=ParameterName=PackageDescription|VariantValue=KEMET, C052H/C062 Series, THT
+ParamDesignator251=C13
+ParamVariation252=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator252=C13
+ParamVariation253=ParameterName=PCB3D|VariantValue= 
+ParamDesignator253=C13
+ParamVariation254=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator254=C13
+ParamVariation255=ParameterName=Published|VariantValue=18.07.2016
+ParamDesignator255=C13
+ParamVariation256=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator256=C13
+ParamVariation257=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator257=C13
+ParamVariation258=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator258=C13
+ParamVariation259=ParameterName=TDE-PN|VariantValue=C0073
+ParamDesignator259=C13
+ParamVariation260=ParameterName=Value|VariantValue=100nF50V
+ParamDesignator260=C13
+Variation14=Designator=C14|UniqueId=\YJPTDIJC|Kind=2|AlternatePart=47nF_50V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=47nF_50V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=True
+ParamVariation261=ParameterName=Comment|VariantValue=47nF_50V_THT_HT
+ParamDesignator261=C14
+ParamVariation262=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator262=C14
+ParamVariation263=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator263=C14
+ParamVariation264=ParameterName=Deliverer PartNr|VariantValue=2544869
+ParamDesignator264=C14
+ParamVariation265=ParameterName=Description|VariantValue=High Temp AEC-Q200 KH Series, ± 10%, X0U, 50 V
+ParamDesignator265=C14
+ParamVariation266=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator266=C14
+ParamVariation267=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator267=C14
+ParamVariation268=ParameterName=Library Reference|VariantValue=47nF_50V_THT_HT
+ParamDesignator268=C14
+ParamVariation269=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator269=C14
+ParamVariation270=ParameterName=Manufacturer PartNr|VariantValue=K473K15X0UF53H5H
+ParamDesignator270=C14
+ParamVariation271=ParameterName=PackageDescription|VariantValue=High Temp AEC-Q200 KH Series, ± 10%, X0U, 50 V
+ParamDesignator271=C14
+ParamVariation272=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator272=C14
+ParamVariation273=ParameterName=PCB3D|VariantValue= 
+ParamDesignator273=C14
+ParamVariation274=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator274=C14
+ParamVariation275=ParameterName=Published|VariantValue=0.38/10
+ParamDesignator275=C14
+ParamVariation276=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator276=C14
+ParamVariation277=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator277=C14
+ParamVariation278=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator278=C14
+ParamVariation279=ParameterName=TDE-PN|VariantValue=C0074
+ParamDesignator279=C14
+ParamVariation280=ParameterName=Value|VariantValue=47nF50V
+ParamDesignator280=C14
+Variation15=Designator=C15|UniqueId=\YSWGYBVV|Kind=2|AlternatePart=47nF_50V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=47nF_50V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=True
+ParamVariation281=ParameterName=Comment|VariantValue=47nF_50V_THT_HT
+ParamDesignator281=C15
+ParamVariation282=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator282=C15
+ParamVariation283=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator283=C15
+ParamVariation284=ParameterName=Deliverer PartNr|VariantValue=2544869
+ParamDesignator284=C15
+ParamVariation285=ParameterName=Description|VariantValue=High Temp AEC-Q200 KH Series, ± 10%, X0U, 50 V
+ParamDesignator285=C15
+ParamVariation286=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator286=C15
+ParamVariation287=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator287=C15
+ParamVariation288=ParameterName=Library Reference|VariantValue=47nF_50V_THT_HT
+ParamDesignator288=C15
+ParamVariation289=ParameterName=Manufacturer|VariantValue=Vishay
+ParamDesignator289=C15
+ParamVariation290=ParameterName=Manufacturer PartNr|VariantValue=K473K15X0UF53H5H
+ParamDesignator290=C15
+ParamVariation291=ParameterName=PackageDescription|VariantValue=High Temp AEC-Q200 KH Series, ± 10%, X0U, 50 V
+ParamDesignator291=C15
+ParamVariation292=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator292=C15
+ParamVariation293=ParameterName=PCB3D|VariantValue= 
+ParamDesignator293=C15
+ParamVariation294=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator294=C15
+ParamVariation295=ParameterName=Published|VariantValue=0.38/10
+ParamDesignator295=C15
+ParamVariation296=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator296=C15
+ParamVariation297=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator297=C15
+ParamVariation298=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator298=C15
+ParamVariation299=ParameterName=TDE-PN|VariantValue=C0074
+ParamDesignator299=C15
+ParamVariation300=ParameterName=Value|VariantValue=47nF50V
+ParamDesignator300=C15
+Variation16=Designator=C16|UniqueId=\QUASKWLG|Kind=2|AlternatePart=470pF_200V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=470pF_200V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=True
+ParamVariation301=ParameterName=Comment|VariantValue=470pF_200V_THT_HT
+ParamDesignator301=C16
+ParamVariation302=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator302=C16
+ParamVariation303=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator303=C16
+ParamVariation304=ParameterName=Deliverer PartNr|VariantValue=2452199
+ParamDesignator304=C16
+ParamVariation305=ParameterName=Description|VariantValue=High Temp C052/062H series, NP0, 10%, 200V
+ParamDesignator305=C16
+ParamVariation306=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator306=C16
+ParamVariation307=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator307=C16
+ParamVariation308=ParameterName=Library Reference|VariantValue=470pF_200V_THT_HT
+ParamDesignator308=C16
+ParamVariation309=ParameterName=Manufacturer|VariantValue=Kemet
+ParamDesignator309=C16
+ParamVariation310=ParameterName=Manufacturer PartNr|VariantValue=C052H471J2G5GA
+ParamDesignator310=C16
+ParamVariation311=ParameterName=PackageDescription|VariantValue=High Temp C052/062H series, NP0, 10%, 200V
+ParamDesignator311=C16
+ParamVariation312=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator312=C16
+ParamVariation313=ParameterName=PCB3D|VariantValue= 
+ParamDesignator313=C16
+ParamVariation314=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator314=C16
+ParamVariation315=ParameterName=Published|VariantValue=6.79/1
+ParamDesignator315=C16
+ParamVariation316=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator316=C16
+ParamVariation317=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator317=C16
+ParamVariation318=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator318=C16
+ParamVariation319=ParameterName=TDE-PN|VariantValue=C0075
+ParamDesignator319=C16
+ParamVariation320=ParameterName=Value|VariantValue=470pF200V
+ParamDesignator320=C16
+Variation17=Designator=C17|UniqueId=\HKMUTLGS|Kind=2|AlternatePart=470pF_200V_THT_HT|AltLibLink_LibIdentifierKind=Library Name And Type|AltLibLink_LibraryIdentifier=Capacitors.IntLib|AltLibLink_SymbolReference=Capacitor-Dummy-THT|AltLibLink_DesignItemID=470pF_200V_THT_HT|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Capacitors.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=KEMET-C052H|AltLibLink_IsSameFootprint=True
+ParamVariation321=ParameterName=Comment|VariantValue=470pF_200V_THT_HT
+ParamDesignator321=C17
+ParamVariation322=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator322=C17
+ParamVariation323=ParameterName=Deliverer|VariantValue=Farnell
+ParamDesignator323=C17
+ParamVariation324=ParameterName=Deliverer PartNr|VariantValue=2452199
+ParamDesignator324=C17
+ParamVariation325=ParameterName=Description|VariantValue=High Temp C052/062H series, NP0, 10%, 200V
+ParamDesignator325=C17
+ParamVariation326=ParameterName=Footprint|VariantValue=KEMET-C052H
+ParamDesignator326=C17
+ParamVariation327=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator327=C17
+ParamVariation328=ParameterName=Library Reference|VariantValue=470pF_200V_THT_HT
+ParamDesignator328=C17
+ParamVariation329=ParameterName=Manufacturer|VariantValue=Kemet
+ParamDesignator329=C17
+ParamVariation330=ParameterName=Manufacturer PartNr|VariantValue=C052H471J2G5GA
+ParamDesignator330=C17
+ParamVariation331=ParameterName=PackageDescription|VariantValue=High Temp C052/062H series, NP0, 10%, 200V
+ParamDesignator331=C17
+ParamVariation332=ParameterName=Part Description|VariantValue=High Temp C series, NP0, 10%, 50V
+ParamDesignator332=C17
+ParamVariation333=ParameterName=PCB3D|VariantValue= 
+ParamDesignator333=C17
+ParamVariation334=ParameterName=Price|VariantValue=10.64/1
+ParamDesignator334=C17
+ParamVariation335=ParameterName=Published|VariantValue=6.79/1
+ParamDesignator335=C17
+ParamVariation336=ParameterName=Publisher|VariantValue=Sebastian Kulik
+ParamDesignator336=C17
+ParamVariation337=ParameterName=Signal Integrity|VariantValue=Cap
+ParamDesignator337=C17
+ParamVariation338=ParameterName=Simulation|VariantValue=CAP
+ParamDesignator338=C17
+ParamVariation339=ParameterName=TDE-PN|VariantValue=C0075
+ParamDesignator339=C17
+ParamVariation340=ParameterName=Value|VariantValue=470pF200V
+ParamDesignator340=C17
+ParamVariationCount=340
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DVT-Atlas-Driver\DVT-Atlas-Driver.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for DVT-Atlas-Driver\DVT-Atlas-Driver.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for DVT-Atlas-Driver\DVT-Atlas-Driver.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for DVT-Atlas-Driver\DVT-Atlas-Driver.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for DVT-Atlas-Driver\DVT-Atlas-Driver.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for DVT-Atlas-Driver\DVT-Atlas-Driver.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for DVT-Atlas-Driver\DVT-Atlas-Driver.GM31
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for DVT-Atlas-Driver\DVT-Atlas-Driver.GM32
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for DVT-Atlas-Driver\DVT-Atlas-Driver.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for DVT-Atlas-Driver\DVT-Atlas-Driver.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for DVT-Atlas-Driver\DVT-Atlas-Driver.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for DVT-Atlas-Driver\DVT-Atlas-Driver.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for DVT-Atlas-Driver\DVT-Atlas-Driver.nsx
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for DVT-Atlas-Driver\DVT-Atlas-Driver.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for DVT-Atlas-Driver\DVT-Atlas-Driver.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for DVT-Atlas-Driver\DVT-Atlas-Driver.TXT
+DItemRevisionGUID=
+
+[Configuration1]
+Name=Default Configuration
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+CurrentRevision=
+Variant=[No Variations]
+OutputJobsCount=0
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=0
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=FreePDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=EDIF
+OutputName3=EDIF for PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MultiWire
+OutputName7=MultiWire
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Pcad
+OutputName10=Pcad for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=SIMetrixNetlist
+OutputName18=SIMetrix
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=SIMPLISNetlist
+OutputName19=SIMPLIS
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=TangoNetlist
+OutputName20=Tango Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=TelesisNetlist
+OutputName21=Telesis Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=Verilog
+OutputName22=Verilog File
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=VHDL
+OutputName23=VHDL File
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+OutputType24=WireListNetlist
+OutputName24=WireList Netlist
+OutputDocumentPath24=
+OutputVariantName24=
+OutputDefault24=0
+OutputType25=XSpiceNetlist
+OutputName25=XSpice Netlist
+OutputDocumentPath25=
+OutputVariantName25=
+OutputDefault25=0
+OutputType26=WBSENetlistGeneration
+OutputName26=WEBENCH Simulation Engine
+OutputDocumentPath26=
+OutputVariantName26=
+OutputDefault26=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=FreePDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=SIMPLISSimulation
+OutputName1=SIMPLIS
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=WBSENetlist
+OutputName2=WEBENCH Simulation Engine
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=AdvSimNetlist
+OutputName3=Mixed Sim
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+Configuration3_Name1=OutputConfigurationParameter1
+Configuration3_Item1=Record=AdvSimNetlistView|SheetsToNetlist=1|NetlistType=1|AnalysesDataSavedIndex=2|SimView_KeepLastSetup=True|SimViewSetup=KeepLastSetup|DC_Analysis=False|DC_PrimarySource= |DC_PrimaryStart=0|DC_PrimaryStop=0|DC_PrimaryStep=0|DC_EnableSecondary=False|DC_SecondarySource= |DC_SecondaryStart=0|DC_SecondaryStop=0|DC_SecondaryStep=0|AC_Analysis=False|AC_SweepType=LIN|AC_StartFrequency=1|AC_StopFrequency=1E6|AC_TestPoints=100|TRAN_Analysis=True|TRAN_AlwaysSetDefaults=True|TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle=50|TRAN_StartTime=0|TRAN_StopTime=5E-6|TRAN_StepTime=2E-8|TRAN_MaxStepTime=2E-8|TRAN_FourierFundFreq=1E6|TRAN_FourierNumHarmonics=10|TRAN_FourierAnalysis=False|TRAN_UseInitialConditions=False|TF_Analysis=False|TF_Source= |TF_Reference=0|PZ_Analysis=False|PZ_Node1= |PZ_Node2=0|PZ_Node3= |PZ_Node4=0|PZ_TfType=VOL|PZ_AnalType=PZ|Noise_Analysis=False|Noise_Source= |Noise_Output= |Noise_Reference=0|Noise_Start=0|Noise_Stop=0|Noise_TestPoints=0|Noise_PointsPerSummary=0|Noise_SweepType=LIN|Op_Analysis=True|ParamSweep_Analysis=False|ParamSweep_Parameter1= |ParamSweep_Start1=0|ParamSweep_Stop1=0|ParamSweep_Step1=0|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2= |ParamSweep_Start2=0|ParamSweep_Stop2=0|ParamSweep_Step2=0|ParamSweep_SweepType2=False|TempSweep_Analysis=False|TempSweep_Start=0|TempSweep_Stop=0|TempSweep_Step=0|MonteCarlo_Analysis=False|MonteCarlo_Seed=-1|MonteCarlo_DistributionType=UNIFORM|MonteCarlo_NumberOfRuns=5|MonteCarlo_ResistorTolerance=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DigitalTpTolerance=10%|OPTION_Method=Trapezoidal|OPTION_DVCC=5.000|OPTION_DVDD=15.00|OPTION_SpiceRefNode=GND
+OutputType4=SIMetrixSimulation
+OutputName4=SIMetrix
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembler Source Print
+OutputName1=Assembler Source Prints
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=C Source Print
+OutputName2=C Source Prints
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=C/C++ Header Print
+OutputName3=C/C++ Header Prints
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=C++ Source Print
+OutputName4=C++ Source Prints
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Composite
+OutputName5=Composite Drawing
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=FSM Print
+OutputName6=FSM Prints
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Logic Analyser Print
+OutputName7=Logic Analyser Prints
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=OpenBus Print
+OutputName8=OpenBus Prints
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=PCB 3D Print
+OutputName9=PCB 3D Print
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=PCB 3D Video
+OutputName10=PCB 3D Video
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=PCB Print
+OutputName11=PCB Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=PCBDrawing
+OutputName12=Draftsman
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=PCBLIB Print
+OutputName13=PCBLIB Prints
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=PDF3D
+OutputName14=PDF3D
+OutputDocumentPath14=
+OutputVariantName14=[No Variations]
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=Report Print
+OutputName15=Report Prints
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType16=Schematic Print
+OutputName16=Schematic Prints
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType17=SimView Print
+OutputName17=SimView Prints
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType18=Software Platform Print
+OutputName18=Software Platform Prints
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType19=VHDL Print
+OutputName19=VHDL Prints
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType20=Wave Print
+OutputName20=Wave Prints
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType21=WaveSim Print
+OutputName21=WaveSim Prints
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=FreePDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembly
+OutputName1=Assembly Drawings
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=FreePDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Final
+OutputName4=Final Artwork Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=ODB
+OutputName6=ODB++ Files
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=NC Drill
+OutputName8=NC Drill Files
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+Configuration8_Name1=OutputConfigurationParameter1
+Configuration8_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
+OutputType9=IPC2581
+OutputName9=IPC-2581 Files
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Plane
+OutputName10=Power-Plane Prints
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Test Points
+OutputName11=Test Point Report
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Gerber
+OutputName12=Gerber Files
+OutputDocumentPath12=
+OutputVariantName12=[No Variations]
+OutputDefault12=0
+Configuration12_Name1=OutputConfigurationParameter1
+Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908320~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16908319~1,16908320~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=FreePDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=Filter
+Configuration1_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=..\Templates\BOM Review1.xls|BatchMode=5|FormWidth=1228|FormHeight=660|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Price=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Designator=100|Value=100|Deliverer=100|Deliverer PartNr=100|Price=100|Quantity=100
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Script
+OutputName4=Script Output
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=FreePDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Text Print
+OutputName2=Text Print
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType3=Text Print
+OutputName3=Text Print
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Text Print
+OutputName4=Text Print
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Text Print
+OutputName5=Text Print
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Text Print
+OutputName6=Text Print
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType7=Text Print
+OutputName7=Text Print
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Text Print
+OutputName8=Text Print
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Text Print
+OutputName9=Text Print
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Text Print
+OutputName10=Text Print
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Text Print
+OutputName11=Text Print
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Text Print
+OutputName12=Text Print
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=Text Print
+OutputName13=Text Print
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType14=Text Print
+OutputName14=Text Print
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType15=Text Print
+OutputName15=Text Print
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType16=Text Print
+OutputName16=Text Print
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType17=Text Print
+OutputName17=Text Print
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType18=Text Print
+OutputName18=Text Print
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType19=Text Print
+OutputName19=Text Print
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType20=Text Print
+OutputName20=Text Print
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType21=Text Print
+OutputName21=Text Print
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType22=Text Print
+OutputName22=Text Print
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType23=Text Print
+OutputName23=Text Print
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType24=Text Print
+OutputName24=Text Print
+OutputDocumentPath24=
+OutputVariantName24=
+OutputDefault24=0
+PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType25=Text Print
+OutputName25=Text Print
+OutputDocumentPath25=
+OutputVariantName25=
+OutputDefault25=0
+PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType26=Text Print
+OutputName26=Text Print
+OutputDocumentPath26=
+OutputVariantName26=
+OutputDefault26=0
+PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType27=Text Print
+OutputName27=Text Print
+OutputDocumentPath27=
+OutputVariantName27=
+OutputDefault27=0
+PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType28=Text Print
+OutputName28=Text Print
+OutputDocumentPath28=
+OutputVariantName28=
+OutputDefault28=0
+PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType29=Text Print
+OutputName29=Text Print
+OutputDocumentPath29=
+OutputVariantName29=
+OutputDefault29=0
+PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=FreePDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Component states check
+OutputName1=Vault's components states check
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=Configuration compliance
+OutputName2=Environment configuration compliance check
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=Design Rules Check
+OutputName3=Design Rules Check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType4=Differences Report
+OutputName4=Differences Report
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType5=Electrical Rules Check
+OutputName5=Electrical Rules Check
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType6=Footprint Comparison Report
+OutputName6=Footprint Comparison Report
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=FreePDF
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=AutoCAD dwg/dxf PCB
+OutputName1=AutoCAD dwg/dxf File PCB
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf Schematic
+OutputName2=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=ExportIDF
+OutputName3=Export IDF
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportSTEP
+OutputName4=Export STEP
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=NetList Sch
+OutputName5=NetList Sch
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=2
+Type12=2
+Type13=2
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=2
+Type26=2
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=2
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=1
+Type45=2
+Type46=1
+Type47=2
+Type48=2
+Type49=1
+Type50=2
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=2
+Type60=1
+Type61=2
+Type62=2
+Type63=1
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=2
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=1
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNWNNNWW
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNN
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NWEENEENEEENNEENN
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
+L11=NNENNNNEEENWNENWN
+L12=WWWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NWEENEEEENEWNEEWW
+L15=NNENNNNEEENWNENWW
+L16=WWWWNWWNWWWNWWWNW
+L17=WNNNNNNNWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+
+[PrjClassGen]
+CompClassManualEnabled=0
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=1
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=1
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Capacitors.IntLib
+ComponentDesignItemID0=100nF_50V_THT_HT
+ComponentSymbolReference0=100nF_50V_THT_HT
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=Capacitors.IntLib
+ComponentDesignItemID1=470pF_200V_THT_HT
+ComponentSymbolReference1=470pF_200V_THT_HT
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Capacitors.IntLib
+ComponentDesignItemID2=47nF_50V_THT_HT
+ComponentSymbolReference2=47nF_50V_THT_HT
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Capacitors.IntLib
+ComponentDesignItemID3=Capacitor-Dummy-THT
+ComponentSymbolReference3=Capacitor-Dummy-THT
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Connectors.IntLib
+ComponentDesignItemID4=2Pol_1715721
+ComponentSymbolReference4=2Pol_1715721
+ComponentUpdate4=0
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=Connectors.IntLib
+ComponentDesignItemID5=Plug_08_2.54
+ComponentSymbolReference5=Plug_08_2.54
+ComponentUpdate5=0
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=Connectors.IntLib
+ComponentDesignItemID6=Plug_2_180_2.54
+ComponentSymbolReference6=Plug_2_180_2.54
+ComponentUpdate6=0
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=Connectors.IntLib
+ComponentDesignItemID7=Plug_3_90_2.54
+ComponentSymbolReference7=Plug_3_90_2.54
+ComponentUpdate7=0
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=ICs.IntLib
+ComponentDesignItemID8=CHT_TIT3345E_CSOIC28_T
+ComponentSymbolReference8=CHT_TIT3345E_CSOIC28_T
+ComponentUpdate8=0
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=ICs.IntLib
+ComponentDesignItemID9=Om
+ComponentSymbolReference9=Om
+ComponentUpdate9=0
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=ICs.IntLib
+ComponentDesignItemID10=SN7400N
+ComponentSymbolReference10=SN7400N
+ComponentUpdate10=0
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=Resistors.IntLib
+ComponentDesignItemID11=Resistor-Dummy-THT
+ComponentSymbolReference11=Resistor-Dummy-THT
+ComponentUpdate11=0
+ComponentIsDeviceSheet11=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=1
+DoModels=1
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Deliverer
+ParameterUpdate2=1
+ParameterName3=Deliverer PartNr
+ParameterUpdate3=1
+ParameterName4=Description
+ParameterUpdate4=1
+ParameterName5=LatestRevisionDate
+ParameterUpdate5=1
+ParameterName6=LatestRevisionNote
+ParameterUpdate6=1
+ParameterName7=Library Reference
+ParameterUpdate7=1
+ParameterName8=Manufacturer
+ParameterUpdate8=1
+ParameterName9=Manufacturer PartNr
+ParameterUpdate9=1
+ParameterName10=PackageDescription
+ParameterUpdate10=1
+ParameterName11=Part Description
+ParameterUpdate11=1
+ParameterName12=Part Desicription
+ParameterUpdate12=1
+ParameterName13=Price
+ParameterUpdate13=1
+ParameterName14=Published
+ParameterUpdate14=1
+ParameterName15=Publisher
+ParameterUpdate15=1
+ParameterName16=TDE-PN
+ParameterUpdate16=1
+ParameterName17=Value
+ParameterUpdate17=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=DIP-14
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=Dummy-10mm
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=Dummy-15mm
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=HDR1X2
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=HDR1X3
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=HDR1X8_2.54
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=KEMET-C052H
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=Om-5mm
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=Phoenix-2-5_08
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=SOIC28
+ModelUpdate9=1
+ModelTypeGroup1=SI
+ModelTypeUpdate1=1
+ModelType10=SI
+ModelName10=Cap
+ModelUpdate10=1
+ModelType11=SI
+ModelName11=Connector
+ModelUpdate11=1
+ModelType12=SI
+ModelName12=Res
+ModelUpdate12=1
+ModelTypeGroup2=SIM
+ModelTypeUpdate2=1
+ModelType13=SIM
+ModelName13=CAP
+ModelUpdate13=1
+ModelType14=SIM
+ModelName14=RESISTOR
+ModelUpdate14=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+PartTypes=0
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Code Memory|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration_Name1=OutputConfigurationParameter1
+Configuration_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration_Name2=OutputConfigurationParameter2
+Configuration_Item2=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration_Name3=OutputConfigurationParameter3
+Configuration_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name4=OutputConfigurationParameter4
+Configuration_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name5=OutputConfigurationParameter5
+Configuration_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name6=OutputConfigurationParameter6
+Configuration_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name7=OutputConfigurationParameter7
+Configuration_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name8=OutputConfigurationParameter8
+Configuration_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name9=OutputConfigurationParameter9
+Configuration_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name10=OutputConfigurationParameter10
+Configuration_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical31|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration_Name11=OutputConfigurationParameter11
+Configuration_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical32|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+

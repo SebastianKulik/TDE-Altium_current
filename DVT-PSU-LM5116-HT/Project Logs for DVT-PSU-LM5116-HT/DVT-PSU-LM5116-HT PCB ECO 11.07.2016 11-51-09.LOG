@@ -1,0 +1,17 @@
+Change Component DesignItemId : Designator=R4 Old DesignItemId=12k4_2010-HT New DesignItemId=Resistor-Dummy-THT
+Change Component DesignItemId : Designator=C4 Old DesignItemId=100pF_100V_1210_HT New DesignItemId=Capacitor-Dummy-THT
+Change Component Footprint: Designator=C4 Old Footprint=C1210 New Footprint=Dummy-10mm
+Change Component Footprint: Designator=R4 Old Footprint=R2010 New Footprint=Dummy-10mm
+Change Component Comment : Designator=R4 Old Comment=12k4_2010-HT New Comment=Resistor-Dummy-THT
+Change Component Comment : Designator=C4 Old Comment=100pF_100V_1210_HT New Comment=Capacitor-Dummy-THT
+Added Component: Designator=C5(Dummy-10mm)
+Added Component: Designator=R5(Dummy-10mm)
+Added Pin To Net: NetName=NetR-FB1_2 Pin=C4-2
+Added Pin To Net: NetName=NetR-FB1_2 Pin=C5-2
+Added Pin To Net: NetName=NetC4_1 Pin=R5-2
+Change Net Name : Old Net Name=NetR-FB1_2 New Net Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R5-1
+Added Net: Name=NetC5_1
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component C5 Capacitor-Dummy-THT
+Added Member To Class: ClassName=DVT-PSU-LM5116-HT_1 Member=Component R5 Resistor-Dummy-THT

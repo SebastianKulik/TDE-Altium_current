@@ -1,0 +1,28 @@
+Added Component: Designator=5Vcc(Phoenix-2-5_08)
+Added Component: Designator=INPUT(Phoenix-2-5_08)
+Added Component: Designator=J1(HDR1X3)
+Added Component: Designator=OUT(Phoenix-2-5_08)
+Added Pin To Net: NetName=VCC Pin=5Vcc-1
+Added Pin To Net: NetName=GND Pin=5Vcc-2
+Added Pin To Net: NetName=GND Pin=OUT-2
+Added Pin To Net: NetName=NetINPUT_1 Pin=INPUT-1
+Added Pin To Net: NetName=NetINPUT_1 Pin=U1-4
+Added Net: Name=NetINPUT_1
+Added Pin To Net: NetName=NetINPUT_2 Pin=INPUT-2
+Added Pin To Net: NetName=NetINPUT_2 Pin=U1-5
+Added Net: Name=NetINPUT_2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U2-3
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=OUT-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=U1-9
+Added Pin To Net: NetName=NetJ1_3 Pin=U2-1
+Added Pin To Net: NetName=NetJ1_3 Pin=U2-2
+Added Net: Name=NetJ1_3
+Added Member To Class: ClassName=DVT-Volga Member=Component 5Vcc PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Volga Member=Component INPUT PHOENIX_1715721
+Added Member To Class: ClassName=DVT-Volga Member=Component J1 Header-3
+Added Member To Class: ClassName=DVT-Volga Member=Component OUT PHOENIX_1715721

@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=R1 Old DesignItemId=1M_2010-HT New DesignItemId=Resistor-Dummy-THT
+Change Component DesignItemId : Designator=R2 Old DesignItemId=21k_2010-HT New DesignItemId=Resistor-Dummy-THT
+Change Component Footprint: Designator=R1 Old Footprint=R2010 New Footprint=Dummy-10mm
+Change Component Footprint: Designator=R2 Old Footprint=R2010 New Footprint=Dummy-10mm
+Change Component Comment : Designator=R1 Old Comment=1M_2010-HT New Comment=Resistor-Dummy-THT
+Change Component Comment : Designator=R2 Old Comment=21k_2010-HT New Comment=Resistor-Dummy-THT

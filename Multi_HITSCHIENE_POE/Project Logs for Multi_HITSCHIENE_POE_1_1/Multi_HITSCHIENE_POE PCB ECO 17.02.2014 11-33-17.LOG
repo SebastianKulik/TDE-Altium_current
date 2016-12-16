@@ -1,0 +1,34 @@
+Added Component: Designator=C5(C1210)
+Added Component: Designator=C17(Panasonic-H13)
+Added Component: Designator=D1(SOD123)
+Added Component: Designator=D3(DO214A)
+Added Component: Designator=JP3(HDR1X2)
+Added Component: Designator=JP7(HDR1X2)
+Added Component: Designator=L2(WE-PD2_1)
+Added Component: Designator=U6(AG-9412-S)
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=JP7-2
+Added Pin To Net: NetName=GND Pin=U6-7
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=D1-2
+Added Pin To Net: NetName=NetC5_1 Pin=L2-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_1 Pin=L2-1
+Added Pin To Net: NetName=NetC17_1 Pin=U6-8
+Added Net: Name=NetC17_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=JP7-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=JP3-2
+Added Pin To Net: NetName=NetD3_1 Pin=U6-1
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=JP3-1
+Added Pin To Net: NetName=NetD3_2 Pin=U6-2
+Added Net: Name=NetD3_2
+Added Class: Name=Multi_HITSCHIENE_POE
+Added Room: Name=Multi_HITSCHIENE_POE

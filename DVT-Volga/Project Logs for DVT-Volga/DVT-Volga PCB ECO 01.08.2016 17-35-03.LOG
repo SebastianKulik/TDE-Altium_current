@@ -1,0 +1,9 @@
+Added Component: Designator=U1(TDFP16)
+Added Component: Designator=U2(DIP-14)
+Added Pin To Net: NetName=VCC Pin=U1-1
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=VCC Pin=U1-11
+Added Pin To Net: NetName=VCC Pin=U1-17
+Added Net: Name=VCC
+Added Class: Name=DVT-Volga
+Added Room: Name=DVT-Volga

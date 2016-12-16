@@ -1,0 +1,519 @@
+*************************************************************
+FileName = ATmega32_ComServ.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top
+      File : ATmega32_ComServ.GTL
+
+    Adding Layer      : Top
+
+    Adding Layer      : Dimension
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom
+      File : ATmega32_ComServ.GBL
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Dimension
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D16
+    D18
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ATmega32_ComServ.GPB
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D14
+    D16
+    D18
+    D20
+    D25
+    D26
+    D27
+    D28
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ATmega32_ComServ.GPT
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ATmega32_ComServ.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D22
+    D25
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ATmega32_ComServ.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Dimension
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ATmega32_ComServ.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Dimension
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ATmega32_ComServ.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Dimension
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D45
+    D47
+    D49
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ATmega32_ComServ.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Dimension
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D16
+    D18
+    D20
+    D25
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ATmega32_ComServ.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D10
+    D22
+    D25
+    D33
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ATmega32_ComServ.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Dimension
+      File : ATmega32_ComServ.GM1
+
+    Adding Layer      : Dimension
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D25
+*************************************************************
+
+*************************************************************
+Generating : tNames
+      File : ATmega32_ComServ.GM2
+
+    Adding Layer      : tNames
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D25
+*************************************************************
+
+*************************************************************
+Generating : bNames
+      File : ATmega32_ComServ.GM3
+
+    Adding Layer      : bNames
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D25
+*************************************************************
+
+*************************************************************
+Generating : tValues
+      File : ATmega32_ComServ.GM4
+
+    Adding Layer      : tValues
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D25
+*************************************************************
+
+*************************************************************
+Generating : bValues
+      File : ATmega32_ComServ.GM5
+
+    Adding Layer      : bValues
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D25
+*************************************************************
+
+*************************************************************
+Generating : tGlue
+      File : ATmega32_ComServ.GM6
+
+    Adding Layer      : tGlue
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D25
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : bGlue
+      File : ATmega32_ComServ.GM7
+
+    Adding Layer      : bGlue
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D25
+    D59
+    D60
+    D62
+    D64
+*************************************************************
+
+*************************************************************
+Generating : vRestrict
+      File : ATmega32_ComServ.GM10
+
+    Adding Layer      : vRestrict
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D25
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : tDocu
+      File : ATmega32_ComServ.GM16
+
+    Adding Layer      : tDocu
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D25
+    D33
+    D35
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+*************************************************************
+
+*************************************************************
+Generating : tKeepout
+      File : ATmega32_ComServ.GM27
+
+    Adding Layer      : tKeepout
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D25
+    D99
+*************************************************************
+
+*************************************************************
+Generating : bKeepout
+      File : ATmega32_ComServ.GM28
+
+    Adding Layer      : bKeepout
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D25
+    D99
+*************************************************************
+
+*************************************************************
+Generating : bDocu
+      File : ATmega32_ComServ.GM30
+
+    Adding Layer      : bDocu
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D25
+    D33
+    D68
+    D69
+    D70
+    D74
+    D86
+    D87
+    D98
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+*************************************************************
+

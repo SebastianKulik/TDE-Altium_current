@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=2Pol_1715721 New DesignItemId=Plug_2_90_2.54
+Change Component DesignItemId : Designator=J2 Old DesignItemId=2Pol_1715721 New DesignItemId=Plug_2_90_2.54
+Change Component DesignItemId : Designator=J3 Old DesignItemId=2Pol_1715721 New DesignItemId=Plug_2_90_2.54
+Change Component DesignItemId : Designator=J4 Old DesignItemId=2Pol_1715721 New DesignItemId=Plug_2_90_2.54
+Change Component Footprint: Designator=J1 Old Footprint=Phoenix-2-5_08 New Footprint=HDR1X2
+Change Component Footprint: Designator=J2 Old Footprint=Phoenix-2-5_08 New Footprint=HDR1X2
+Change Component Footprint: Designator=J3 Old Footprint=Phoenix-2-5_08 New Footprint=HDR1X2
+Change Component Footprint: Designator=J4 Old Footprint=Phoenix-2-5_08 New Footprint=HDR1X2

@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: C:\Users\Sebastians\Documents\ExodusAmps\TDE-Altium\12_Stromkupplung\EAGLE\Imported DAU_Kupplung_1_phasig_V1_16.PrjPcb\DAU_Kupplung_1_phasig_V1_16.PcbDoc
+RuleKind=Clearance|RuleName=mdViaVia|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=mdPadVia|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=mdPadPad|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=mdWireVia|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=mdWirePad|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=mdWireWire|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

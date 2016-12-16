@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: C:\Users\Sebastians\Documents\ExodusAmps\TDE-Altium\12_Stromkupplung\Messender Master_DAU_Kupplung_3phasig\Imported ATmega32_ComServ.PrjPcb\ATmega32_ComServ.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.92
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.92
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
+RuleKind=Clearance|RuleName=mdWireWire|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=mdWirePad|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=mdWireVia|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=mdPadPad|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=mdPadVia|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=mdViaVia|Scope=Board|Minimum=4.92

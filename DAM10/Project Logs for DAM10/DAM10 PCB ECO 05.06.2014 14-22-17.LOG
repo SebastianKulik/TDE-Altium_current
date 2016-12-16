@@ -1,0 +1,5 @@
+Change Class Name : Old Net Name=DAMXX_Ethernet New Net Name=DAM10_Ethernet
+Change Class Name : Old Net Name=DMAXX_Control New Net Name=DAM10_Control
+Change Room Name: Old Name=DMAXX_Control New Name=DAM10_Ethernet
+Change Room Scope: Old Scope=InComponentClass('DMAXX_Control') New Scope=InComponentClass('DAM10_Ethernet')
+Added Room: Name=DAM10_Control

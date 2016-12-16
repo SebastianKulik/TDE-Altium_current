@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Pin From Net: NetName=12V Pin=D2-1
+Removed Pin From Net: NetName=NetD3_1 Pin=J1-9
+Removed Pin From Net: NetName=NetD3_2 Pin=J1-10
+Removed Pin From Net: NetName=12V Pin=U9-1
+Removed Pin From Net: NetName=GND Pin=U9-2
+Removed Pin From Net: NetName=GND Pin=U10-2
+Removed Pin From Net: NetName=GND Pin=X2-1
+Added Component: Designator=L?(WE-SCC_7345)
+Added Pin To Net: NetName=NetD3_2 Pin=L?-3
+Added Pin To Net: NetName=NetD3_1 Pin=L?-4
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=C15-2
+Added Pin To Net: NetName=NetC13_2 Pin=C35-2
+Added Pin To Net: NetName=NetC13_2 Pin=C36-2
+Added Pin To Net: NetName=NetC13_2 Pin=U9-2
+Added Pin To Net: NetName=NetC13_2 Pin=X2-1
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=U10-2
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=U9-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetJ1_9 Pin=J1-9
+Added Pin To Net: NetName=NetJ1_9 Pin=L?-2
+Added Net: Name=NetJ1_9
+Added Pin To Net: NetName=NetJ1_10 Pin=J1-10
+Added Pin To Net: NetName=NetJ1_10 Pin=L?-1
+Added Net: Name=NetJ1_10
+Added Member To Class: ClassName=MMC_2_4_PSU Member=Component L? 1000R1A-SCC
